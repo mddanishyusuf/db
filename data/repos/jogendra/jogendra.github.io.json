@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jogendra/jogendra.github.io/languages",
   "pulls_url": "https://api.github.com/repos/jogendra/jogendra.github.io/pulls{/number}",
   "created_at": "2017-06-11T08:57:00Z",
-  "updated_at": "2018-09-13T07:18:23Z",
-  "pushed_at": "2018-09-13T07:18:21Z",
+  "updated_at": "2018-09-14T18:31:02Z",
+  "pushed_at": "2018-09-14T18:37:31Z",
   "homepage": "https://jogendra.github.io/",
-  "size": 26460,
+  "size": 26509,
   "stargazers_count": 6,
   "language": "CSS",
   "mirror_url": null,
@@ -23,7 +23,7 @@
   "default_branch": "master",
   "contributors": {
     "imjog": 201,
-    "jogendra": 206
+    "jogendra": 208
   },
   "pulls_authors": [
     "imjog",
@@ -35,7 +35,7 @@
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 37005,
+      "bytes": 37211,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -43,5 +43,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-13T16:33:25.415Z"
+  "fetched_at": "2018-09-14T19:46:45.021Z"
 }

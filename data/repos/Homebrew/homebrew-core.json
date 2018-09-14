@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-core/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-core/pulls{/number}",
   "created_at": "2016-03-01T06:58:36Z",
-  "updated_at": "2018-09-14T08:13:25Z",
-  "pushed_at": "2018-09-14T08:11:07Z",
+  "updated_at": "2018-09-14T19:31:07Z",
+  "pushed_at": "2018-09-14T19:30:34Z",
   "homepage": "https://brew.sh",
-  "size": 204083,
+  "size": 204328,
   "stargazers_count": 4263,
   "language": "Ruby",
   "mirror_url": null,
@@ -48,16 +48,16 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46831,
+    "BrewTestBot": 46847,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
     "DomT4": 3438,
     "MikeMcQuaid": 3406,
     "asparagui": 2056,
-    "vszakats": 2030,
+    "vszakats": 2038,
     "tschoonj": 1069,
-    "fxcoudert": 1154,
+    "fxcoudert": 1201,
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
@@ -70,7 +70,7 @@
     "mxcl": 415,
     "Sharpie": 400,
     "tdsmith": 353,
-    "lembacon": 378,
+    "lembacon": 383,
     "0xffea": 274,
     "apjanke": 272,
     "afh": 249,
@@ -189,7 +189,7 @@
     "avsej": 31,
     "tedpennings": 31,
     "s172262": 31,
-    "bayandin": 30,
+    "bayandin": 31,
     "arnested": 30,
     "jdelisle": 30,
     "benjaminfrank": 30,
@@ -255,7 +255,7 @@
     "mdippery": 22,
     "robinkunde": 22,
     "ttaylorr": 22,
-    "eed3si9n": 22,
+    "eed3si9n": 23,
     "404NetworkError": 22,
     "amscotti": 21,
     "gabelevi": 21,
@@ -276,7 +276,7 @@
     "stevemao": 20,
     "scpeters": 20,
     "tobiasbrunner": 20,
-    "flow-bot": 20,
+    "flow-bot": 21,
     "afb": 20,
     "docwhat": 20,
     "aw1621107": 20,
@@ -3909,11 +3909,13 @@
     "jschlyter",
     "novak",
     "yfguo",
-    "openset"
+    "openset",
+    "jhcsu",
+    "dongjoon-hyun"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8347818,
+      "bytes": 8343055,
       "color": "#701516"
     },
     "Perl": {
@@ -3921,5 +3923,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-14T08:19:30.797Z"
+  "fetched_at": "2018-09-14T19:36:03.784Z"
 }

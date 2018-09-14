@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/redhat-developer/vscode-yaml/languages",
   "pulls_url": "https://api.github.com/repos/redhat-developer/vscode-yaml/pulls{/number}",
   "created_at": "2017-05-19T18:37:20Z",
-  "updated_at": "2018-09-12T15:26:55Z",
+  "updated_at": "2018-09-14T19:29:24Z",
   "pushed_at": "2018-09-12T15:26:54Z",
   "homepage": "",
-  "size": 25476,
-  "stargazers_count": 65,
+  "size": 25503,
+  "stargazers_count": 66,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -72,5 +72,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T15:48:29.821Z"
+  "fetched_at": "2018-09-14T19:49:16.748Z"
 }

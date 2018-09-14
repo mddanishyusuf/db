@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/pypa/setuptools/languages",
   "pulls_url": "https://api.github.com/repos/pypa/setuptools/pulls{/number}",
   "created_at": "2016-03-29T14:02:33Z",
-  "updated_at": "2018-09-14T07:14:23Z",
-  "pushed_at": "2018-09-13T09:08:01Z",
+  "updated_at": "2018-09-14T19:15:13Z",
+  "pushed_at": "2018-09-14T19:18:11Z",
   "homepage": "https://pypi.python.org/pypi/setuptools",
   "size": 34192,
   "stargazers_count": 628,
@@ -147,7 +147,7 @@
     "benoit-pierre": 65,
     "ptthiem": 74,
     "tarekziade": 81,
-    "jaraco": 3705,
+    "jaraco": 3707,
     "invalid-email-address": 277,
     "ianw": 2,
     "Zelgius": 2,
@@ -402,7 +402,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 859560,
+      "bytes": 859535,
       "color": "#3572A5"
     },
     "C": {
@@ -418,5 +418,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T08:30:32.858Z"
+  "fetched_at": "2018-09-14T19:48:01.704Z"
 }

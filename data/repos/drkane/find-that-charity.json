@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/drkane/find-that-charity/languages",
   "pulls_url": "https://api.github.com/repos/drkane/find-that-charity/pulls{/number}",
   "created_at": "2017-06-05T09:27:15Z",
-  "updated_at": "2018-09-12T16:20:21Z",
-  "pushed_at": "2018-09-12T16:20:20Z",
+  "updated_at": "2018-09-14T11:51:26Z",
+  "pushed_at": "2018-09-14T19:34:43Z",
   "homepage": null,
-  "size": 1715,
-  "stargazers_count": 5,
+  "size": 2584,
+  "stargazers_count": 6,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -24,7 +24,7 @@
   "contributors": {
     "robredpath": 2,
     "BobHarper1": 20,
-    "drkane": 117
+    "drkane": 119
   },
   "pulls_authors": [
     "BobHarper1",
@@ -32,15 +32,15 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 75173,
+      "bytes": 75709,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 37634,
+      "bytes": 39033,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 22993,
+      "bytes": 23485,
       "color": "#e34c26"
     },
     "CSS": {
@@ -48,5 +48,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T16:39:19.010Z"
+  "fetched_at": "2018-09-14T19:43:27.949Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/moul/docker-binfmt-register/languages",
   "pulls_url": "https://api.github.com/repos/moul/docker-binfmt-register/pulls{/number}",
   "created_at": "2015-06-10T18:45:01Z",
-  "updated_at": "2018-05-09T08:16:28Z",
+  "updated_at": "2018-09-14T19:10:15Z",
   "pushed_at": "2018-08-18T16:12:33Z",
   "homepage": "",
   "size": 1086,
-  "stargazers_count": 4,
+  "stargazers_count": 6,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -28,5 +28,5 @@
     "renovate[bot]"
   ],
   "languages": {},
-  "fetched_at": "2018-09-05T13:07:33.479Z"
+  "fetched_at": "2018-09-14T19:52:48.721Z"
 }

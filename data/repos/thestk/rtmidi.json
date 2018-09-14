@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/thestk/rtmidi/languages",
   "pulls_url": "https://api.github.com/repos/thestk/rtmidi/pulls{/number}",
   "created_at": "2013-10-11T13:41:17Z",
-  "updated_at": "2018-09-09T05:33:23Z",
-  "pushed_at": "2018-09-05T04:48:41Z",
+  "updated_at": "2018-09-14T13:58:38Z",
+  "pushed_at": "2018-09-14T13:58:36Z",
   "homepage": "",
-  "size": 1392,
+  "size": 1416,
   "stargazers_count": 281,
   "language": "C++",
   "mirror_url": null,
@@ -73,7 +73,7 @@
     "jgvictores": 13,
     "umlaeute": 14,
     "garyscavone": 62,
-    "radarsat1": 73
+    "radarsat1": 76
   },
   "pulls_authors": [
     "jpcima",
@@ -120,7 +120,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 161939,
+      "bytes": 162133,
       "color": "#f34b7d"
     },
     "Go": {
@@ -148,5 +148,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:47:49.772Z"
+  "fetched_at": "2018-09-14T19:48:46.440Z"
 }

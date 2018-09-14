@@ -69,7 +69,7 @@
     "nuxt/nuxt.js": {
       "full_name": "nuxt/nuxt.js",
       "name": "nuxt.js",
-      "stargazers_count": 14742,
+      "stargazers_count": 14752,
       "popularity": 5,
       "percentage": 0.03284072249589491,
       "maturity": 4.479595189439744,
@@ -95,7 +95,7 @@
     "standard/standard": {
       "full_name": "standard/standard",
       "name": "standard",
-      "stargazers_count": 19116,
+      "stargazers_count": 19124,
       "popularity": 5,
       "percentage": 0.14587892049598833,
       "maturity": 4.125946871863987,
@@ -147,13 +147,13 @@
     "hemanth/functional-programming-jargon": {
       "full_name": "hemanth/functional-programming-jargon",
       "name": "functional-programming-jargon",
-      "stargazers_count": 12154,
+      "stargazers_count": 12153,
       "popularity": 5,
       "percentage": 0.6756756756756757,
       "maturity": 3.035560409551506,
       "total_commits_count": 148,
-      "activity": 1.713342281123575,
-      "total_score": 23.223652289415774,
+      "activity": 1.7104386069218496,
+      "total_score": 23.22074861521405,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

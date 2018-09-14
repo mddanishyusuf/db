@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/bbrks/hugo-gruvbox-theme/languages",
   "pulls_url": "https://api.github.com/repos/bbrks/hugo-gruvbox-theme/pulls{/number}",
   "created_at": "2017-09-08T00:59:14Z",
-  "updated_at": "2018-05-21T11:26:41Z",
-  "pushed_at": "2018-08-30T23:33:45Z",
+  "updated_at": "2018-09-14T10:58:34Z",
+  "pushed_at": "2018-09-14T10:58:33Z",
   "homepage": "https://bbrks.me",
-  "size": 433,
+  "size": 434,
   "stargazers_count": 1,
   "language": "HTML",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "bbrks": 12
+    "bbrks": 13
   },
   "pulls_authors": [],
   "languages": {
@@ -41,5 +41,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:57:37.307Z"
+  "fetched_at": "2018-09-14T19:38:40.113Z"
 }

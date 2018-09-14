@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/knadh/localStorageDB/languages",
   "pulls_url": "https://api.github.com/repos/knadh/localStorageDB/pulls{/number}",
   "created_at": "2011-09-19T22:55:03Z",
-  "updated_at": "2018-09-12T13:26:06Z",
+  "updated_at": "2018-09-14T14:09:20Z",
   "pushed_at": "2018-08-14T05:50:35Z",
   "homepage": "http://nadh.in/code/localstoragedb",
   "size": 118,
-  "stargazers_count": 596,
+  "stargazers_count": 597,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -65,5 +65,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T00:19:16.212Z"
+  "fetched_at": "2018-09-14T20:36:06.768Z"
 }

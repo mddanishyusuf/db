@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/ipfs/interface-ipfs-core/languages",
   "pulls_url": "https://api.github.com/repos/ipfs/interface-ipfs-core/pulls{/number}",
   "created_at": "2016-05-11T10:30:47Z",
-  "updated_at": "2018-09-13T13:40:50Z",
-  "pushed_at": "2018-09-12T09:23:55Z",
+  "updated_at": "2018-09-14T12:26:00Z",
+  "pushed_at": "2018-09-14T12:26:00Z",
   "homepage": null,
   "size": 15873,
   "stargazers_count": 122,
@@ -87,7 +87,7 @@
     "noffle": 12,
     "richardschneider": 14,
     "greenkeeperio-bot": 16,
-    "achingbrain": 17,
+    "achingbrain": 18,
     "hacdias": 17,
     "dignifiedquire": 18,
     "alanshaw": 101,
@@ -154,5 +154,5 @@
       "color": "#e69f56"
     }
   },
-  "fetched_at": "2018-09-13T23:54:23.776Z"
+  "fetched_at": "2018-09-14T19:51:52.820Z"
 }

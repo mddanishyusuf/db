@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mkg20001/libp2p-nodetrust/languages",
   "pulls_url": "https://api.github.com/repos/mkg20001/libp2p-nodetrust/pulls{/number}",
   "created_at": "2017-10-29T11:33:32Z",
-  "updated_at": "2018-08-25T12:54:10Z",
-  "pushed_at": "2018-08-25T12:54:09Z",
+  "updated_at": "2018-09-14T12:18:42Z",
+  "pushed_at": "2018-09-14T12:18:41Z",
   "homepage": "https://libp2p-nodetrust.tk/demo",
-  "size": 422,
+  "size": 369,
   "stargazers_count": 7,
   "language": "JavaScript",
   "mirror_url": null,
@@ -22,14 +22,14 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "mkg20001": 196
+    "mkg20001": 199
   },
   "pulls_authors": [
     "mkg20001"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 48436,
+      "bytes": 48202,
       "color": "#f1e05a"
     },
     "Dockerfile": {
@@ -41,5 +41,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T23:54:20.426Z"
+  "fetched_at": "2018-09-14T19:51:49.254Z"
 }

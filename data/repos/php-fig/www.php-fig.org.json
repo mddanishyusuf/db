@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/php-fig/www.php-fig.org/languages",
   "pulls_url": "https://api.github.com/repos/php-fig/www.php-fig.org/pulls{/number}",
   "created_at": "2012-06-25T15:34:50Z",
-  "updated_at": "2018-08-27T13:59:01Z",
+  "updated_at": "2018-09-14T14:09:33Z",
   "pushed_at": "2018-08-27T13:59:00Z",
   "homepage": "http://www.php-fig.org",
   "size": 1128,
-  "stargazers_count": 109,
+  "stargazers_count": 110,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -247,5 +247,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T04:56:52.775Z"
+  "fetched_at": "2018-09-14T19:37:43.630Z"
 }

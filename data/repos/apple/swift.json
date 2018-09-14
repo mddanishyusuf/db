@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-14T08:24:33Z",
-  "pushed_at": "2018-09-14T08:05:27Z",
+  "updated_at": "2018-09-14T19:51:24Z",
+  "pushed_at": "2018-09-14T19:12:04Z",
   "homepage": "https://swift.org",
-  "size": 338401,
-  "stargazers_count": 45178,
+  "size": 338764,
+  "stargazers_count": 45186,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -95,10 +95,10 @@
     "stormbrew": 98,
     "nathawes": 159,
     "gregomni": 142,
-    "mikeash": 167,
+    "mikeash": 169,
     "phausler": 126,
-    "palimondo": 122,
-    "harlanhaskins": 168,
+    "palimondo": 150,
+    "harlanhaskins": 169,
     "vedantk": 185,
     "mxswd": 157,
     "dcci": 204,
@@ -117,16 +117,16 @@
     "CodaFi": 256,
     "jopamer": 277,
     "AnnaZaks": 290,
-    "davidungar": 457,
+    "davidungar": 464,
     "milseman": 546,
-    "compnerd": 572,
+    "compnerd": 574,
     "gparker42": 458,
     "graydon": 519,
     "tkremenek": 655,
     "xedin": 722,
     "trentxintong": 590,
     "rintaro": 685,
-    "benlangmuir": 730,
+    "benlangmuir": 735,
     "bitjammer": 703,
     "davezarzycki": 722,
     "moiseev": 890,
@@ -142,14 +142,14 @@
     "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3382,
+    "jrose-apple": 3386,
     "gottesmm": 3584,
     "slavapestov": 4243,
     "gribozavr": 4444,
     "jckarter": 4293,
     "lattner": 4536,
     "DougGregor": 6138,
-    "swift-ci": 10622,
+    "swift-ci": 10623,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -199,7 +199,7 @@
     "sparkasaurusRex": 10,
     "regnerjr": 10,
     "keith": 10,
-    "rajbarik": 13,
+    "rajbarik": 16,
     "gibachan": 10,
     "millenomi": 10,
     "bryanpkc": 9,
@@ -1319,11 +1319,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30332800,
+      "bytes": 30347813,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24702627,
+      "bytes": 24708667,
       "color": "#ffac45"
     },
     "Python": {
@@ -1331,7 +1331,7 @@
       "color": "#3572A5"
     },
     "CMake": {
-      "bytes": 466640,
+      "bytes": 466690,
       "color": "#ccc"
     },
     "Objective-C": {
@@ -1387,5 +1387,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-14T08:37:53.272Z"
+  "fetched_at": "2018-09-14T19:54:48.242Z"
 }

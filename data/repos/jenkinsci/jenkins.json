@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jenkinsci/jenkins/languages",
   "pulls_url": "https://api.github.com/repos/jenkinsci/jenkins/pulls{/number}",
   "created_at": "2010-11-22T21:21:23Z",
-  "updated_at": "2018-09-14T08:08:52Z",
-  "pushed_at": "2018-09-13T15:52:38Z",
+  "updated_at": "2018-09-14T18:48:22Z",
+  "pushed_at": "2018-09-14T17:29:37Z",
   "homepage": "https://jenkins.io/",
-  "size": 108847,
-  "stargazers_count": 11125,
+  "size": 108861,
+  "stargazers_count": 11126,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -128,7 +128,7 @@
     "KostyaSha": 61,
     "ohtake": 62,
     "christ66": 74,
-    "jtnord": 103,
+    "jtnord": 105,
     "kzantow": 89,
     "abayer": 109,
     "albers": 110,
@@ -1125,11 +1125,12 @@
     "mleinart",
     "zigarn",
     "cleibersilva",
-    "runzexia"
+    "runzexia",
+    "mil1200"
   ],
   "languages": {
     "Java": {
-      "bytes": 9824017,
+      "bytes": 9824212,
       "color": "#b07219"
     },
     "HTML": {
@@ -1169,5 +1170,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-14T09:10:09.148Z"
+  "fetched_at": "2018-09-14T20:34:51.408Z"
 }

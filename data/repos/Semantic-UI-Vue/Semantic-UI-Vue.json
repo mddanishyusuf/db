@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Semantic-UI-Vue/Semantic-UI-Vue/languages",
   "pulls_url": "https://api.github.com/repos/Semantic-UI-Vue/Semantic-UI-Vue/pulls{/number}",
   "created_at": "2017-08-25T10:11:54Z",
-  "updated_at": "2018-09-13T17:33:45Z",
-  "pushed_at": "2018-09-12T05:58:41Z",
+  "updated_at": "2018-09-14T12:57:13Z",
+  "pushed_at": "2018-09-14T12:57:11Z",
   "homepage": "https://semantic-ui-vue.github.io",
-  "size": 2333,
+  "size": 2311,
   "stargazers_count": 518,
   "language": "JavaScript",
   "mirror_url": null,
@@ -84,7 +84,8 @@
     "domcorvasce": 5,
     "akmittal": 5,
     "ArStah": 42,
-    "mariolamacchia": 317
+    "mariolamacchia": 319,
+    "sinkersan": 1
   },
   "pulls_authors": [
     "mariolamacchia",
@@ -133,7 +134,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 249204,
+      "bytes": 251870,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -141,5 +142,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T00:18:10.181Z"
+  "fetched_at": "2018-09-14T20:34:55.519Z"
 }

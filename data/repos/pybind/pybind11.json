@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pybind/pybind11/languages",
   "pulls_url": "https://api.github.com/repos/pybind/pybind11/pulls{/number}",
   "created_at": "2015-07-05T19:46:48Z",
-  "updated_at": "2018-09-14T07:30:08Z",
-  "pushed_at": "2018-09-11T22:20:57Z",
+  "updated_at": "2018-09-14T14:13:22Z",
+  "pushed_at": "2018-09-14T12:28:54Z",
   "homepage": "",
-  "size": 3806,
-  "stargazers_count": 3971,
+  "size": 3808,
+  "stargazers_count": 3974,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,8 @@
     "aldanor": 137,
     "dean0x7d": 198,
     "jagerman": 293,
-    "wjakob": 361
+    "wjakob": 362,
+    "davisking": 1
   },
   "pulls_authors": [
     "wjakob",
@@ -320,7 +321,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 833796,
+      "bytes": 833911,
       "color": "#f34b7d"
     },
     "Python": {
@@ -328,7 +329,7 @@
       "color": "#3572A5"
     },
     "CMake": {
-      "bytes": 48857,
+      "bytes": 49424,
       "color": "#ccc"
     },
     "Shell": {
@@ -340,5 +341,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-14T08:31:20.238Z"
+  "fetched_at": "2018-09-14T19:48:46.541Z"
 }

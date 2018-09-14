@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/webtorrent/webtorrent/languages",
   "pulls_url": "https://api.github.com/repos/webtorrent/webtorrent/pulls{/number}",
   "created_at": "2013-10-15T08:16:40Z",
-  "updated_at": "2018-09-14T05:06:30Z",
-  "pushed_at": "2018-09-12T06:34:44Z",
+  "updated_at": "2018-09-14T14:38:07Z",
+  "pushed_at": "2018-09-14T14:38:18Z",
   "homepage": "https://webtorrent.io",
-  "size": 6884,
-  "stargazers_count": 17690,
+  "size": 6839,
+  "stargazers_count": 17693,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -145,8 +145,8 @@
     "greenkeeperio-bot": 15,
     "josephfrazier": 22,
     "transitive-bullshit": 21,
-    "greenkeeper[bot]": 30,
-    "DiegoRBaquero": 121,
+    "greenkeeper[bot]": 31,
+    "DiegoRBaquero": 122,
     "feross": 1911,
     "mrlika": 2,
     "SilentBot1": 1,
@@ -330,5 +330,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:34:11.923Z"
+  "fetched_at": "2018-09-14T19:51:33.579Z"
 }

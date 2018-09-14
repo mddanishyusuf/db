@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/SAP/openui5/languages",
   "pulls_url": "https://api.github.com/repos/SAP/openui5/pulls{/number}",
   "created_at": "2013-12-10T18:11:33Z",
-  "updated_at": "2018-09-14T08:06:59Z",
-  "pushed_at": "2018-09-14T08:29:59Z",
+  "updated_at": "2018-09-14T15:21:00Z",
+  "pushed_at": "2018-09-14T16:00:23Z",
   "homepage": "http://openui5.org",
-  "size": 407749,
+  "size": 407790,
   "stargazers_count": 1722,
   "language": "JavaScript",
   "mirror_url": null,
@@ -75,9 +75,9 @@
     "PetyoKostakov": 144,
     "NikolayCholakov": 146,
     "limpbizkit107": 147,
-    "swennemers": 178,
+    "swennemers": 180,
     "NStoichkov": 148,
-    "Silkinator": 151,
+    "Silkinator": 153,
     "IvaHristova": 92,
     "ShtiliyanUzunov": 189,
     "jaybarbhaiya": 163,
@@ -109,12 +109,12 @@
     "czuendorf": 270,
     "ghristanov": 298,
     "GeneralDuke": 361,
-    "akudev": 313,
+    "akudev": 315,
     "EugenResch": 264,
     "nvankov": 332,
     "webdude21": 412,
     "radostinaTs": 346,
-    "a-z-ivanov": 342,
+    "a-z-ivanov": 344,
     "aleksandrenko": 332,
     "awolfish": 365,
     "Thodd": 367,
@@ -125,7 +125,7 @@
     "loginger": 452,
     "sirion": 460,
     "MapTo0": 521,
-    "JumpNRun": 496,
+    "JumpNRun": 501,
     "goligo": 527,
     "kineticjs": 591,
     "stopcoder": 541,
@@ -144,10 +144,10 @@
     "Stanley-78": 845,
     "ThomasChadzelek": 851,
     "UweReeder": 939,
-    "codeworrior": 905,
+    "codeworrior": 907,
     "gerym": 982,
-    "simlin": 947,
-    "arleytriana": 1204,
+    "simlin": 949,
+    "arleytriana": 1207,
     "irinagoetz": 58,
     "IlianaB": 55,
     "pkinkel": 54,
@@ -360,7 +360,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 57249163,
+      "bytes": 57261798,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -380,5 +380,5 @@
       "color": "#5B2063"
     }
   },
-  "fetched_at": "2018-09-14T08:31:30.978Z"
+  "fetched_at": "2018-09-14T19:48:57.189Z"
 }

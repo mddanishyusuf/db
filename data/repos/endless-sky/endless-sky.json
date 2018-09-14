@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/endless-sky/endless-sky/languages",
   "pulls_url": "https://api.github.com/repos/endless-sky/endless-sky/pulls{/number}",
   "created_at": "2015-03-14T20:44:39Z",
-  "updated_at": "2018-09-13T09:56:07Z",
-  "pushed_at": "2018-09-13T14:11:04Z",
+  "updated_at": "2018-09-14T19:32:39Z",
+  "pushed_at": "2018-09-14T19:18:29Z",
   "homepage": "http://endless-sky.github.io/",
-  "size": 160152,
-  "stargazers_count": 1541,
+  "size": 160159,
+  "stargazers_count": 1542,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -101,7 +101,7 @@
     "Tadrix": 6,
     "naehc": 6,
     "Alkallid": 7,
-    "comnom": 7,
+    "comnom": 8,
     "db47h": 7,
     "thomasballinger": 8,
     "jostephd": 9,
@@ -133,7 +133,8 @@
     "mybuddymichael": 1,
     "OverYrPaygrade": 1,
     "rrigby": 1,
-    "whismerhill": 1
+    "whismerhill": 1,
+    "tmbutterworth": 1
   },
   "pulls_authors": [
     "BlueFireball",
@@ -322,7 +323,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1692263,
+      "bytes": 1692172,
       "color": "#f34b7d"
     },
     "Python": {
@@ -338,5 +339,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-13T16:30:06.787Z"
+  "fetched_at": "2018-09-14T19:43:38.360Z"
 }

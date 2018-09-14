@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/snapcore/snapd/languages",
   "pulls_url": "https://api.github.com/repos/snapcore/snapd/pulls{/number}",
   "created_at": "2015-10-21T11:51:46Z",
-  "updated_at": "2018-09-14T08:18:26Z",
-  "pushed_at": "2018-09-14T08:57:23Z",
+  "updated_at": "2018-09-14T11:19:21Z",
+  "pushed_at": "2018-09-14T17:05:24Z",
   "homepage": "",
-  "size": 72182,
+  "size": 72313,
   "stargazers_count": 998,
   "language": "Go",
   "mirror_url": null,
@@ -139,12 +139,12 @@
     "niemeyer": 706,
     "sergiusens": 319,
     "kyrofa": 338,
-    "sergiocazzolato": 671,
+    "sergiocazzolato": 674,
     "fgimenez": 1108,
     "bboozzoo": 1272,
-    "stolowski": 1499,
+    "stolowski": 1519,
     "jdstrand": 1350,
-    "chipaca": 1932,
+    "chipaca": 1935,
     "pedronis": 2448,
     "zyga": 5442,
     "mvo5": 8938,
@@ -312,7 +312,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 8093715,
+      "bytes": 8099082,
       "color": "#375eab"
     },
     "C": {
@@ -320,7 +320,7 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 194594,
+      "bytes": 194886,
       "color": "#89e051"
     },
     "Makefile": {
@@ -352,5 +352,5 @@
       "color": "#007800"
     }
   },
-  "fetched_at": "2018-09-14T09:09:37.036Z"
+  "fetched_at": "2018-09-14T20:34:20.383Z"
 }

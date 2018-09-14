@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pointfreeco/pointfreeco/languages",
   "pulls_url": "https://api.github.com/repos/pointfreeco/pointfreeco/pulls{/number}",
   "created_at": "2017-09-09T14:02:08Z",
-  "updated_at": "2018-09-14T06:56:49Z",
+  "updated_at": "2018-09-14T09:20:18Z",
   "pushed_at": "2018-09-13T13:32:36Z",
   "homepage": "https://www.pointfree.co",
   "size": 360802,
-  "stargazers_count": 450,
+  "stargazers_count": 451,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -113,5 +113,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:37:48.735Z"
+  "fetched_at": "2018-09-14T19:54:44.775Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Siderus/Orion/languages",
   "pulls_url": "https://api.github.com/repos/Siderus/Orion/pulls{/number}",
   "created_at": "2017-01-29T17:34:03Z",
-  "updated_at": "2018-09-12T14:51:26Z",
+  "updated_at": "2018-09-14T13:22:04Z",
   "pushed_at": "2018-09-12T14:51:27Z",
   "homepage": "https://orion.siderus.io/",
   "size": 8190,
-  "stargazers_count": 52,
+  "stargazers_count": 53,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -76,5 +76,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-13T23:54:22.215Z"
+  "fetched_at": "2018-09-14T19:51:50.994Z"
 }

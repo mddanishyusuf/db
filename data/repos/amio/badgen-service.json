@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/amio/badgen-service/languages",
   "pulls_url": "https://api.github.com/repos/amio/badgen-service/pulls{/number}",
   "created_at": "2018-06-26T05:48:41Z",
-  "updated_at": "2018-09-14T08:54:56Z",
-  "pushed_at": "2018-09-14T08:54:55Z",
+  "updated_at": "2018-09-14T17:04:52Z",
+  "pushed_at": "2018-09-14T17:04:50Z",
   "homepage": "https://badgen.net",
-  "size": 1010,
-  "stargazers_count": 586,
+  "size": 784,
+  "stargazers_count": 587,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -40,7 +40,7 @@
     "simov": 3,
     "styfle": 4,
     "samlanning": 5,
-    "tusbar": 6,
+    "tusbar": 7,
     "bokub": 7,
     "jackmu95": 8,
     "dependabot[bot]": 14,
@@ -69,9 +69,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 84167,
+      "bytes": 85235,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T09:11:48.405Z"
+  "fetched_at": "2018-09-14T20:36:24.995Z"
 }

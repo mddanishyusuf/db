@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/huge-success/sanic/languages",
   "pulls_url": "https://api.github.com/repos/huge-success/sanic/pulls{/number}",
   "created_at": "2016-05-26T04:38:22Z",
-  "updated_at": "2018-09-14T06:51:06Z",
-  "pushed_at": "2018-09-13T09:25:16Z",
+  "updated_at": "2018-09-14T18:39:12Z",
+  "pushed_at": "2018-09-14T18:31:12Z",
   "homepage": "",
   "size": 1521,
-  "stargazers_count": 10226,
+  "stargazers_count": 10232,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -438,7 +438,8 @@
     "JD557",
     "cbess",
     "bikegriffith",
-    "n1ywb"
+    "n1ywb",
+    "sjsadowski"
   ],
   "languages": {
     "Python": {
@@ -466,7 +467,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-14T08:36:38.275Z",
+  "fetched_at": "2018-09-14T19:53:36.017Z",
   "organization": {
     "login": "huge-success",
     "id": 25215992,

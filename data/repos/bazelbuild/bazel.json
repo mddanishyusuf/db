@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/bazel/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/bazel/pulls{/number}",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2018-09-14T02:28:16Z",
-  "pushed_at": "2018-09-14T06:51:18Z",
+  "updated_at": "2018-09-14T19:38:06Z",
+  "pushed_at": "2018-09-14T19:32:17Z",
   "homepage": "https://bazel.build",
-  "size": 504251,
+  "size": 504330,
   "stargazers_count": 10005,
   "language": "Java",
   "mirror_url": null,
@@ -113,7 +113,7 @@
     "kevin1e100": 116,
     "corbinrsmith-work": 117,
     "meisterT": 119,
-    "oquenchil": 122,
+    "oquenchil": 124,
     "serynth": 130,
     "aoeui": 132,
     "ahumesky": 134,
@@ -127,10 +127,10 @@
     "cvcal": 187,
     "michajlo": 215,
     "cgrushko": 216,
-    "brandjon": 241,
+    "brandjon": 242,
     "tomlu": 264,
     "katre": 286,
-    "gregestren": 301,
+    "gregestren": 302,
     "mhlopko": 311,
     "meteorcloudy": 347,
     "aj-michael": 352,
@@ -141,14 +141,14 @@
     "c-parsons": 444,
     "kchodorow": 473,
     "laurentlb": 539,
-    "aehlig": 544,
-    "cushon": 621,
-    "laszlocsomor": 638,
-    "janakdr": 722,
+    "aehlig": 546,
+    "cushon": 623,
+    "laszlocsomor": 639,
+    "janakdr": 724,
     "damienmg": 779,
-    "ulfjack": 816,
+    "ulfjack": 818,
     "lberki": 904,
-    "a-googler": 2060,
+    "a-googler": 2064,
     "AustinSchuh": 6,
     "brian-peloton": 6,
     "tetromino": 6,
@@ -796,19 +796,19 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 31446974,
+      "bytes": 31460189,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 1524858,
+      "bytes": 1525300,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 1338112,
+      "bytes": 1338958,
       "color": "#89e051"
     },
     "C++": {
-      "bytes": 1324870,
+      "bytes": 1329306,
       "color": "#f34b7d"
     },
     "Smarty": {
@@ -848,5 +848,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-14T08:38:49.151Z"
+  "fetched_at": "2018-09-14T19:55:30.458Z"
 }

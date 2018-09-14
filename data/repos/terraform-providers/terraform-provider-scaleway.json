@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/terraform-providers/terraform-provider-scaleway/languages",
   "pulls_url": "https://api.github.com/repos/terraform-providers/terraform-provider-scaleway/pulls{/number}",
   "created_at": "2017-06-05T20:53:58Z",
-  "updated_at": "2018-09-12T06:45:10Z",
-  "pushed_at": "2018-09-12T06:45:12Z",
+  "updated_at": "2018-09-14T09:13:03Z",
+  "pushed_at": "2018-09-13T01:40:08Z",
   "homepage": "https://www.terraform.io/docs/providers/scaleway/",
-  "size": 2601,
-  "stargazers_count": 33,
+  "size": 2606,
+  "stargazers_count": 34,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -99,5 +99,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:36:54.354Z"
+  "fetched_at": "2018-09-14T19:51:16.411Z"
 }

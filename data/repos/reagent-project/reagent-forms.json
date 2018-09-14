@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/reagent-project/reagent-forms/languages",
   "pulls_url": "https://api.github.com/repos/reagent-project/reagent-forms/pulls{/number}",
   "created_at": "2014-08-11T14:53:07Z",
-  "updated_at": "2018-09-09T22:18:16Z",
+  "updated_at": "2018-09-14T14:02:56Z",
   "pushed_at": "2018-09-09T22:18:15Z",
   "homepage": null,
   "size": 357,
-  "stargazers_count": 270,
+  "stargazers_count": 271,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -129,5 +129,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T13:51:47.063Z"
+  "fetched_at": "2018-09-14T20:34:09.133Z"
 }

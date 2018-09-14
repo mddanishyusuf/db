@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jessfraz/dockerfiles/languages",
   "pulls_url": "https://api.github.com/repos/jessfraz/dockerfiles/pulls{/number}",
   "created_at": "2014-09-11T17:48:44Z",
-  "updated_at": "2018-09-13T23:51:44Z",
-  "pushed_at": "2018-09-09T09:26:25Z",
+  "updated_at": "2018-09-14T19:41:51Z",
+  "pushed_at": "2018-09-14T19:35:41Z",
   "homepage": "https://blog.jessfraz.com/post/docker-containers-on-the-desktop/",
-  "size": 73403,
-  "stargazers_count": 6862,
+  "size": 73463,
+  "stargazers_count": 6867,
   "language": "Dockerfile",
   "mirror_url": null,
   "archived": false,
@@ -109,7 +109,12 @@
     "JarenGlover": 8,
     "michael-k": 24,
     "koep": 106,
-    "jessfraz": 865
+    "jessfraz": 889,
+    "jonfriesen": 1,
+    "rofrano": 1,
+    "mavjs": 1,
+    "fonglh": 1,
+    "Atul9": 2
   },
   "pulls_authors": [
     "eldridgea",
@@ -220,15 +225,20 @@
     "andrewseidl",
     "denderello",
     "ernetas",
-    "paultag"
+    "paultag",
+    "Atul9",
+    "rofrano",
+    "jonfriesen",
+    "mavjs",
+    "fonglh"
   ],
   "languages": {
     "Dockerfile": {
-      "bytes": 145798,
+      "bytes": 145185,
       "color": "#0db7ed"
     },
     "Shell": {
-      "bytes": 29362,
+      "bytes": 29377,
       "color": "#89e051"
     },
     "Go": {
@@ -252,5 +262,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-13T23:53:51.801Z"
+  "fetched_at": "2018-09-14T19:51:18.644Z"
 }

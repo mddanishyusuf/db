@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/stympy/faker/languages",
   "pulls_url": "https://api.github.com/repos/stympy/faker/pulls{/number}",
   "created_at": "2008-12-24T17:20:37Z",
-  "updated_at": "2018-09-14T01:46:35Z",
-  "pushed_at": "2018-09-13T20:20:37Z",
+  "updated_at": "2018-09-14T18:07:35Z",
+  "pushed_at": "2018-09-14T18:07:27Z",
   "homepage": "",
-  "size": 3720,
-  "stargazers_count": 6963,
+  "size": 3694,
+  "stargazers_count": 6967,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -70,7 +70,7 @@
     "aamarill": 3,
     "ZASMan": 3,
     "SpyMaster356": 3,
-    "stephengroat": 3,
+    "stephengroat": 4,
     "dv2": 3,
     "swapnilchincholkar": 3,
     "andy-j": 3,
@@ -464,7 +464,8 @@
     "izn": 1,
     "thomasguillory": 1,
     "nysthee": 1,
-    "Uelb": 1
+    "Uelb": 1,
+    "matt297": 1
   },
   "pulls_authors": [
     "Pierre-Michard",
@@ -1142,13 +1143,15 @@
     "tenderlove",
     "marcelo",
     "plainprogrammer",
-    "bogdan"
+    "bogdan",
+    "matt297",
+    "thalesap"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 402766,
+      "bytes": 402650,
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T08:34:22.468Z"
+  "fetched_at": "2018-09-14T19:51:43.889Z"
 }

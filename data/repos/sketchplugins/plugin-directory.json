@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/sketchplugins/plugin-directory/languages",
   "pulls_url": "https://api.github.com/repos/sketchplugins/plugin-directory/pulls{/number}",
   "created_at": "2014-05-11T14:12:42Z",
-  "updated_at": "2018-09-14T07:45:33Z",
-  "pushed_at": "2018-09-14T03:09:27Z",
+  "updated_at": "2018-09-14T12:33:00Z",
+  "pushed_at": "2018-09-14T18:53:53Z",
   "homepage": "http://sketchapp.com/extensions/plugins",
   "size": 2299,
   "stargazers_count": 3060,
@@ -63,7 +63,7 @@
     "PimCoumans": 2,
     "usagimaru": 2,
     "avishic": 2,
-    "romannurik": 2,
+    "romannurik": 3,
     "juliussohn": 2,
     "wescraig": 2,
     "markhorgan": 2,
@@ -141,7 +141,7 @@
     "einancunlu": 8,
     "teratonic": 8,
     "matiassingers": 8,
-    "bomberstudios": 621,
+    "bomberstudios": 622,
     "lifeiscontent": 1,
     "alanfraneo": 1,
     "golmakov": 1,
@@ -255,7 +255,9 @@
     "udi-gindi": 1,
     "utom": 1,
     "zholdas": 1,
-    "nichenqin": 1
+    "nichenqin": 1,
+    "matej-marjanovic": 1,
+    "rnmp": 1
   },
   "pulls_authors": [
     "bomberstudios",
@@ -507,5 +509,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T08:28:39.206Z"
+  "fetched_at": "2018-09-14T19:46:09.656Z"
 }

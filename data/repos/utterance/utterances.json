@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/utterance/utterances/languages",
   "pulls_url": "https://api.github.com/repos/utterance/utterances/pulls{/number}",
   "created_at": "2017-04-23T04:02:12Z",
-  "updated_at": "2018-09-10T20:16:13Z",
+  "updated_at": "2018-09-14T15:43:41Z",
   "pushed_at": "2018-08-26T17:27:16Z",
   "homepage": "https://utteranc.es",
   "size": 815,
-  "stargazers_count": 373,
+  "stargazers_count": 375,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -113,5 +113,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T15:55:05.647Z"
+  "fetched_at": "2018-09-14T19:55:18.015Z"
 }

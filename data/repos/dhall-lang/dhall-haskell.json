@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dhall-lang/dhall-haskell/languages",
   "pulls_url": "https://api.github.com/repos/dhall-lang/dhall-haskell/pulls{/number}",
   "created_at": "2016-09-07T16:18:15Z",
-  "updated_at": "2018-09-13T23:22:54Z",
-  "pushed_at": "2018-09-12T15:29:38Z",
+  "updated_at": "2018-09-14T16:46:28Z",
+  "pushed_at": "2018-09-14T15:24:45Z",
   "homepage": null,
-  "size": 1798,
-  "stargazers_count": 368,
+  "size": 1765,
+  "stargazers_count": 369,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -88,7 +88,7 @@
     "quasicomputational": 10,
     "ocharles": 11,
     "bosu": 12,
-    "Gabriel439": 599
+    "Gabriel439": 600
   },
   "pulls_authors": [
     "f-f",
@@ -141,7 +141,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 764238,
+      "bytes": 764338,
       "color": "#5e5086"
     },
     "Nix": {
@@ -149,5 +149,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-13T23:57:27.571Z"
+  "fetched_at": "2018-09-14T19:55:32.020Z"
 }

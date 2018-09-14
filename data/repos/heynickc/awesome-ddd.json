@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/heynickc/awesome-ddd/languages",
   "pulls_url": "https://api.github.com/repos/heynickc/awesome-ddd/pulls{/number}",
   "created_at": "2016-08-31T14:14:50Z",
-  "updated_at": "2018-09-14T05:21:09Z",
+  "updated_at": "2018-09-14T11:57:57Z",
   "pushed_at": "2018-09-03T21:37:47Z",
   "homepage": "",
   "size": 165,
-  "stargazers_count": 3127,
+  "stargazers_count": 3128,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -115,5 +115,5 @@
     "ziyasal"
   ],
   "languages": {},
-  "fetched_at": "2018-09-14T09:12:14.443Z"
+  "fetched_at": "2018-09-14T20:36:49.673Z"
 }

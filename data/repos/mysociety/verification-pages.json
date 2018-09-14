@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mysociety/verification-pages/languages",
   "pulls_url": "https://api.github.com/repos/mysociety/verification-pages/pulls{/number}",
   "created_at": "2018-01-31T09:24:33Z",
-  "updated_at": "2018-09-13T13:04:58Z",
-  "pushed_at": "2018-09-13T13:04:55Z",
+  "updated_at": "2018-09-14T11:03:25Z",
+  "pushed_at": "2018-09-14T11:03:21Z",
   "homepage": "https://www.mysociety.org/",
-  "size": 723,
+  "size": 727,
   "stargazers_count": 2,
   "language": "Ruby",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "dependabot-bot": 32,
     "mhl": 88,
     "chrismytton": 107,
-    "gbp": 225
+    "gbp": 234
   },
   "pulls_authors": [
     "gbp",
@@ -61,7 +61,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 226035,
+      "bytes": 229309,
       "color": "#701516"
     },
     "JavaScript": {
@@ -69,7 +69,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 36795,
+      "bytes": 36828,
       "color": "#e34c26"
     },
     "CSS": {
@@ -81,5 +81,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:27:23.069Z"
+  "fetched_at": "2018-09-14T19:41:16.458Z"
 }

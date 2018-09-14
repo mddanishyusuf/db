@@ -56,13 +56,13 @@
     "jackw01/arduino-pid-autotuner": {
       "full_name": "jackw01/arduino-pid-autotuner",
       "name": "arduino-pid-autotuner",
-      "stargazers_count": 22,
-      "popularity": 2.3243213587049825,
+      "stargazers_count": 23,
+      "popularity": 2.3444311854745736,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 6,
-      "activity": 1.2715695203826578,
-      "total_score": 38.460711259662375,
+      "activity": 1.2126110936727974,
+      "total_score": 38.723510061265976,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

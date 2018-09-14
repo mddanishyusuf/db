@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/enaqx/awesome-react",
   "languages_url": "https://api.github.com/repos/enaqx/awesome-react/languages",
   "created_at": "2014-08-06T05:31:44Z",
-  "updated_at": "2018-09-14T08:18:47Z",
-  "pushed_at": "2018-09-13T14:47:21Z",
+  "updated_at": "2018-09-14T18:30:55Z",
+  "pushed_at": "2018-09-14T16:43:35Z",
   "homepage": "",
-  "size": 2220,
-  "stargazers_count": 27625,
+  "size": 2298,
+  "stargazers_count": 27630,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -118,7 +118,7 @@
     "appleboy": 6,
     "browniefed": 143,
     "Semigradsky": 10,
-    "Haroenv": 95,
+    "Haroenv": 96,
     "paulmelnikow": 19,
     "enaqx": 747,
     "joshburgess": 2,
@@ -467,10 +467,11 @@
     "MrHus": 1,
     "marcossffilho": 1,
     "mobily": 1,
-    "onursenture": 1
+    "onursenture": 1,
+    "tvojtech": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-14T08:22:40.637Z",
+  "fetched_at": "2018-09-14T19:39:12.533Z",
   "pulls_url": "https://api.github.com/repos/enaqx/awesome-react/pulls{/number}",
   "pulls_authors": [
     "VovanR",
@@ -1085,6 +1086,7 @@
     "mattmezza",
     "marcossffilho",
     "mobily",
-    "onursenture"
+    "onursenture",
+    "tvojtech"
   ]
 }

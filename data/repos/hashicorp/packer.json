@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/hashicorp/packer/languages",
   "pulls_url": "https://api.github.com/repos/hashicorp/packer/pulls{/number}",
   "created_at": "2013-03-23T05:43:03Z",
-  "updated_at": "2018-09-13T19:49:19Z",
-  "pushed_at": "2018-09-13T18:18:49Z",
+  "updated_at": "2018-09-14T19:26:31Z",
+  "pushed_at": "2018-09-14T19:30:59Z",
   "homepage": "http://www.packer.io",
-  "size": 37749,
+  "size": 37829,
   "stargazers_count": 7998,
   "language": "Go",
   "mirror_url": null,
@@ -137,14 +137,14 @@
     "markpeek": 106,
     "pearkes": 92,
     "jsoref": 89,
-    "azr": 96,
+    "azr": 101,
     "boumenot": 142,
     "rasa": 157,
     "arizvisa": 95,
     "taliesins": 112,
     "DanHam": 173,
     "rickard-von-essen": 517,
-    "SwampDragons": 675,
+    "SwampDragons": 676,
     "cbednarski": 684,
     "mwhooker": 1531,
     "mitchellh": 3182,
@@ -1430,11 +1430,12 @@
     "arturhoo",
     "garethr",
     "sparky005",
-    "shield-9"
+    "shield-9",
+    "tjbaker"
   ],
   "languages": {
     "Go": {
-      "bytes": 3394912,
+      "bytes": 3398852,
       "color": "#375eab"
     },
     "HTML": {
@@ -1474,5 +1475,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T23:43:32.451Z"
+  "fetched_at": "2018-09-14T19:39:29.838Z"
 }

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "leaplay",
+  "full_name": "neo/leaplay",
+  "owner": "neo",
+  "private": false,
+  "html_url": "https://github.com/neo/leaplay",
+  "description": ":baby_chick: Interact with Leap Motion in a three.js scene. :panda_face:",
+  "fork": false,
+  "url": "https://api.github.com/repos/neo/leaplay",
+  "languages_url": "https://api.github.com/repos/neo/leaplay/languages",
+  "pulls_url": "https://api.github.com/repos/neo/leaplay/pulls{/number}",
+  "created_at": "2016-02-24T18:54:58Z",
+  "updated_at": "2018-06-17T18:19:49Z",
+  "pushed_at": "2016-04-23T20:50:45Z",
+  "homepage": "https://neo.github.io/leaplay/",
+  "size": 7688,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "qiuqili": 1,
+    "neo": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6313,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 956,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:30.307Z"
+}

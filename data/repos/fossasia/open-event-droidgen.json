@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/fossasia/open-event-droidgen/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/open-event-droidgen/pulls{/number}",
   "created_at": "2015-05-08T09:04:11Z",
-  "updated_at": "2018-09-14T06:29:32Z",
+  "updated_at": "2018-09-14T16:18:35Z",
   "pushed_at": "2018-08-28T15:50:46Z",
   "homepage": "",
   "size": 76660,
@@ -354,5 +354,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-14T08:34:56.298Z"
+  "fetched_at": "2018-09-14T19:52:12.559Z"
 }

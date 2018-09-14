@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ipfs/js-ipfs/languages",
   "pulls_url": "https://api.github.com/repos/ipfs/js-ipfs/pulls{/number}",
   "created_at": "2014-05-30T00:31:06Z",
-  "updated_at": "2018-09-13T23:27:33Z",
-  "pushed_at": "2018-09-13T21:19:42Z",
+  "updated_at": "2018-09-14T16:20:51Z",
+  "pushed_at": "2018-09-14T15:27:23Z",
   "homepage": "https://ipfs.io",
   "size": 9581,
-  "stargazers_count": 2880,
+  "stargazers_count": 2882,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -120,7 +120,7 @@
     "vmx": 8,
     "hacdias": 9,
     "kumavis": 9,
-    "vasco-santos": 11,
+    "vasco-santos": 12,
     "jacobheun": 11,
     "richardschneider": 12,
     "nginnever": 13,
@@ -130,7 +130,7 @@
     "VictorBjelkholm": 23,
     "fbaiodias": 23,
     "greenkeeperio-bot": 52,
-    "alanshaw": 72,
+    "alanshaw": 73,
     "dignifiedquire": 118,
     "jbenet": 119,
     "diasdavid": 609
@@ -244,7 +244,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 567651,
+      "bytes": 567704,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -268,5 +268,5 @@
       "color": "#e69f56"
     }
   },
-  "fetched_at": "2018-09-13T23:54:20.159Z"
+  "fetched_at": "2018-09-14T19:51:48.965Z"
 }

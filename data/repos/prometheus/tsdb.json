@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/prometheus/tsdb/languages",
   "pulls_url": "https://api.github.com/repos/prometheus/tsdb/pulls{/number}",
   "created_at": "2016-11-15T14:50:03Z",
-  "updated_at": "2018-09-13T16:34:33Z",
-  "pushed_at": "2018-09-13T16:34:27Z",
+  "updated_at": "2018-09-14T12:07:52Z",
+  "pushed_at": "2018-09-14T19:25:24Z",
   "homepage": null,
-  "size": 5977,
+  "size": 5971,
   "stargazers_count": 425,
   "language": "Go",
   "mirror_url": null,
@@ -81,7 +81,8 @@
     "Bplotka": 14,
     "cstyan": 21,
     "gouthamve": 91,
-    "fabxc": 391
+    "fabxc": 391,
+    "bobmshannon": 1
   },
   "pulls_authors": [
     "csmarchbanks",
@@ -135,7 +136,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 487009,
+      "bytes": 487408,
       "color": "#375eab"
     },
     "Makefile": {
@@ -143,5 +144,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-13T16:36:40.291Z"
+  "fetched_at": "2018-09-14T19:49:57.452Z"
 }

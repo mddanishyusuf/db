@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/cljsjs/packages/languages",
   "pulls_url": "https://api.github.com/repos/cljsjs/packages/pulls{/number}",
   "created_at": "2014-12-03T22:47:01Z",
-  "updated_at": "2018-09-12T20:00:21Z",
-  "pushed_at": "2018-09-12T20:00:19Z",
+  "updated_at": "2018-09-14T17:34:43Z",
+  "pushed_at": "2018-09-14T11:04:54Z",
   "homepage": "http://cljsjs.github.io",
   "size": 7673,
-  "stargazers_count": 640,
+  "stargazers_count": 641,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -966,7 +966,8 @@
     "bsima",
     "elliot42",
     "micha",
-    "rangeoshun"
+    "rangeoshun",
+    "ignorabilis"
   ],
   "languages": {
     "JavaScript": {
@@ -982,5 +983,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T00:26:44.091Z"
+  "fetched_at": "2018-09-14T20:34:07.815Z"
 }

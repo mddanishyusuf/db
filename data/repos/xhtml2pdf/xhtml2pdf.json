@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/xhtml2pdf/xhtml2pdf/languages",
   "pulls_url": "https://api.github.com/repos/xhtml2pdf/xhtml2pdf/pulls{/number}",
   "created_at": "2011-05-16T13:45:29Z",
-  "updated_at": "2018-09-09T12:39:48Z",
-  "pushed_at": "2018-08-29T15:17:19Z",
+  "updated_at": "2018-09-14T16:52:55Z",
+  "pushed_at": "2018-09-14T16:52:53Z",
   "homepage": "",
-  "size": 9451,
+  "size": 9453,
   "stargazers_count": 1437,
   "language": "Python",
   "mirror_url": null,
@@ -135,8 +135,10 @@
     "chrisglass": 18,
     "kgrodzicki": 18,
     "ebar0n": 20,
-    "luisza": 26,
-    "benjaoming": 63
+    "luisza": 27,
+    "benjaoming": 63,
+    "tcbennun": 1,
+    "browniebroke": 12
   },
   "pulls_authors": [
     "tcbennun",
@@ -249,7 +251,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 470809,
+      "bytes": 470977,
       "color": "#3572A5"
     },
     "HTML": {
@@ -265,5 +267,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T05:00:34.342Z"
+  "fetched_at": "2018-09-14T19:42:45.942Z"
 }

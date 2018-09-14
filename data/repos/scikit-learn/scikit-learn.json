@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/scikit-learn/scikit-learn/languages",
   "pulls_url": "https://api.github.com/repos/scikit-learn/scikit-learn/pulls{/number}",
   "created_at": "2010-08-17T09:43:38Z",
-  "updated_at": "2018-09-14T08:25:09Z",
-  "pushed_at": "2018-09-14T08:23:01Z",
+  "updated_at": "2018-09-14T17:31:52Z",
+  "pushed_at": "2018-09-14T19:23:11Z",
   "homepage": "http://scikit-learn.org",
-  "size": 94489,
-  "stargazers_count": 30518,
+  "size": 94499,
+  "stargazers_count": 30530,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -108,7 +108,7 @@
     "mjbommar": 51,
     "satra": 58,
     "ronw": 63,
-    "glemaitre": 53,
+    "glemaitre": 54,
     "FlorianWilhelm": 63,
     "TomDLT": 49,
     "maheshakya": 58,
@@ -147,7 +147,7 @@
     "GaelVaroquaux": 1415,
     "fabianp": 1596,
     "ogrisel": 2230,
-    "amueller": 2009,
+    "amueller": 2010,
     "dubourg": 37,
     "npinto": 34,
     "rasbt": 18,
@@ -2276,11 +2276,14 @@
     "mbrucher",
     "scampion",
     "AnneLaureF",
-    "smarie"
+    "smarie",
+    "joshuakennethjones",
+    "Sriharsha-hatwar",
+    "mwouts"
   ],
   "languages": {
     "Python": {
-      "bytes": 8128426,
+      "bytes": 8128602,
       "color": "#3572A5"
     },
     "C": {
@@ -2308,5 +2311,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-14T08:25:56.668Z"
+  "fetched_at": "2018-09-14T19:42:47.748Z"
 }

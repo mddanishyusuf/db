@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/geocoder-php/Geocoder/languages",
   "pulls_url": "https://api.github.com/repos/geocoder-php/Geocoder/pulls{/number}",
   "created_at": "2011-11-07T21:56:41Z",
-  "updated_at": "2018-09-11T06:43:33Z",
-  "pushed_at": "2018-09-04T13:46:29Z",
+  "updated_at": "2018-09-14T17:56:00Z",
+  "pushed_at": "2018-09-14T17:56:01Z",
   "homepage": "http://geocoder-php.org/Geocoder",
-  "size": 38446,
+  "size": 38491,
   "stargazers_count": 3316,
   "language": "PHP",
   "mirror_url": null,
@@ -137,7 +137,7 @@
     "egeloen": 5,
     "gpirrotta": 5,
     "andrea-cristaudo": 5,
-    "jbelien": 6,
+    "jbelien": 8,
     "themouette": 6,
     "ollietb": 7,
     "Stadly": 8,
@@ -146,7 +146,7 @@
     "Baachi": 23,
     "blaugueux": 18,
     "toin0u": 113,
-    "Nyholm": 212,
+    "Nyholm": 214,
     "willdurand": 609,
     "Mechazawa": 1,
     "bbrala": 1,
@@ -160,10 +160,15 @@
     "hohl": 1,
     "renanbr": 1,
     "romainneutron": 1,
-    "sheub": 1,
+    "sheub": 2,
     "TerjeBr": 1,
     "roro15": 1,
-    "invalid-email-address": 1
+    "invalid-email-address": 1,
+    "Fabex": 1,
+    "fedeisas": 1,
+    "jGielen": 1,
+    "samybasset": 1,
+    "stevevance": 1
   },
   "pulls_authors": [
     "holtkamp",
@@ -341,11 +346,12 @@
     "gyndav",
     "nnarhinen",
     "GromNaN",
-    "alOneh"
+    "alOneh",
+    "samybasset"
   ],
   "languages": {
     "PHP": {
-      "bytes": 631550,
+      "bytes": 685839,
       "color": "#4F5D95"
     },
     "Shell": {
@@ -353,5 +359,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:47:17.406Z"
+  "fetched_at": "2018-09-14T19:44:38.485Z"
 }

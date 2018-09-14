@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mariusavram91/python-remote-companies/languages",
   "pulls_url": "https://api.github.com/repos/mariusavram91/python-remote-companies/pulls{/number}",
   "created_at": "2016-09-04T13:50:15Z",
-  "updated_at": "2018-08-07T08:08:07Z",
+  "updated_at": "2018-09-14T11:05:40Z",
   "pushed_at": "2016-09-05T20:23:28Z",
   "homepage": "",
   "size": 14,
-  "stargazers_count": 181,
+  "stargazers_count": 180,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -37,5 +37,5 @@
     "adamhammes"
   ],
   "languages": {},
-  "fetched_at": "2018-09-03T12:56:57.247Z"
+  "fetched_at": "2018-09-14T19:43:40.772Z"
 }

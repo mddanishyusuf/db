@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/facebook/buck/languages",
   "pulls_url": "https://api.github.com/repos/facebook/buck/pulls{/number}",
   "created_at": "2013-04-17T18:12:18Z",
-  "updated_at": "2018-09-14T05:27:47Z",
-  "pushed_at": "2018-09-14T01:50:26Z",
+  "updated_at": "2018-09-14T18:50:23Z",
+  "pushed_at": "2018-09-14T18:50:12Z",
   "homepage": "https://buckbuild.com",
-  "size": 912792,
+  "size": 912802,
   "stargazers_count": 6081,
   "language": "Java",
   "mirror_url": null,
@@ -105,7 +105,7 @@
     "kdparker": 57,
     "mjpieters": 57,
     "jtorkkola": 65,
-    "mkillianey": 77,
+    "mkillianey": 78,
     "BYVoid": 65,
     "carljparker": 76,
     "dcolascione": 72,
@@ -131,7 +131,7 @@
     "dinhviethoa": 190,
     "ruibm": 213,
     "beefon": 256,
-    "bobyangyf": 263,
+    "bobyangyf": 264,
     "aiked": 281,
     "marcinkosiba": 315,
     "sdwilsh": 355,
@@ -143,12 +143,12 @@
     "bhamiltoncx": 634,
     "yiding": 655,
     "cjhopman": 696,
-    "ttsugriy": 725,
+    "ttsugriy": 726,
     "bolinfest": 750,
     "jkeljo": 890,
     "styurin": 1153,
     "andrewjcg": 1246,
-    "christolliday": 9,
+    "christolliday": 10,
     "katelyn-weingart": 8,
     "selimekizoglu": 8,
     "inazaruk": 7,
@@ -360,7 +360,8 @@
     "zpao": 1,
     "pelmers": 1,
     "talentspsp": 1,
-    "rami-khalil": 1
+    "rami-khalil": 1,
+    "neilmacintosh": 1
   },
   "pulls_authors": [
     "chadwhitacre",
@@ -543,11 +544,11 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 28148498,
+      "bytes": 28148591,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2005903,
+      "bytes": 2008131,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -675,5 +676,5 @@
       "color": "#6866fb"
     }
   },
-  "fetched_at": "2018-09-14T09:09:38.365Z"
+  "fetched_at": "2018-09-14T20:34:21.892Z"
 }

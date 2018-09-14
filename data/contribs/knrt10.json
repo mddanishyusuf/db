@@ -95,13 +95,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3229,
-      "popularity": 4.508986067264315,
+      "stargazers_count": 3230,
+      "popularity": 4.509120582065339,
       "percentage": 0.228310502283105,
       "maturity": 3.923994334788491,
       "total_commits_count": 876,
       "activity": 5,
-      "total_score": 26.50877522496453,
+      "total_score": 26.509182761816035,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -326,9 +326,9 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "p-society/Online_Rosie_FrontEnd": {
-      "full_name": "p-society/Online_Rosie_FrontEnd",
-      "name": "Online_Rosie_FrontEnd",
+    "p-society/Online_Rosei_FrontEnd": {
+      "full_name": "p-society/Online_Rosei_FrontEnd",
+      "name": "Online_Rosei_FrontEnd",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 97.14285714285714,
@@ -342,13 +342,13 @@
     "knrt10/asciiConvert": {
       "full_name": "knrt10/asciiConvert",
       "name": "asciiConvert",
-      "stargazers_count": 126,
-      "popularity": 3.0972963671021727,
+      "stargazers_count": 127,
+      "popularity": 3.1007541442296103,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 8,
       "activity": 5,
-      "total_score": 54.55674187363476,
+      "total_score": 54.612066307673764,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -358,10 +358,10 @@
       "stargazers_count": 425,
       "popularity": 3.6275073518965497,
       "percentage": 0,
-      "maturity": 3.7652388853611245,
-      "total_commits_count": 620,
+      "maturity": 3.765986895846354,
+      "total_commits_count": 621,
       "activity": 5,
-      "total_score": 23.412999826411898,
+      "total_score": 23.414495847382355,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

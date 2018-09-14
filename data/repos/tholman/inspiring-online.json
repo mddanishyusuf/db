@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/tholman/inspiring-online/languages",
   "pulls_url": "https://api.github.com/repos/tholman/inspiring-online/pulls{/number}",
   "created_at": "2015-09-10T21:44:02Z",
-  "updated_at": "2018-09-14T06:17:06Z",
-  "pushed_at": "2018-09-13T14:21:31Z",
+  "updated_at": "2018-09-14T15:07:26Z",
+  "pushed_at": "2018-09-14T15:07:25Z",
   "homepage": "http://inspiring.online",
-  "size": 115871,
+  "size": 116148,
   "stargazers_count": 165,
   "language": "HTML",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "Haroenv": 27,
     "JohJakob": 77,
     "TJScalzo": 144,
-    "tholman": 407
+    "tholman": 409
   },
   "pulls_authors": [
     "captbaritone",
@@ -97,5 +97,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-14T08:23:32.266Z"
+  "fetched_at": "2018-09-14T19:40:07.400Z"
 }

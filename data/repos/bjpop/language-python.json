@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bjpop/language-python/languages",
   "pulls_url": "https://api.github.com/repos/bjpop/language-python/pulls{/number}",
   "created_at": "2010-04-02T07:35:45Z",
-  "updated_at": "2018-09-07T00:11:32Z",
+  "updated_at": "2018-09-14T16:12:39Z",
   "pushed_at": "2018-06-10T08:41:07Z",
   "homepage": "",
   "size": 246,
-  "stargazers_count": 118,
+  "stargazers_count": 119,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -67,5 +67,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-07T11:26:16.025Z"
+  "fetched_at": "2018-09-14T19:53:51.408Z"
 }

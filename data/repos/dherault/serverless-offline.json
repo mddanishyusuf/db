@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dherault/serverless-offline/languages",
   "pulls_url": "https://api.github.com/repos/dherault/serverless-offline/pulls{/number}",
   "created_at": "2016-02-17T08:01:47Z",
-  "updated_at": "2018-09-14T08:20:50Z",
-  "pushed_at": "2018-09-06T11:48:20Z",
+  "updated_at": "2018-09-14T11:41:47Z",
+  "pushed_at": "2018-09-14T11:41:45Z",
   "homepage": "",
-  "size": 1196,
-  "stargazers_count": 1675,
+  "size": 1213,
+  "stargazers_count": 1676,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -127,10 +127,11 @@
     "Bilal-S": 14,
     "mikestaub": 14,
     "leonardoalifraco": 46,
-    "dherault": 419,
+    "dherault": 422,
     "akaila": 1,
     "BrandonE": 1,
-    "jgrigg": 1
+    "jgrigg": 1,
+    "YaroslavApatiev": 1
   },
   "pulls_authors": [
     "akaila",
@@ -275,9 +276,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 127222,
+      "bytes": 127301,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T08:21:21.495Z"
+  "fetched_at": "2018-09-14T19:37:48.336Z"
 }

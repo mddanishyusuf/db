@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/georocket/georocket/languages",
   "pulls_url": "https://api.github.com/repos/georocket/georocket/pulls{/number}",
   "created_at": "2016-05-06T11:34:34Z",
-  "updated_at": "2018-09-13T12:37:57Z",
-  "pushed_at": "2018-09-13T12:37:55Z",
+  "updated_at": "2018-09-14T12:31:05Z",
+  "pushed_at": "2018-09-14T12:31:03Z",
   "homepage": "https://georocket.io",
-  "size": 1909,
+  "size": 1915,
   "stargazers_count": 29,
   "language": "Java",
   "mirror_url": null,
@@ -57,7 +57,7 @@
     "tim-hellhake": 59,
     "bhiemenz": 79,
     "andrej-sajenko": 103,
-    "michel-kraemer": 654
+    "michel-kraemer": 657
   },
   "pulls_authors": [
     "s0x",
@@ -93,5 +93,5 @@
       "color": "#9DC3FF"
     }
   },
-  "fetched_at": "2018-09-13T16:28:27.392Z"
+  "fetched_at": "2018-09-14T19:42:08.827Z"
 }

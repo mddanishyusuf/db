@@ -23,7 +23,7 @@
     "rpi-ws281x"
   ],
   "contribs": {
-    "fetched_at": "2018-09-14T08:13:44.217Z",
+    "fetched_at": "2018-09-14T18:19:55.631Z",
     "repos": [
       "pimoroni/displayotron",
       "pimoroni/pxt-touchbit",
@@ -189,7 +189,8 @@
       "Gadgetoid/PiGlow",
       "Gadgetoid/RetroCade_Synth",
       "Gadgetoid/TinyWire",
-      "Gadgetoid/WiringPi-Python"
+      "Gadgetoid/WiringPi-Python",
+      "pimoroni/micropython-touchbit"
     ]
   }
 }

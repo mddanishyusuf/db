@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bitwalker/timex/languages",
   "pulls_url": "https://api.github.com/repos/bitwalker/timex/pulls{/number}",
   "created_at": "2014-07-27T06:53:52Z",
-  "updated_at": "2018-09-14T03:13:33Z",
-  "pushed_at": "2018-09-11T18:24:09Z",
+  "updated_at": "2018-09-14T14:01:03Z",
+  "pushed_at": "2018-09-14T17:55:58Z",
   "homepage": "https://hexdocs.pm/timex",
   "size": 2223,
-  "stargazers_count": 989,
+  "stargazers_count": 991,
   "language": "Elixir",
   "mirror_url": null,
   "archived": false,
@@ -153,7 +153,8 @@
     "phyxolog": 1,
     "enerick": 1,
     "jeremyowensboggs": 1,
-    "sparta-developers": 1
+    "sparta-developers": 1,
+    "kelvinst": 1
   },
   "pulls_authors": [
     "ckhrysze",
@@ -308,9 +309,9 @@
   ],
   "languages": {
     "Elixir": {
-      "bytes": 598807,
+      "bytes": 599841,
       "color": "#6e4a7e"
     }
   },
-  "fetched_at": "2018-09-14T08:19:33.167Z"
+  "fetched_at": "2018-09-14T19:36:06.271Z"
 }

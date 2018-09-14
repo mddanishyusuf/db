@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/houndci/hound/languages",
   "pulls_url": "https://api.github.com/repos/houndci/hound/pulls{/number}",
   "created_at": "2013-01-02T18:12:40Z",
-  "updated_at": "2018-09-14T03:53:49Z",
+  "updated_at": "2018-09-14T15:42:29Z",
   "pushed_at": "2018-09-14T03:53:51Z",
   "homepage": "https://houndci.com",
   "size": 4630,
-  "stargazers_count": 1602,
+  "stargazers_count": 1603,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -297,5 +297,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:31:01.302Z"
+  "fetched_at": "2018-09-14T19:48:30.704Z"
 }

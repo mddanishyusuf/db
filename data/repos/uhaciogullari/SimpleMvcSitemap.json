@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/uhaciogullari/SimpleMvcSitemap/languages",
   "pulls_url": "https://api.github.com/repos/uhaciogullari/SimpleMvcSitemap/pulls{/number}",
   "created_at": "2013-12-13T21:05:17Z",
-  "updated_at": "2018-08-07T06:54:56Z",
+  "updated_at": "2018-09-14T17:49:46Z",
   "pushed_at": "2018-06-11T09:45:05Z",
   "homepage": "",
   "size": 874,
-  "stargazers_count": 57,
+  "stargazers_count": 58,
   "language": "C#",
   "mirror_url": null,
   "archived": false,
@@ -64,5 +64,5 @@
       "color": "#6a40fd"
     }
   },
-  "fetched_at": "2018-09-11T23:13:19.215Z"
+  "fetched_at": "2018-09-14T20:36:54.787Z"
 }

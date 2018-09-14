@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dhall-lang/dhall-lang/languages",
   "pulls_url": "https://api.github.com/repos/dhall-lang/dhall-lang/pulls{/number}",
   "created_at": "2017-09-04T00:41:19Z",
-  "updated_at": "2018-09-13T23:21:31Z",
-  "pushed_at": "2018-09-13T15:48:34Z",
+  "updated_at": "2018-09-14T18:44:44Z",
+  "pushed_at": "2018-09-14T14:12:47Z",
   "homepage": null,
-  "size": 481,
-  "stargazers_count": 995,
+  "size": 352,
+  "stargazers_count": 997,
   "language": "Nix",
   "mirror_url": null,
   "archived": false,
@@ -51,7 +51,7 @@
     "MazeChaZer": 1,
     "ocharles": 2,
     "f-f": 11,
-    "Gabriel439": 108
+    "Gabriel439": 110
   },
   "pulls_authors": [
     "Gabriel439",
@@ -74,5 +74,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-13T23:57:30.292Z"
+  "fetched_at": "2018-09-14T19:55:34.477Z"
 }

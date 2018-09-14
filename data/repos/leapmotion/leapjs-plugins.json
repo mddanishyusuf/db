@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "leapjs-plugins",
+  "full_name": "leapmotion/leapjs-plugins",
+  "owner": "leapmotion",
+  "private": false,
+  "html_url": "https://github.com/leapmotion/leapjs-plugins",
+  "description": "A collection of plugins available to be used with LeapJS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/leapmotion/leapjs-plugins",
+  "languages_url": "https://api.github.com/repos/leapmotion/leapjs-plugins/languages",
+  "pulls_url": "https://api.github.com/repos/leapmotion/leapjs-plugins/pulls{/number}",
+  "created_at": "2014-01-20T19:55:24Z",
+  "updated_at": "2018-07-27T18:03:40Z",
+  "pushed_at": "2016-11-16T21:47:56Z",
+  "homepage": "https://developer.leapmotion.com/leapjs/plugins",
+  "size": 1865,
+  "stargazers_count": 100,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "leapmotion",
+    "id": 2242710,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyNDI3MTA=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/2242710?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/leapmotion",
+    "html_url": "https://github.com/leapmotion",
+    "followers_url": "https://api.github.com/users/leapmotion/followers",
+    "following_url": "https://api.github.com/users/leapmotion/following{/other_user}",
+    "gists_url": "https://api.github.com/users/leapmotion/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/leapmotion/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/leapmotion/subscriptions",
+    "organizations_url": "https://api.github.com/users/leapmotion/orgs",
+    "repos_url": "https://api.github.com/users/leapmotion/repos",
+    "events_url": "https://api.github.com/users/leapmotion/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/leapmotion/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jefffohl": 1,
+    "raimo": 1,
+    "tkaweski": 1,
+    "neo": 2,
+    "robinboehm": 2,
+    "paulmand3l": 2,
+    "AVGP": 5,
+    "maxsillsLM": 6,
+    "pehrlich": 178
+  },
+  "pulls_authors": [
+    "jefffohl",
+    "neo",
+    "pehrlich",
+    "bananaoomarang",
+    "AVGP",
+    "raimo",
+    "robinboehm",
+    "paulmand3l"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 231681,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 31326,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 18191,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:31.229Z"
+}

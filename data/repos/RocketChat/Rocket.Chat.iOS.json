@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.iOS/languages",
   "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.iOS/pulls{/number}",
   "created_at": "2015-08-03T19:37:05Z",
-  "updated_at": "2018-09-14T05:03:03Z",
-  "pushed_at": "2018-09-12T12:37:30Z",
+  "updated_at": "2018-09-14T16:59:11Z",
+  "pushed_at": "2018-09-14T16:49:11Z",
   "homepage": "https://rocket.chat",
-  "size": 22013,
-  "stargazers_count": 719,
+  "size": 22181,
+  "stargazers_count": 718,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -91,10 +91,10 @@
     "macabeus": 52,
     "soundstorm": 94,
     "artrmz": 176,
-    "Sameesunkaria": 422,
+    "Sameesunkaria": 423,
     "filipealva": 453,
     "cardoso": 1043,
-    "rafaelks": 1470
+    "rafaelks": 1484
   },
   "pulls_authors": [
     "rafaelks",
@@ -166,7 +166,7 @@
   ],
   "languages": {
     "Swift": {
-      "bytes": 1575246,
+      "bytes": 1584914,
       "color": "#ffac45"
     },
     "Ruby": {
@@ -182,5 +182,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-14T08:23:58.401Z"
+  "fetched_at": "2018-09-14T19:40:38.302Z"
 }

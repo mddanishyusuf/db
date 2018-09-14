@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jlord/patchwork/languages",
   "pulls_url": "https://api.github.com/repos/jlord/patchwork/pulls{/number}",
   "created_at": "2014-01-10T00:00:11Z",
-  "updated_at": "2018-09-14T05:40:01Z",
-  "pushed_at": "2018-09-14T07:48:35Z",
+  "updated_at": "2018-09-14T17:57:43Z",
+  "pushed_at": "2018-09-14T17:46:31Z",
   "homepage": "http://jlord.github.io/patchwork",
-  "size": 118377,
+  "size": 118402,
   "stargazers_count": 772,
   "language": "HTML",
   "mirror_url": null,
@@ -29,7 +29,7 @@
   "default_branch": "gh-pages",
   "contributors": {
     "412369197": 8,
-    "reporobot": 94287,
+    "reporobot": 94309,
     "hnhkrch": 56,
     "johnarlo": 30,
     "elzbeth": 30,
@@ -22279,11 +22279,19 @@
     "EatYourVegetables",
     "itsshaylan",
     "Anarchonist7",
-    "bbond2980"
+    "bbond2980",
+    "Kvaibhav01",
+    "ftencaten",
+    "drdubia",
+    "jotne-george",
+    "ZachFaria",
+    "blakewhiting",
+    "kfath1",
+    "sauri10"
   ],
   "languages": {
     "HTML": {
-      "bytes": 25593,
+      "bytes": 24203,
       "color": "#e34c26"
     },
     "CSS": {
@@ -22291,5 +22299,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-14T08:24:25.784Z"
+  "fetched_at": "2018-09-14T19:41:07.244Z"
 }

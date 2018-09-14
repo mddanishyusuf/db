@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/src-d/guide/languages",
   "pulls_url": "https://api.github.com/repos/src-d/guide/pulls{/number}",
   "created_at": "2017-03-14T18:26:24Z",
-  "updated_at": "2018-09-09T17:32:52Z",
-  "pushed_at": "2018-09-06T09:47:07Z",
+  "updated_at": "2018-09-14T15:37:41Z",
+  "pushed_at": "2018-09-14T09:16:34Z",
   "homepage": "",
   "size": 2635,
-  "stargazers_count": 108,
+  "stargazers_count": 109,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,8 @@
     "smola": 28,
     "eiso": 80,
     "tsolakoua": 111,
-    "jorgeschnura": 119
+    "jorgeschnura": 119,
+    "rodolfo-r": 1
   },
   "pulls_authors": [
     "smola",
@@ -121,5 +122,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T20:50:14.378Z"
+  "fetched_at": "2018-09-14T19:51:12.793Z"
 }

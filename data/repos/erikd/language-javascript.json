@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/erikd/language-javascript/languages",
   "pulls_url": "https://api.github.com/repos/erikd/language-javascript/pulls{/number}",
   "created_at": "2010-11-21T19:29:30Z",
-  "updated_at": "2018-09-13T18:20:50Z",
+  "updated_at": "2018-09-14T16:12:30Z",
   "pushed_at": "2018-09-07T20:26:58Z",
   "homepage": "",
   "size": 1048,
-  "stargazers_count": 107,
+  "stargazers_count": 108,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -100,5 +100,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-13T23:56:16.633Z"
+  "fetched_at": "2018-09-14T19:53:56.370Z"
 }

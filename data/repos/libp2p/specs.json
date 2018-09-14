@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/libp2p/specs/languages",
   "pulls_url": "https://api.github.com/repos/libp2p/specs/pulls{/number}",
   "created_at": "2016-09-13T15:45:30Z",
-  "updated_at": "2018-09-11T03:30:16Z",
+  "updated_at": "2018-09-14T14:06:18Z",
   "pushed_at": "2018-09-13T00:44:35Z",
   "homepage": "https://libp2p.io",
   "size": 228,
-  "stargazers_count": 362,
+  "stargazers_count": 363,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -101,5 +101,5 @@
     "RichardLitt"
   ],
   "languages": {},
-  "fetched_at": "2018-09-13T23:54:28.990Z"
+  "fetched_at": "2018-09-14T19:51:58.446Z"
 }

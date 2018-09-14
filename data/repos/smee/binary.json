@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/smee/binary/languages",
   "pulls_url": "https://api.github.com/repos/smee/binary/pulls{/number}",
   "created_at": "2012-06-25T15:03:27Z",
-  "updated_at": "2018-08-16T17:45:11Z",
-  "pushed_at": "2018-01-24T12:11:39Z",
+  "updated_at": "2018-09-14T20:03:50Z",
+  "pushed_at": "2018-09-14T20:03:49Z",
   "homepage": "",
   "size": 155,
   "stargazers_count": 33,
@@ -33,11 +33,12 @@
     "christo-auer",
     "peteut",
     "wjoel",
-    "zsau"
+    "zsau",
+    "WhittlesJr"
   ],
   "languages": {
     "Clojure": {
-      "bytes": 65226,
+      "bytes": 65401,
       "color": "#db5855"
     },
     "Java": {
@@ -45,5 +46,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-11T13:51:46.488Z"
+  "fetched_at": "2018-09-14T20:34:08.427Z"
 }

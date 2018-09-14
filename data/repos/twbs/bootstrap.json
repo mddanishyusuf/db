@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/twbs/bootstrap/languages",
   "pulls_url": "https://api.github.com/repos/twbs/bootstrap/pulls{/number}",
   "created_at": "2011-07-29T21:19:00Z",
-  "updated_at": "2018-09-14T08:11:41Z",
-  "pushed_at": "2018-09-14T07:32:03Z",
+  "updated_at": "2018-09-14T18:22:45Z",
+  "pushed_at": "2018-09-14T19:27:06Z",
   "homepage": "http://getbootstrap.com",
-  "size": 126264,
-  "stargazers_count": 127355,
+  "size": 126281,
+  "stargazers_count": 127367,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -131,7 +131,7 @@
     "burnsra": 34,
     "StevenBlack": 38,
     "ysds": 39,
-    "MartijnCuppens": 39,
+    "MartijnCuppens": 40,
     "pvdlg": 59,
     "pat270": 49,
     "andresgalante": 51,
@@ -144,7 +144,7 @@
     "hnrch02": 223,
     "patrickhlauke": 292,
     "Johann-S": 214,
-    "XhmikosR": 860,
+    "XhmikosR": 863,
     "fat": 1185,
     "cvrebert": 2763,
     "mdo": 8964,
@@ -3984,11 +3984,12 @@
     "k-utsumi",
     "luckygxf",
     "amos-whitewolf",
-    "win121338"
+    "win121338",
+    "edwinfrc"
   ],
   "languages": {
     "CSS": {
-      "bytes": 416484,
+      "bytes": 416498,
       "color": "#563d7c"
     },
     "JavaScript": {
@@ -3996,7 +3997,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 257757,
+      "bytes": 257759,
       "color": "#e34c26"
     },
     "Shell": {
@@ -4012,5 +4013,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-14T08:19:27.596Z"
+  "fetched_at": "2018-09-14T19:35:59.794Z"
 }

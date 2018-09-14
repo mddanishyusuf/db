@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/TheOdinProject/curriculum/languages",
   "pulls_url": "https://api.github.com/repos/TheOdinProject/curriculum/pulls{/number}",
   "created_at": "2013-06-11T03:22:30Z",
-  "updated_at": "2018-09-14T08:19:09Z",
-  "pushed_at": "2018-09-14T08:19:05Z",
+  "updated_at": "2018-09-14T10:09:52Z",
+  "pushed_at": "2018-09-14T10:09:48Z",
   "homepage": null,
-  "size": 29471,
+  "size": 29574,
   "stargazers_count": 1086,
   "language": "HTML",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "kriox26": 235,
     "csrail": 220,
     "mindovermiles262": 296,
-    "CouchofTomato": 254,
+    "CouchofTomato": 255,
     "lujanfernaud": 84,
     "JonathanYiv": 212,
     "craftykate": 622,
@@ -320,7 +320,7 @@
     "arioth": 7,
     "cswans21": 7,
     "gregoryneal": 7,
-    "hyathynth": 8,
+    "hyathynth": 9,
     "keymaster777": 7,
     "kmeda": 7,
     "mojotron": 7,
@@ -2654,5 +2654,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T08:28:57.883Z"
+  "fetched_at": "2018-09-14T19:46:29.381Z"
 }

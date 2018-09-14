@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/vanilla-framework/vanilla-framework/languages",
   "pulls_url": "https://api.github.com/repos/vanilla-framework/vanilla-framework/pulls{/number}",
   "created_at": "2015-02-23T12:34:16Z",
-  "updated_at": "2018-09-14T08:50:06Z",
-  "pushed_at": "2018-09-10T08:57:11Z",
+  "updated_at": "2018-09-14T16:07:06Z",
+  "pushed_at": "2018-09-14T16:07:04Z",
   "homepage": "",
-  "size": 2518,
+  "size": 2523,
   "stargazers_count": 252,
   "language": "CSS",
   "mirror_url": null,
@@ -58,7 +58,7 @@
     "matthewpaulthomas": 6,
     "Lukewh": 13,
     "bartaz": 14,
-    "kwm14": 15,
+    "kwm14": 17,
     "WillMoggridge": 15,
     "0atman": 15,
     "pmahnke": 46,
@@ -102,7 +102,7 @@
   ],
   "languages": {
     "CSS": {
-      "bytes": 224930,
+      "bytes": 224975,
       "color": "#563d7c"
     },
     "Shell": {
@@ -122,5 +122,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T09:09:36.116Z"
+  "fetched_at": "2018-09-14T20:34:19.488Z"
 }

@@ -20,7 +20,7 @@
     "p-society"
   ],
   "contribs": {
-    "fetched_at": "2018-09-14T08:15:09.265Z",
+    "fetched_at": "2018-09-14T18:21:26.572Z",
     "repos": [
       "knrt10/GoApp",
       "knrt10/blogApp",
@@ -86,7 +86,8 @@
       "p-society/Online_Rosei",
       "p-society/Online_Rosie_FrontEnd",
       "knrt10/asciiConvert",
-      "prometheus/tsdb"
+      "prometheus/tsdb",
+      "p-society/Online_Rosei_FrontEnd"
     ]
   },
   "public_gists": 14

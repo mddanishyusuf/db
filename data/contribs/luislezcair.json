@@ -56,13 +56,13 @@
     "Unvanquished/Unvanquished": {
       "full_name": "Unvanquished/Unvanquished",
       "name": "Unvanquished",
-      "stargazers_count": 394,
-      "popularity": 3.594542122530118,
+      "stargazers_count": 395,
+      "popularity": 3.5956455136008625,
       "percentage": 0.0125203455615375,
       "maturity": 4.901944974673332,
       "total_commits_count": 7987,
-      "activity": 2.128022686636987,
-      "total_score": 22.721389641810248,
+      "activity": 2.0704336930014198,
+      "total_score": 22.66711261731579,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

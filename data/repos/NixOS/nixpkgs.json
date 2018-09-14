@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/NixOS/nixpkgs/languages",
   "pulls_url": "https://api.github.com/repos/NixOS/nixpkgs/pulls{/number}",
   "created_at": "2012-06-04T02:49:46Z",
-  "updated_at": "2018-09-14T08:27:34Z",
-  "pushed_at": "2018-09-14T08:23:27Z",
+  "updated_at": "2018-09-14T18:06:19Z",
+  "pushed_at": "2018-09-14T19:54:11Z",
   "homepage": null,
-  "size": 851710,
-  "stargazers_count": 2803,
+  "size": 851857,
+  "stargazers_count": 2804,
   "language": "Nix",
   "mirror_url": null,
   "archived": false,
@@ -52,9 +52,9 @@
     "peti": 15253,
     "edolstra": 12052,
     "FRidh": 4789,
-    "7c6f434c": 4703,
+    "7c6f434c": 4704,
     "vcunat": 4369,
-    "Mic92": 4202,
+    "Mic92": 4203,
     "joachifm": 2727,
     "ttuegel": 2672,
     "domenkozar": 2663,
@@ -70,13 +70,13 @@
     "globin": 1605,
     "NeQuissimus": 1571,
     "aszlig": 1547,
-    "dezgeg": 1511,
+    "dezgeg": 1514,
     "jagajaga": 1459,
     "lethalman": 1419,
     "nckx": 1337,
     "vbgl": 1332,
     "bjornfor": 1193,
-    "jtojnar": 1204,
+    "jtojnar": 1207,
     "Ericson2314": 1189,
     "orivej": 1117,
     "dtzWill": 1095,
@@ -96,7 +96,7 @@
     "dotlambda": 725,
     "zimbatm": 674,
     "bluescreen303": 670,
-    "xeji": 674,
+    "xeji": 682,
     "nbp": 634,
     "Phreedom": 595,
     "Fuuzetsu": 523,
@@ -121,7 +121,7 @@
     "ocharles": 362,
     "DamienCassou": 336,
     "primeos": 346,
-    "taku0": 326,
+    "taku0": 327,
     "matthiasbeyer": 320,
     "yegortimoshenko": 307,
     "mimadrid": 303,
@@ -235,7 +235,7 @@
     "mpickering": 61,
     "sigma": 61,
     "tobias-hammerschmidt": 60,
-    "hedning": 60,
+    "hedning": 65,
     "pmahoney": 60,
     "Chiiruno": 61,
     "symphorien": 58,
@@ -2442,11 +2442,13 @@
     "danme",
     "ramirez7",
     "The-Compiler",
-    "haslersn"
+    "haslersn",
+    "1000101",
+    "brocking"
   ],
   "languages": {
     "Nix": {
-      "bytes": 28398696,
+      "bytes": 28399856,
       "color": "#7e7eff"
     },
     "Shell": {
@@ -2562,5 +2564,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-14T08:38:48.964Z"
+  "fetched_at": "2018-09-14T19:55:30.284Z"
 }

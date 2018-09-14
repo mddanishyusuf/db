@@ -147,13 +147,13 @@
     "Chaosthebot/Chaos": {
       "full_name": "Chaosthebot/Chaos",
       "name": "Chaos",
-      "stargazers_count": 2492,
-      "popularity": 4.3964302488144105,
+      "stargazers_count": 2493,
+      "popularity": 4.396604552269741,
       "percentage": 3.0848329048843186,
       "maturity": 3.544685671046604,
       "total_commits_count": 389,
-      "activity": 1.218901136290925,
-      "total_score": 23.260656075251653,
+      "activity": 1.2137453090515407,
+      "total_score": 23.256093058992736,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -162,11 +162,11 @@
       "name": "frappe",
       "stargazers_count": 969,
       "popularity": 3.985959304739356,
-      "percentage": 0.006054001695120475,
+      "percentage": 0.006053635207942369,
       "maturity": 5,
-      "total_commits_count": 16518,
+      "total_commits_count": 16519,
       "activity": 5,
-      "total_score": 26.961014944788452,
+      "total_score": 26.961014754884065,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/training-center/mentoria/languages",
   "pulls_url": "https://api.github.com/repos/training-center/mentoria/pulls{/number}",
   "created_at": "2016-04-08T19:24:42Z",
-  "updated_at": "2018-09-10T12:35:08Z",
-  "pushed_at": "2018-09-03T15:53:37Z",
+  "updated_at": "2018-09-14T16:31:35Z",
+  "pushed_at": "2018-09-14T16:31:31Z",
   "homepage": "",
-  "size": 2894,
+  "size": 2898,
   "stargazers_count": 944,
   "language": null,
   "mirror_url": null,
@@ -303,7 +303,7 @@
     "anacoimbrag": 1,
     "andreneto97": 1,
     "anteriovieira": 1,
-    "biancarosa": 1,
+    "biancarosa": 2,
     "brunoalano": 1,
     "cayohenrique": 1,
     "chicocvenancio": 1,
@@ -731,5 +731,5 @@
     "twobanks"
   ],
   "languages": {},
-  "fetched_at": "2018-09-12T15:36:00.701Z"
+  "fetched_at": "2018-09-14T19:39:22.362Z"
 }

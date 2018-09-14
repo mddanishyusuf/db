@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/oppia/oppia/languages",
   "pulls_url": "https://api.github.com/repos/oppia/oppia/pulls{/number}",
   "created_at": "2015-08-14T00:16:14Z",
-  "updated_at": "2018-09-14T03:16:42Z",
-  "pushed_at": "2018-09-14T08:12:33Z",
+  "updated_at": "2018-09-14T19:38:25Z",
+  "pushed_at": "2018-09-14T19:32:09Z",
   "homepage": "https://www.oppia.org",
-  "size": 107756,
-  "stargazers_count": 728,
+  "size": 107726,
+  "stargazers_count": 729,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -114,7 +114,7 @@
     "bayestheorem": 50,
     "edallison": 57,
     "rainehoover": 47,
-    "vojtechjelinek": 54,
+    "vojtechjelinek": 55,
     "bansalnitish": 46,
     "michaelWagner": 62,
     "DubeySandeep": 52,
@@ -128,7 +128,7 @@
     "Arunabh98": 66,
     "brianrodri": 88,
     "tjiang11": 71,
-    "apb7": 89,
+    "apb7": 91,
     "prasanna08": 82,
     "1995YogeshSharma": 98,
     "aks681": 95,
@@ -562,7 +562,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 5311294,
+      "bytes": 5311477,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -578,9 +578,9 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 54495,
+      "bytes": 54825,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:36:26.120Z"
+  "fetched_at": "2018-09-14T19:53:20.110Z"
 }

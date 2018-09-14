@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/angular/material2/languages",
   "pulls_url": "https://api.github.com/repos/angular/material2/pulls{/number}",
   "created_at": "2016-01-04T18:50:02Z",
-  "updated_at": "2018-09-14T07:17:11Z",
-  "pushed_at": "2018-09-14T07:31:54Z",
+  "updated_at": "2018-09-14T19:29:55Z",
+  "pushed_at": "2018-09-14T20:12:33Z",
   "homepage": "https://material.angular.io",
-  "size": 19262,
-  "stargazers_count": 15726,
+  "size": 19315,
+  "stargazers_count": 15730,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "jefersonestevo": 9,
     "dozingcat": 9,
     "traviskaufman": 9,
-    "CaerusKaru": 10,
+    "CaerusKaru": 11,
     "fxck": 10,
     "belev": 10,
     "iveysaur": 10,
@@ -140,14 +140,14 @@
     "willshowell": 50,
     "hansl": 55,
     "amcdnl": 62,
-    "josephperrott": 137,
+    "josephperrott": 138,
     "tinayuangao": 138,
     "andrewseguin": 189,
     "kara": 200,
     "mmalerba": 233,
     "jelbourn": 474,
-    "DevVersion": 798,
-    "crisbeto": 1449,
+    "DevVersion": 801,
+    "crisbeto": 1458,
     "aaroneously": 1,
     "aarongarciah": 1,
     "aitboudad": 1,
@@ -353,7 +353,9 @@
     "trevorade": 1,
     "yunga91": 1,
     "ocarreterom": 1,
-    "girtsernstsons": 1
+    "girtsernstsons": 1,
+    "arodr967": 1,
+    "electric-drummer": 1
   },
   "pulls_authors": [
     "chriskrolak",
@@ -901,15 +903,15 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 4531549,
+      "bytes": 4546194,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 418173,
+      "bytes": 422288,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 344078,
+      "bytes": 345624,
       "color": "#563d7c"
     },
     "Python": {
@@ -925,5 +927,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T09:10:48.446Z"
+  "fetched_at": "2018-09-14T20:35:27.630Z"
 }

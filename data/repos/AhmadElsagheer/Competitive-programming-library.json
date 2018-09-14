@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/AhmadElsagheer/Competitive-programming-library/languages",
   "pulls_url": "https://api.github.com/repos/AhmadElsagheer/Competitive-programming-library/pulls{/number}",
   "created_at": "2016-05-29T16:04:20Z",
-  "updated_at": "2018-09-09T22:51:34Z",
+  "updated_at": "2018-09-14T15:48:32Z",
   "pushed_at": "2018-08-27T12:36:08Z",
   "homepage": "",
   "size": 271,
-  "stargazers_count": 1386,
+  "stargazers_count": 1388,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -70,5 +70,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-12T04:55:40.507Z"
+  "fetched_at": "2018-09-14T19:35:57.046Z"
 }

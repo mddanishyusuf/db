@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/llvm-hs/llvm-hs/languages",
   "pulls_url": "https://api.github.com/repos/llvm-hs/llvm-hs/pulls{/number}",
   "created_at": "2017-01-06T19:25:26Z",
-  "updated_at": "2018-09-14T01:35:09Z",
-  "pushed_at": "2018-08-29T19:39:09Z",
+  "updated_at": "2018-09-14T18:07:03Z",
+  "pushed_at": "2018-09-14T18:07:02Z",
   "homepage": "",
-  "size": 1546,
+  "size": 1550,
   "stargazers_count": 208,
   "language": "Haskell",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "Ralith": 5,
     "ckoparkar": 6,
     "aherrmann": 6,
-    "tmcdonell": 9,
+    "tmcdonell": 11,
     "minad": 12,
     "sdiehl": 24,
     "ollef": 37,
@@ -100,7 +100,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 728727,
+      "bytes": 728916,
       "color": "#5e5086"
     },
     "C++": {
@@ -120,5 +120,5 @@
       "color": "#185619"
     }
   },
-  "fetched_at": "2018-09-14T08:36:49.844Z"
+  "fetched_at": "2018-09-14T19:53:44.486Z"
 }

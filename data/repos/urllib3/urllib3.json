@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/urllib3/urllib3",
   "languages_url": "https://api.github.com/repos/urllib3/urllib3/languages",
   "created_at": "2011-09-18T18:08:28Z",
-  "updated_at": "2018-09-12T23:43:16Z",
-  "pushed_at": "2018-09-12T17:42:55Z",
+  "updated_at": "2018-09-14T14:25:05Z",
+  "pushed_at": "2018-09-14T14:25:03Z",
   "homepage": "https://urllib3.readthedocs.io/",
-  "size": 4132,
-  "stargazers_count": 1715,
+  "size": 4127,
+  "stargazers_count": 1716,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 686821,
+      "bytes": 686677,
       "color": "#3572A5"
     },
     "PowerShell": {
@@ -138,7 +138,7 @@
     "georgemarshall": 10,
     "gruns": 9,
     "brandon-rhodes": 9,
-    "jdufresne": 11,
+    "jdufresne": 12,
     "alex": 10,
     "krishnaiitd": 10,
     "abadger": 10,
@@ -252,7 +252,7 @@
     "frankier": 2,
     "Mattwmaster58": 1
   },
-  "fetched_at": "2018-09-12T23:55:07.304Z",
+  "fetched_at": "2018-09-14T19:47:57.911Z",
   "pulls_url": "https://api.github.com/repos/urllib3/urllib3/pulls{/number}",
   "pulls_authors": [
     "SethMichaelLarson",

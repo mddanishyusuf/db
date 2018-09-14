@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rsyslog/rsyslog/languages",
   "pulls_url": "https://api.github.com/repos/rsyslog/rsyslog/pulls{/number}",
   "created_at": "2013-06-03T15:57:55Z",
-  "updated_at": "2018-09-14T08:43:57Z",
-  "pushed_at": "2018-09-14T08:43:54Z",
+  "updated_at": "2018-09-14T16:19:50Z",
+  "pushed_at": "2018-09-14T18:42:19Z",
   "homepage": "http://www.rsyslog.com",
-  "size": 51287,
-  "stargazers_count": 806,
+  "size": 51884,
+  "stargazers_count": 807,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -142,12 +142,12 @@
     "Whissi": 46,
     "taotetek": 59,
     "mbiebl": 60,
-    "PascalWithopf": 90,
+    "PascalWithopf": 92,
     "jgerhards": 108,
     "janmejay": 155,
     "theinric": 199,
-    "alorbach": 328,
-    "rgerhards": 10769,
+    "alorbach": 329,
+    "rgerhards": 10774,
     "WaeCo": 3,
     "artbristol": 2,
     "infracaninophile": 2,
@@ -445,11 +445,11 @@
   ],
   "languages": {
     "C": {
-      "bytes": 4108956,
+      "bytes": 4111764,
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 1091208,
+      "bytes": 1103343,
       "color": "#89e051"
     },
     "JavaScript": {
@@ -465,7 +465,7 @@
       "color": "#ccc"
     },
     "Makefile": {
-      "bytes": 85785,
+      "bytes": 85975,
       "color": "#427819"
     },
     "Python": {
@@ -501,5 +501,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T09:11:35.740Z"
+  "fetched_at": "2018-09-14T20:36:12.822Z"
 }

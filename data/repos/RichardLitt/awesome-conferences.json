@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/RichardLitt/awesome-conferences/languages",
   "pulls_url": "https://api.github.com/repos/RichardLitt/awesome-conferences/pulls{/number}",
   "created_at": "2014-08-20T20:41:09Z",
-  "updated_at": "2018-09-14T02:31:36Z",
-  "pushed_at": "2018-09-12T09:56:32Z",
+  "updated_at": "2018-09-14T18:02:51Z",
+  "pushed_at": "2018-09-14T18:02:50Z",
   "homepage": "",
-  "size": 9112,
+  "size": 9122,
   "stargazers_count": 690,
   "language": "Ruby",
   "mirror_url": null,
@@ -84,7 +84,8 @@
     "Hossman333": 10,
     "brittanystoroz": 11,
     "defaltd": 14,
-    "RichardLitt": 153
+    "RichardLitt": 153,
+    "mitrejcevski": 1
   },
   "pulls_authors": [
     "mitrejcevski",
@@ -162,5 +163,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T09:09:21.990Z"
+  "fetched_at": "2018-09-14T20:34:05.579Z"
 }

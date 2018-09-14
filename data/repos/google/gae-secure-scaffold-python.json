@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gae-secure-scaffold-python",
+  "full_name": "google/gae-secure-scaffold-python",
+  "owner": "google",
+  "private": false,
+  "html_url": "https://github.com/google/gae-secure-scaffold-python",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/google/gae-secure-scaffold-python",
+  "languages_url": "https://api.github.com/repos/google/gae-secure-scaffold-python/languages",
+  "pulls_url": "https://api.github.com/repos/google/gae-secure-scaffold-python/pulls{/number}",
+  "created_at": "2014-08-27T19:21:51Z",
+  "updated_at": "2018-05-17T16:22:57Z",
+  "pushed_at": "2018-01-08T23:18:41Z",
+  "homepage": null,
+  "size": 75,
+  "stargazers_count": 105,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "google",
+    "id": 1342004,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/google",
+    "html_url": "https://github.com/google",
+    "followers_url": "https://api.github.com/users/google/followers",
+    "following_url": "https://api.github.com/users/google/following{/other_user}",
+    "gists_url": "https://api.github.com/users/google/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/google/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/google/subscriptions",
+    "organizations_url": "https://api.github.com/users/google/orgs",
+    "repos_url": "https://api.github.com/users/google/repos",
+    "events_url": "https://api.github.com/users/google/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/google/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "neo": 1,
+    "mikispag": 1,
+    "n1ruragu": 1,
+    "miuraken": 1,
+    "insgadget": 1,
+    "JustinAtPsycle": 1,
+    "tavancini": 1,
+    "cyberphobia": 1,
+    "lweichselbaum": 2,
+    "pames": 6
+  },
+  "pulls_authors": [
+    "neo",
+    "mikispag",
+    "pames",
+    "n1ruragu",
+    "joewanko",
+    "lweichselbaum",
+    "prestoncrawford",
+    "krzysztofnowak",
+    "miuraken",
+    "bradleyg",
+    "ChrisJohnRiley",
+    "carstein",
+    "insgadget",
+    "JustinAtPsycle",
+    "tavancini",
+    "dunada"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 55872,
+      "color": "#3572A5"
+    },
+    "Smarty": {
+      "bytes": 12496,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 6619,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4410,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:26.195Z"
+}

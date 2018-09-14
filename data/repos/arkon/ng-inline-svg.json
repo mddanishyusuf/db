@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ng-inline-svg",
+  "full_name": "arkon/ng-inline-svg",
+  "owner": "arkon",
+  "private": false,
+  "html_url": "https://github.com/arkon/ng-inline-svg",
+  "description": "Angular directive for inserting an SVG file inline within an element.",
+  "fork": false,
+  "url": "https://api.github.com/repos/arkon/ng-inline-svg",
+  "languages_url": "https://api.github.com/repos/arkon/ng-inline-svg/languages",
+  "pulls_url": "https://api.github.com/repos/arkon/ng-inline-svg/pulls{/number}",
+  "created_at": "2016-07-07T23:51:07Z",
+  "updated_at": "2018-09-06T11:35:49Z",
+  "pushed_at": "2018-08-01T03:34:17Z",
+  "homepage": "https://echeung.me/ng-inline-svg/",
+  "size": 2250,
+  "stargazers_count": 125,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kravets-levko": 1,
+    "BendingBender": 1,
+    "liuxh0": 1,
+    "hccampos": 1,
+    "renestalder": 5,
+    "arkon": 174
+  },
+  "pulls_authors": [
+    "AnimaMundi",
+    "martinbu",
+    "espeandr",
+    "MateEke",
+    "gethinoakes",
+    "renestalder",
+    "kravets-levko",
+    "BendingBender",
+    "liuxh0",
+    "redmagic",
+    "hccampos",
+    "OhScee",
+    "neo"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 13773,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:29.006Z"
+}

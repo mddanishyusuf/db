@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wtg/shuttletracker/languages",
   "pulls_url": "https://api.github.com/repos/wtg/shuttletracker/pulls{/number}",
   "created_at": "2015-01-28T00:19:00Z",
-  "updated_at": "2018-09-12T13:34:59Z",
-  "pushed_at": "2018-09-12T13:34:56Z",
+  "updated_at": "2018-09-14T19:31:34Z",
+  "pushed_at": "2018-09-14T19:46:01Z",
   "homepage": "https://shuttles.rpi.edu",
-  "size": 6359,
+  "size": 6368,
   "stargazers_count": 6,
   "language": "Go",
   "mirror_url": null,
@@ -58,7 +58,7 @@
     "bamnet": 11,
     "KeyboardNerd": 20,
     "connection-lost": 25,
-    "kochman": 44,
+    "kochman": 46,
     "gbprz": 44,
     "jlyon1": 54
   },
@@ -79,7 +79,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 86169,
+      "bytes": 87873,
       "color": "#375eab"
     },
     "JavaScript": {
@@ -103,5 +103,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T15:47:39.801Z"
+  "fetched_at": "2018-09-14T19:48:38.041Z"
 }

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Unity-ARKit-WRLD",
+  "full_name": "neo/Unity-ARKit-WRLD",
+  "owner": "neo",
+  "private": false,
+  "html_url": "https://github.com/neo/Unity-ARKit-WRLD",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/neo/Unity-ARKit-WRLD",
+  "languages_url": "https://api.github.com/repos/neo/Unity-ARKit-WRLD/languages",
+  "pulls_url": "https://api.github.com/repos/neo/Unity-ARKit-WRLD/pulls{/number}",
+  "created_at": "2017-07-28T16:15:41Z",
+  "updated_at": "2017-08-05T15:12:09Z",
+  "pushed_at": "2017-07-28T16:17:29Z",
+  "homepage": null,
+  "size": 85961,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "neo": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 369067,
+      "color": "#178600"
+    },
+    "Objective-C++": {
+      "bytes": 30605,
+      "color": "#6866fb"
+    },
+    "ShaderLab": {
+      "bytes": 9528,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:27.199Z"
+}

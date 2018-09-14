@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gnu-mcu-eclipse/qemu/languages",
   "pulls_url": "https://api.github.com/repos/gnu-mcu-eclipse/qemu/pulls{/number}",
   "created_at": "2015-08-17T19:10:02Z",
-  "updated_at": "2018-09-01T10:21:42Z",
+  "updated_at": "2018-09-14T11:59:02Z",
   "pushed_at": "2018-05-23T16:36:25Z",
   "homepage": "http://gnuarmeclipse.github.io/qemu/",
   "size": 112568,
-  "stargazers_count": 148,
+  "stargazers_count": 149,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -381,5 +381,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-12T05:00:17.236Z"
+  "fetched_at": "2018-09-14T19:42:24.578Z"
 }

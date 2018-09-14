@@ -61,8 +61,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 6,
-      "activity": 1.7746073474246127,
-      "total_score": 15.660228574036534,
+      "activity": 1.7594042022031022,
+      "total_score": 15.645025428815023,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -186,13 +186,13 @@
     "thank-you-github/thank-you-github": {
       "full_name": "thank-you-github/thank-you-github",
       "name": "thank-you-github",
-      "stargazers_count": 1835,
-      "popularity": 4.263462097389538,
+      "stargazers_count": 1834,
+      "popularity": 4.263225243934695,
       "percentage": 0,
       "maturity": 4.382869384877737,
       "total_commits_count": 2445,
       "activity": 5,
-      "total_score": 26.556125061924085,
+      "total_score": 26.55541450155956,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

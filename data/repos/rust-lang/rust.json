@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-14T07:09:16Z",
-  "pushed_at": "2018-09-14T07:18:32Z",
+  "updated_at": "2018-09-14T19:06:25Z",
+  "pushed_at": "2018-09-14T19:27:59Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 392945,
-  "stargazers_count": 30616,
+  "size": 393187,
+  "stargazers_count": 30629,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -85,7 +85,7 @@
     "tamird": 130,
     "jld": 134,
     "killerswan": 136,
-    "cuviper": 137,
+    "cuviper": 138,
     "richo": 139,
     "zackmdavis": 143,
     "Kimundi": 145,
@@ -100,8 +100,8 @@
     "durka": 178,
     "tbu-": 186,
     "apasel422": 186,
-    "QuietMisdreavus": 188,
-    "kennytm": 1361,
+    "QuietMisdreavus": 189,
+    "kennytm": 1369,
     "brendanzab": 196,
     "Gankro": 228,
     "sanxiyn": 276,
@@ -140,21 +140,21 @@
     "pnkfelix": 925,
     "steveklabnik": 1767,
     "marijnh": 1007,
-    "eddyb": 1294,
+    "eddyb": 1295,
     "GuillaumeGomez": 1692,
-    "oli-obk": 506,
+    "oli-obk": 520,
     "catamorphism": 1523,
     "graydon": 2228,
     "pcwalton": 2828,
-    "alexcrichton": 4682,
+    "alexcrichton": 4684,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13636,
+    "bors": 13640,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
     "barosl": 78,
-    "matthewjasper": 71,
+    "matthewjasper": 73,
     "jroesch": 69,
     "llogiq": 68,
     "pczarn": 68,
@@ -386,7 +386,7 @@
     "whitfin": 14,
     "CrockAgile": 14,
     "mixi": 14,
-    "fintelia": 14,
+    "fintelia": 16,
     "Seldaek": 14,
     "sourcefrog": 14,
     "nhowell": 14,
@@ -421,7 +421,7 @@
     "kyrias": 12,
     "astrieanna": 12,
     "nathankleyn": 12,
-    "PramodBisht": 12,
+    "PramodBisht": 14,
     "semmaz": 12,
     "laumann": 12,
     "tromey": 12,
@@ -506,7 +506,8 @@
     "marcusklaas": 9,
     "m4rw3r": 9,
     "mpenet": 9,
-    "mgattozzi": 9
+    "mgattozzi": 9,
+    "kenta7777": 14
   },
   "pulls_authors": [
     "michaelwoerister",
@@ -3092,7 +3093,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 34383951,
+      "bytes": 34398098,
       "color": "#dea584"
     },
     "Python": {
@@ -3176,5 +3177,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-14T08:28:21.214Z"
+  "fetched_at": "2018-09-14T19:45:49.733Z"
 }

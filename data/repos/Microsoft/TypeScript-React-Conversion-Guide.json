@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TypeScript-React-Conversion-Guide",
+  "full_name": "Microsoft/TypeScript-React-Conversion-Guide",
+  "owner": "Microsoft",
+  "private": false,
+  "html_url": "https://github.com/Microsoft/TypeScript-React-Conversion-Guide",
+  "description": "A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Microsoft/TypeScript-React-Conversion-Guide",
+  "languages_url": "https://api.github.com/repos/Microsoft/TypeScript-React-Conversion-Guide/languages",
+  "pulls_url": "https://api.github.com/repos/Microsoft/TypeScript-React-Conversion-Guide/pulls{/number}",
+  "created_at": "2017-05-09T20:12:33Z",
+  "updated_at": "2018-09-13T07:50:24Z",
+  "pushed_at": "2018-07-28T23:16:54Z",
+  "homepage": null,
+  "size": 106,
+  "stargazers_count": 468,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Microsoft",
+    "id": 6154722,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6154722?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Microsoft",
+    "html_url": "https://github.com/Microsoft",
+    "followers_url": "https://api.github.com/users/Microsoft/followers",
+    "following_url": "https://api.github.com/users/Microsoft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Microsoft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Microsoft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Microsoft/subscriptions",
+    "organizations_url": "https://api.github.com/users/Microsoft/orgs",
+    "repos_url": "https://api.github.com/users/Microsoft/repos",
+    "events_url": "https://api.github.com/users/Microsoft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Microsoft/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "peterblazejewicz": 1,
+    "wbhob": 1,
+    "msftgits": 1,
+    "microsoftopensource": 2,
+    "bowdenk7": 3
+  },
+  "pulls_authors": [
+    "DanielRuf",
+    "jakegavin",
+    "NicolasRouquette",
+    "meetar",
+    "beardlessman",
+    "neo",
+    "peterblazejewicz",
+    "ravshansbox",
+    "ipanasenko",
+    "wbhob",
+    "vincelee888"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 8376,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 8305,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 4168,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 920,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T19:53:25.777Z"
+}

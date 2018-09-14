@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ghuser-io/ghuser.io",
   "languages_url": "https://api.github.com/repos/ghuser-io/ghuser.io/languages",
   "created_at": "2018-06-19T11:36:58Z",
-  "updated_at": "2018-09-14T08:20:03Z",
-  "pushed_at": "2018-09-14T08:07:10Z",
+  "updated_at": "2018-09-14T18:18:59Z",
+  "pushed_at": "2018-09-14T18:40:27Z",
   "homepage": "https://ghuser.io",
-  "size": 43663,
-  "stargazers_count": 535,
+  "size": 16714,
+  "stargazers_count": 550,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -27,18 +27,16 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 605,
+    "AurelienLourot": 382,
     "brillout": 4,
     "jamesgeorge007": 4
   },
   "settings": {
     "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
-    "avatar_url": "https://rawgit.com/ghuser-io/ghuser.io/master/docs/logo_square.png",
     "techs": [
       "React",
       "Node.js",
       "Reframe",
-      "GitHub API",
       "hapi",
       "Bootstrap",
       "Semantic UI",
@@ -49,23 +47,23 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 87945,
+      "bytes": 44643,
       "color": "#f1e05a"
-    },
-    "Shell": {
-      "bytes": 8596,
-      "color": "#89e051"
     },
     "CSS": {
       "bytes": 6365,
       "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 4655,
+      "color": "#89e051"
     },
     "HTML": {
       "bytes": 1616,
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T08:21:48.438Z",
+  "fetched_at": "2018-09-14T19:38:18.830Z",
   "pulls_url": "https://api.github.com/repos/ghuser-io/ghuser.io/pulls{/number}",
   "pulls_authors": [
     "AurelienLourot",

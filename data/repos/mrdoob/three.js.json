@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mrdoob/three.js/languages",
   "pulls_url": "https://api.github.com/repos/mrdoob/three.js/pulls{/number}",
   "created_at": "2010-03-23T18:58:01Z",
-  "updated_at": "2018-09-14T08:38:06Z",
-  "pushed_at": "2018-09-14T08:26:46Z",
+  "updated_at": "2018-09-14T19:24:27Z",
+  "pushed_at": "2018-09-14T19:10:55Z",
   "homepage": "https://threejs.org/",
-  "size": 681932,
-  "stargazers_count": 44812,
+  "size": 681961,
+  "stargazers_count": 44823,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -116,7 +116,7 @@
     "dubejf": 78,
     "fernandojsg": 92,
     "aardgoose": 128,
-    "Itee": 180,
+    "Itee": 181,
     "tschw": 187,
     "zz85": 307,
     "donmccurdy": 300,
@@ -128,7 +128,7 @@
     "bhouston": 840,
     "Mugen87": 1074,
     "alteredq": 1753,
-    "mrdoob": 12633,
+    "mrdoob": 12637,
     "julianwa": 14,
     "yaoyao-cn": 14,
     "empaempa": 13,
@@ -1926,11 +1926,13 @@
     "mindlapse",
     "julianwa",
     "philogb",
-    "Venlious"
+    "Venlious",
+    "dukuo",
+    "gogoend"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 5381695,
+      "bytes": 5381846,
       "color": "#f1e05a"
     },
     "GLSL": {
@@ -1950,5 +1952,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:39:27.534Z"
+  "fetched_at": "2018-09-14T19:55:54.564Z"
 }

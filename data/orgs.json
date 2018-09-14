@@ -17791,6 +17791,61 @@
       "created_at": "2016-10-18T12:12:16Z",
       "updated_at": "2018-01-19T12:30:50Z",
       "type": "Organization"
+    },
+    "Jam3": {
+      "login": "Jam3",
+      "url": "https://api.github.com/orgs/Jam3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1165621?v=4",
+      "name": "Jam3",
+      "is_verified": false,
+      "html_url": "https://github.com/Jam3",
+      "created_at": "2011-11-01T19:15:30Z",
+      "updated_at": "2018-09-10T00:34:30Z",
+      "type": "Organization"
+    },
+    "neolwc": {
+      "login": "neolwc",
+      "url": "https://api.github.com/orgs/neolwc",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/28812456?v=4",
+      "name": "Neobsolete",
+      "is_verified": false,
+      "html_url": "https://github.com/neolwc",
+      "created_at": "2017-05-19T17:25:58Z",
+      "updated_at": "2018-06-21T19:41:35Z",
+      "type": "Organization"
+    },
+    "JuniorIvy": {
+      "login": "JuniorIvy",
+      "url": "https://api.github.com/orgs/JuniorIvy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23411854?v=4",
+      "name": "Junior Ivy",
+      "is_verified": false,
+      "html_url": "https://github.com/JuniorIvy",
+      "created_at": "2016-11-12T03:09:54Z",
+      "updated_at": "2016-11-12T03:35:09Z",
+      "type": "Organization"
+    },
+    "SheridanIMM": {
+      "login": "SheridanIMM",
+      "url": "https://api.github.com/orgs/SheridanIMM",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16840577?v=4",
+      "name": "Sheridan IMM",
+      "is_verified": false,
+      "html_url": "https://github.com/SheridanIMM",
+      "created_at": "2016-01-22T16:31:45Z",
+      "updated_at": "2018-06-07T13:43:59Z",
+      "type": "Organization"
+    },
+    "leapmotion": {
+      "login": "leapmotion",
+      "url": "https://api.github.com/orgs/leapmotion",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2242710?v=4",
+      "name": "Leap Motion",
+      "is_verified": false,
+      "html_url": "https://github.com/leapmotion",
+      "created_at": "2012-08-29T16:17:29Z",
+      "updated_at": "2018-07-31T22:00:00Z",
+      "type": "Organization"
     }
   }
 }

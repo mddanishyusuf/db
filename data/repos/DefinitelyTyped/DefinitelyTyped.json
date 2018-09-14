@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-14T07:45:03Z",
-  "pushed_at": "2018-09-14T07:57:16Z",
+  "updated_at": "2018-09-14T17:41:47Z",
+  "pushed_at": "2018-09-14T18:43:56Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 353992,
-  "stargazers_count": 17404,
+  "size": 354259,
+  "stargazers_count": 17410,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -103,7 +103,7 @@
     "plantain-00": 58,
     "NoHomey": 58,
     "JoshuaKGoldberg": 60,
-    "Flarna": 78,
+    "Flarna": 80,
     "DomiR": 54,
     "pelotom": 60,
     "miniak": 60,
@@ -168,7 +168,7 @@
     "hinell": 37,
     "rokoroku": 37,
     "amiram": 37,
-    "dex4er": 40,
+    "dex4er": 41,
     "bgrieder": 36,
     "frogcjn": 35,
     "resir014": 35,
@@ -462,9 +462,9 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 33,
+    "danwbyrne": 39,
     "odahcam": 46,
-    "mike-north": 42
+    "mike-north": 51
   },
   "pulls_authors": [
     "saenglert",
@@ -9049,11 +9049,15 @@
     "dmortimer",
     "oneillsp96",
     "buaban",
-    "wlegate"
+    "wlegate",
+    "dymafr",
+    "RichTeaTime",
+    "mabidina",
+    "gillchristian"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25286681,
+      "bytes": 25327201,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -9065,5 +9069,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:22:18.557Z"
+  "fetched_at": "2018-09-14T19:38:48.295Z"
 }

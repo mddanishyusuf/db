@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "adyen-api-go",
+  "full_name": "zhutik/adyen-api-go",
+  "owner": "zhutik",
+  "private": false,
+  "html_url": "https://github.com/zhutik/adyen-api-go",
+  "description": "Adyen API Library for GO",
+  "fork": false,
+  "url": "https://api.github.com/repos/zhutik/adyen-api-go",
+  "languages_url": "https://api.github.com/repos/zhutik/adyen-api-go/languages",
+  "pulls_url": "https://api.github.com/repos/zhutik/adyen-api-go/pulls{/number}",
+  "created_at": "2017-03-28T18:01:58Z",
+  "updated_at": "2018-09-14T14:52:03Z",
+  "pushed_at": "2018-09-14T14:52:01Z",
+  "homepage": "https://godoc.org/github.com/zhutik/adyen-api-go",
+  "size": 174,
+  "stargazers_count": 9,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "emirb": 3,
+    "sywesk": 3,
+    "lbailly": 12,
+    "codingconcepts": 16,
+    "zhutik": 79
+  },
+  "pulls_authors": [
+    "zhutik",
+    "emirb",
+    "sywesk",
+    "lbailly",
+    "codingconcepts"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 87456,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 198,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T19:44:41.672Z"
+}

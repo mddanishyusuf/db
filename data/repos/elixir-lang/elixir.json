@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elixir-lang/elixir/languages",
   "pulls_url": "https://api.github.com/repos/elixir-lang/elixir/pulls{/number}",
   "created_at": "2011-01-09T08:43:57Z",
-  "updated_at": "2018-09-14T03:45:46Z",
-  "pushed_at": "2018-09-13T23:31:33Z",
+  "updated_at": "2018-09-14T17:36:56Z",
+  "pushed_at": "2018-09-14T17:27:54Z",
   "homepage": "http://elixir-lang.org/",
-  "size": 37758,
-  "stargazers_count": 13837,
+  "size": 37835,
+  "stargazers_count": 13839,
   "language": "Elixir",
   "mirror_url": null,
   "archived": false,
@@ -122,7 +122,7 @@
     "tuvistavie": 29,
     "oneeman": 29,
     "alexrp": 31,
-    "ggcampinho": 31,
+    "ggcampinho": 32,
     "pragdave": 31,
     "andrzejsliwa": 39,
     "zhew2013": 37,
@@ -134,7 +134,7 @@
     "chyndman": 46,
     "amatalai": 47,
     "ericentin": 47,
-    "fertapric": 53,
+    "fertapric": 54,
     "mururu": 58,
     "wojtekmach": 62,
     "rafaelfranca": 99,
@@ -143,11 +143,11 @@
     "jwarwick": 163,
     "yrashk": 207,
     "alco": 376,
-    "eksperimental": 391,
+    "eksperimental": 395,
     "ericmj": 491,
     "whatyouhide": 438,
     "lexmag": 670,
-    "josevalim": 8631,
+    "josevalim": 8634,
     "mhinz": 7,
     "uesteibar": 7,
     "davydog187": 7,
@@ -1420,11 +1420,11 @@
   ],
   "languages": {
     "Elixir": {
-      "bytes": 4513204,
+      "bytes": 4520826,
       "color": "#6e4a7e"
     },
     "Erlang": {
-      "bytes": 469121,
+      "bytes": 469307,
       "color": "#B83998"
     },
     "Makefile": {
@@ -1448,5 +1448,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T08:19:24.556Z"
+  "fetched_at": "2018-09-14T19:35:56.490Z"
 }

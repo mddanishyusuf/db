@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/git/git/languages",
   "pulls_url": "https://api.github.com/repos/git/git/pulls{/number}",
   "created_at": "2008-07-23T14:21:26Z",
-  "updated_at": "2018-09-14T08:19:29Z",
+  "updated_at": "2018-09-14T18:08:49Z",
   "pushed_at": "2018-09-13T22:45:24Z",
   "homepage": "",
   "size": 108801,
-  "stargazers_count": 24073,
+  "stargazers_count": 24085,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -846,5 +846,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-14T08:31:34.700Z"
+  "fetched_at": "2018-09-14T19:49:00.394Z"
 }

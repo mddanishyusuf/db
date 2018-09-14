@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/magento/magento2/languages",
   "pulls_url": "https://api.github.com/repos/magento/magento2/pulls{/number}",
   "created_at": "2011-11-30T15:30:13Z",
-  "updated_at": "2018-09-14T08:19:16Z",
-  "pushed_at": "2018-09-14T08:13:03Z",
+  "updated_at": "2018-09-14T15:11:55Z",
+  "pushed_at": "2018-09-14T17:03:18Z",
   "homepage": "http://www.magento.com",
-  "size": 480866,
-  "stargazers_count": 6086,
+  "size": 480975,
+  "stargazers_count": 6085,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -85,7 +85,7 @@
     "magento-team": 353,
     "SiarheiAndreyeu": 201,
     "Dooffy": 183,
-    "vzabaznov": 200,
+    "vzabaznov": 189,
     "nmalevanec": 105,
     "dyushkin": 219,
     "olgalytvynenko": 162,
@@ -104,7 +104,7 @@
     "paliarush": 400,
     "o-iegorov": 165,
     "erikhansen": 241,
-    "olysenko": 447,
+    "olysenko": 448,
     "vzubovich": 508,
     "AVoskoboinikov": 153,
     "Mulderua": 213,
@@ -153,7 +153,7 @@
     "zakdma": 310,
     "aakimov": 164,
     "sevos1984": 153,
-    "magento-cicd2": 412,
+    "magento-cicd2": 414,
     "kalashnikau-uladzimir": 152,
     "vil11": 135,
     "aleksandrosadchiy": 127,
@@ -175,7 +175,7 @@
     "ameysar": 104,
     "tjwiebell": 97,
     "ValeryYafremau": 75,
-    "serhii-balko": 108,
+    "serhii-balko": 128,
     "jilu1": 185,
     "arnie1947": 72,
     "Pechenushko": 67,
@@ -323,7 +323,7 @@
     "bbatsche": 20,
     "giabmf11": 20,
     "PieterCappelle": 20,
-    "yelahin-serhiy": 20,
+    "yelahin-serhiy": 25,
     "maximgubar": 20,
     "davgrigoryan1992": 20,
     "waynetheisinger": 19,
@@ -344,7 +344,9 @@
     "VeronikaYarats": 18,
     "YuliyaLabudova": 18,
     "lusinehak": 12,
-    "stkorf": 12
+    "stkorf": 12,
+    "nikita-shcherbatykh": 24,
+    "mastiuhin-olexandr": 21
   },
   "pulls_authors": [
     "bartoszkubicki",
@@ -1618,7 +1620,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 75767743,
+      "bytes": 75779310,
       "color": "#4F5D95"
     },
     "HTML": {
@@ -1626,7 +1628,7 @@
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 5338125,
+      "bytes": 5338225,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -1642,5 +1644,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:27:32.114Z"
+  "fetched_at": "2018-09-14T19:44:46.182Z"
 }

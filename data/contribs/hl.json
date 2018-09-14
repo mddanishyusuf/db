@@ -4,13 +4,13 @@
     "swoosh/swoosh": {
       "full_name": "swoosh/swoosh",
       "name": "swoosh",
-      "stargazers_count": 484,
-      "popularity": 3.6840761180489436,
+      "stargazers_count": 485,
+      "popularity": 3.684974163220027,
       "percentage": 0.29239766081871343,
       "maturity": 3.4818864702804473,
       "total_commits_count": 342,
       "activity": 5,
-      "total_score": 23.156039275803153,
+      "total_score": 23.158767547536357,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -199,13 +199,13 @@
     "catfan/Medoo": {
       "full_name": "catfan/Medoo",
       "name": "Medoo",
-      "stargazers_count": 3326,
-      "popularity": 4.521843798408654,
+      "stargazers_count": 3329,
+      "popularity": 4.522235454615453,
       "percentage": 0.26109660574412535,
       "maturity": 3.537156531608139,
       "total_commits_count": 383,
       "activity": 5,
-      "total_score": 25.79332740721329,
+      "total_score": 25.794515669647495,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -295,8 +295,8 @@
       "percentage": 7.6923076923076925,
       "maturity": 0,
       "total_commits_count": 13,
-      "activity": 0.7210862275619734,
-      "total_score": 10.098810969460267,
+      "activity": 0.719439687837661,
+      "total_score": 10.097164429735955,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

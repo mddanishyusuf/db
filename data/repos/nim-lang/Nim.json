@@ -53,7 +53,7 @@
     "barcharcraz": 17,
     "ventor3000": 15,
     "exhu": 15,
-    "genotrance": 18,
+    "genotrance": 19,
     "chrisheller": 16,
     "boydgreenfield": 16,
     "rudis": 17,
@@ -69,7 +69,7 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 77,
+    "LemonBoy": 78,
     "cooldome": 39,
     "avsej": 30,
     "Parashurama": 31,
@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 533,
     "dom96": 1333,
-    "Araq": 6631,
+    "Araq": 6663,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -366,11 +366,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-14T01:44:37Z",
-  "pushed_at": "2018-09-14T07:45:20Z",
+  "updated_at": "2018-09-14T15:09:39Z",
+  "pushed_at": "2018-09-14T19:07:37Z",
   "homepage": "https://nim-lang.org/",
-  "size": 71043,
-  "stargazers_count": 5448,
+  "size": 71293,
+  "stargazers_count": 5452,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -404,16 +404,20 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8387522,
+      "bytes": 9501324,
       "color": "#37775b"
     },
     "C": {
-      "bytes": 2822647,
+      "bytes": 2928631,
       "color": "#555555"
     },
     "C++": {
       "bytes": 147107,
       "color": "#f34b7d"
+    },
+    "HTML": {
+      "bytes": 105702,
+      "color": "#e34c26"
     },
     "Assembly": {
       "bytes": 26550,
@@ -435,10 +439,6 @@
       "bytes": 10651,
       "color": "#ccc"
     },
-    "HTML": {
-      "bytes": 8803,
-      "color": "#e34c26"
-    },
     "Batchfile": {
       "bytes": 7463,
       "color": "#C1F12E"
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T08:23:15.765Z",
+  "fetched_at": "2018-09-14T19:39:45.879Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

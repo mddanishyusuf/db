@@ -11,14 +11,14 @@
   "languages_url": "https://api.github.com/repos/bdbch/js-state-handler/languages",
   "pulls_url": "https://api.github.com/repos/bdbch/js-state-handler/pulls{/number}",
   "created_at": "2017-09-12T11:18:10Z",
-  "updated_at": "2018-07-13T15:48:30Z",
+  "updated_at": "2018-09-14T12:21:14Z",
   "pushed_at": "2017-11-04T22:03:43Z",
   "homepage": "https://bdbch.github.io/js-state-handler/",
   "size": 124,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
-  "archived": true,
+  "archived": false,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -54,5 +54,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-18T09:17:40.998Z"
+  "fetched_at": "2018-09-14T19:37:48.930Z"
 }

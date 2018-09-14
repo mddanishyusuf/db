@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/alexmoreno/telegram-br/languages",
   "pulls_url": "https://api.github.com/repos/alexmoreno/telegram-br/pulls{/number}",
   "created_at": "2016-07-07T14:53:51Z",
-  "updated_at": "2018-09-03T18:41:59Z",
-  "pushed_at": "2018-09-03T18:41:58Z",
+  "updated_at": "2018-09-14T18:41:56Z",
+  "pushed_at": "2018-09-14T13:26:27Z",
   "homepage": null,
   "size": 84,
   "stargazers_count": 177,
@@ -97,8 +97,9 @@
     "ogiansouza",
     "matheusmpessoa",
     "kurybr",
-    "ogilvieira"
+    "ogilvieira",
+    "alessandrofeitoza"
   ],
   "languages": {},
-  "fetched_at": "2018-09-12T04:55:56.716Z"
+  "fetched_at": "2018-09-14T19:36:35.275Z"
 }

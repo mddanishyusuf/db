@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ghc/ghc/languages",
   "pulls_url": "https://api.github.com/repos/ghc/ghc/pulls{/number}",
   "created_at": "2011-04-02T19:39:34Z",
-  "updated_at": "2018-09-14T06:45:54Z",
-  "pushed_at": "2018-09-13T23:07:56Z",
+  "updated_at": "2018-09-14T15:38:00Z",
+  "pushed_at": "2018-09-14T14:11:19Z",
   "homepage": "http://www.haskell.org/ghc/",
-  "size": 210247,
-  "stargazers_count": 1941,
+  "size": 210264,
+  "stargazers_count": 1940,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/ghc.git",
   "archived": false,
@@ -78,7 +78,7 @@
     "mrBliss": 14,
     "rrnewton": 17,
     "SamB": 15,
-    "alpmestan": 18,
+    "alpmestan": 19,
     "gridaphobe": 16,
     "gintas": 18,
     "quchen": 19,
@@ -113,7 +113,7 @@
     "catamorphism": 86,
     "kgardas": 82,
     "clefru": 81,
-    "monoidal": 93,
+    "monoidal": 94,
     "benl23x5": 346,
     "tibbe": 105,
     "donsbot": 180,
@@ -172,7 +172,7 @@
     "snowleopard": 9,
     "christiaanb": 9,
     "KaneTW": 9,
-    "mgsloan": 9,
+    "mgsloan": 10,
     "int-index": 9,
     "qnikst": 8,
     "ckoparkar": 9,
@@ -550,7 +550,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 23176809,
+      "bytes": 23189469,
       "color": "#5e5086"
     },
     "C": {
@@ -562,7 +562,7 @@
       "color": "#427819"
     },
     "Terra": {
-      "bytes": 515238,
+      "bytes": 515571,
       "color": "#00004c"
     },
     "Logos": {
@@ -602,7 +602,7 @@
       "color": "#0000fb"
     },
     "Perl": {
-      "bytes": 21290,
+      "bytes": 21325,
       "color": "#0298c3"
     },
     "Assembly": {
@@ -658,5 +658,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-14T08:36:44.501Z"
+  "fetched_at": "2018-09-14T19:53:39.979Z"
 }

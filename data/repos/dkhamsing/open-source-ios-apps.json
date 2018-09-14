@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dkhamsing/open-source-ios-apps/languages",
   "pulls_url": "https://api.github.com/repos/dkhamsing/open-source-ios-apps/pulls{/number}",
   "created_at": "2015-01-26T23:32:34Z",
-  "updated_at": "2018-09-14T07:48:09Z",
-  "pushed_at": "2018-09-04T11:27:56Z",
+  "updated_at": "2018-09-14T16:52:58Z",
+  "pushed_at": "2018-09-14T14:51:38Z",
   "homepage": "",
-  "size": 6008,
-  "stargazers_count": 18213,
+  "size": 6197,
+  "stargazers_count": 18217,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -125,8 +125,8 @@
     "jeffreyjackson": 11,
     "kvnbautista": 32,
     "scribblemaniac": 67,
-    "vpeschenkov": 126,
-    "READMEbot": 794,
+    "vpeschenkov": 127,
+    "READMEbot": 796,
     "dkhamsing": 1783,
     "pacificsky": 1,
     "sciencemanx": 1,
@@ -222,7 +222,8 @@
     "yavuz": 1,
     "yusufkildan": 1,
     "archagon": 1,
-    "riley-usagi": 1
+    "riley-usagi": 1,
+    "fborges": 1
   },
   "pulls_authors": [
     "vpeschenkov",
@@ -459,7 +460,7 @@
       "color": "#ffac45"
     },
     "Ruby": {
-      "bytes": 13035,
+      "bytes": 13070,
       "color": "#701516"
     },
     "Shell": {
@@ -467,5 +468,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T08:24:00.656Z"
+  "fetched_at": "2018-09-14T19:40:40.596Z"
 }

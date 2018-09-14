@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/blakeembrey/pluralize/languages",
   "pulls_url": "https://api.github.com/repos/blakeembrey/pluralize/pulls{/number}",
   "created_at": "2013-04-01T18:08:38Z",
-  "updated_at": "2018-09-11T12:56:38Z",
+  "updated_at": "2018-09-14T19:55:35Z",
   "pushed_at": "2018-09-13T17:39:32Z",
   "homepage": null,
   "size": 158,
@@ -104,5 +104,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T00:19:36.446Z"
+  "fetched_at": "2018-09-14T20:36:28.019Z"
 }

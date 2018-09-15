@@ -5,16 +5,16 @@
   "owner": "Symplify",
   "private": false,
   "html_url": "https://github.com/Symplify/Symplify",
-  "description": "Repository to develop Symplify packages. All PRs and issues here.",
+  "description": "Do you use Symfony, maintain packages and are you lazy? You'll love candies you'll find here! :)  Send PRs and issues to this monorepo",
   "fork": false,
   "url": "https://api.github.com/repos/Symplify/Symplify",
   "languages_url": "https://api.github.com/repos/Symplify/Symplify/languages",
   "pulls_url": "https://api.github.com/repos/Symplify/Symplify/pulls{/number}",
   "created_at": "2016-10-16T09:30:11Z",
-  "updated_at": "2018-09-15T00:00:35Z",
-  "pushed_at": "2018-09-15T01:32:45Z",
+  "updated_at": "2018-09-15T16:26:44Z",
+  "pushed_at": "2018-09-15T16:43:28Z",
   "homepage": "",
-  "size": 12921,
+  "size": 12968,
   "stargazers_count": 61,
   "language": "PHP",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "pborreli": 1,
     "Fuco1": 1,
     "payamb": 1,
-    "azdanov": 3,
+    "azdanov": 4,
     "PetrHeinz": 2,
     "sustmi": 2,
     "tomasfejfar": 2,
@@ -73,7 +73,7 @@
     "ostrolucky": 14,
     "enumag": 25,
     "carusogabriel": 36,
-    "TomasVotruba": 4721
+    "TomasVotruba": 4731
   },
   "pulls_authors": [
     "TomasVotruba",
@@ -108,7 +108,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 1059731,
+      "bytes": 1061474,
       "color": "#4F5D95"
     },
     "HTML": {
@@ -128,5 +128,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-15T06:53:49.256Z"
+  "fetched_at": "2018-09-15T16:53:57.618Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/OSSIA/libossia/languages",
   "pulls_url": "https://api.github.com/repos/OSSIA/libossia/pulls{/number}",
   "created_at": "2014-02-04T17:27:26Z",
-  "updated_at": "2018-09-14T21:04:32Z",
-  "pushed_at": "2018-09-14T21:07:03Z",
+  "updated_at": "2018-09-15T12:31:23Z",
+  "pushed_at": "2018-09-15T12:31:21Z",
   "homepage": "https://ossia.github.io",
-  "size": 28655,
+  "size": 28657,
   "stargazers_count": 41,
   "language": "C++",
   "mirror_url": null,
@@ -59,8 +59,8 @@
     "cbossut": 118,
     "reno-": 158,
     "bltzr": 180,
-    "avilleret": 968,
-    "jcelerier": 1809
+    "avilleret": 969,
+    "jcelerier": 1810
   },
   "pulls_authors": [
     "evanmtp",
@@ -81,7 +81,7 @@
       "color": "#f34b7d"
     },
     "Max": {
-      "bytes": 1881719,
+      "bytes": 1883459,
       "color": "#c4a79c"
     },
     "CMake": {
@@ -137,5 +137,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-15T07:02:18.858Z"
+  "fetched_at": "2018-09-15T17:02:19.687Z"
 }

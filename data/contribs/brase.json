@@ -56,13 +56,13 @@
     "MassTransit/MassTransit": {
       "full_name": "MassTransit/MassTransit",
       "name": "MassTransit",
-      "stargazers_count": 1705,
-      "popularity": 4.231534162807805,
+      "stargazers_count": 1706,
+      "popularity": 4.231788940759614,
       "percentage": 0.023832221163012392,
       "maturity": 4.620422265494098,
       "total_commits_count": 4196,
       "activity": 5,
-      "total_score": 26.948557110955107,
+      "total_score": 26.949322234160718,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

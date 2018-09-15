@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/dn1z/pgn2gif/languages",
   "pulls_url": "https://api.github.com/repos/dn1z/pgn2gif/pulls{/number}",
   "created_at": "2018-07-03T09:53:14Z",
-  "updated_at": "2018-09-14T19:13:24Z",
-  "pushed_at": "2018-09-14T19:13:23Z",
+  "updated_at": "2018-09-15T07:32:20Z",
+  "pushed_at": "2018-09-15T07:32:19Z",
   "homepage": "",
-  "size": 5663,
+  "size": 5629,
   "stargazers_count": 50,
   "language": "Python",
   "mirror_url": null,
@@ -29,16 +29,16 @@
   "default_branch": "master",
   "contributors": {
     "mzfr": 6,
-    "dn1z": 36
+    "dn1z": 37
   },
   "pulls_authors": [
     "mzfr"
   ],
   "languages": {
     "Python": {
-      "bytes": 9231,
+      "bytes": 9209,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-14T19:53:18.239Z"
+  "fetched_at": "2018-09-15T17:06:28.786Z"
 }

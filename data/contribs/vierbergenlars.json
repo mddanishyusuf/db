@@ -4,7 +4,7 @@
     "mui-org/material-ui": {
       "full_name": "mui-org/material-ui",
       "name": "material-ui",
-      "stargazers_count": 40317,
+      "stargazers_count": 40321,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.8678522460095754,
@@ -56,7 +56,7 @@
     "rg3/youtube-dl": {
       "full_name": "rg3/youtube-dl",
       "name": "youtube-dl",
-      "stargazers_count": 41658,
+      "stargazers_count": 41665,
       "popularity": 5,
       "percentage": 0.00637267397399949,
       "maturity": 5,
@@ -463,7 +463,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 35252,
+      "total_commits_count": 35264,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

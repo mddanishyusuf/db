@@ -95,13 +95,13 @@
     "netlify/netlify-cms": {
       "full_name": "netlify/netlify-cms",
       "name": "netlify-cms",
-      "stargazers_count": 6265,
-      "popularity": 4.796897770205221,
+      "stargazers_count": 6268,
+      "popularity": 4.797105712536757,
       "percentage": 0.054614964500273075,
       "maturity": 4.254856055748706,
       "total_commits_count": 1831,
       "activity": 5,
-      "total_score": 27.93446313429913,
+      "total_score": 27.935088437672935,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

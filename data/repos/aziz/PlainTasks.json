@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/aziz/PlainTasks/languages",
   "pulls_url": "https://api.github.com/repos/aziz/PlainTasks/pulls{/number}",
   "created_at": "2012-04-16T07:43:52Z",
-  "updated_at": "2018-09-14T11:23:27Z",
+  "updated_at": "2018-09-15T14:53:10Z",
   "pushed_at": "2018-07-10T15:39:06Z",
   "homepage": "",
   "size": 599,
-  "stargazers_count": 2949,
+  "stargazers_count": 2950,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -127,5 +127,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T19:48:27.465Z"
+  "fetched_at": "2018-09-15T17:02:08.444Z"
 }

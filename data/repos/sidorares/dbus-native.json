@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sidorares/dbus-native/languages",
   "pulls_url": "https://api.github.com/repos/sidorares/dbus-native/pulls{/number}",
   "created_at": "2012-08-16T05:37:06Z",
-  "updated_at": "2018-09-06T02:29:03Z",
+  "updated_at": "2018-09-15T15:18:36Z",
   "pushed_at": "2018-09-09T08:31:20Z",
   "homepage": "",
   "size": 610,
-  "stargazers_count": 180,
+  "stargazers_count": 181,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -117,5 +117,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T15:19:27.792Z"
+  "fetched_at": "2018-09-15T17:45:07.615Z"
 }

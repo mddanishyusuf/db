@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/symfony/symfony/languages",
   "pulls_url": "https://api.github.com/repos/symfony/symfony/pulls{/number}",
   "created_at": "2010-01-04T14:21:21Z",
-  "updated_at": "2018-09-14T21:33:47Z",
-  "pushed_at": "2018-09-15T05:42:33Z",
+  "updated_at": "2018-09-15T17:21:45Z",
+  "pushed_at": "2018-09-15T16:46:40Z",
   "homepage": "https://symfony.com",
-  "size": 124518,
+  "size": 124538,
   "stargazers_count": 18559,
   "language": "PHP",
   "mirror_url": null,
@@ -87,7 +87,7 @@
     "canni": 32,
     "ostrolucky": 33,
     "1ed": 33,
-    "pierredup": 33,
+    "pierredup": 34,
     "ericclemmons": 33,
     "mpiot": 35,
     "derrabus": 36,
@@ -118,7 +118,7 @@
     "GuilhemN": 63,
     "yceruto": 78,
     "HeahDude": 92,
-    "sroze": 149,
+    "sroze": 150,
     "beberlei": 107,
     "jfsimon": 104,
     "jmikola": 105,
@@ -130,11 +130,11 @@
     "stloyd": 153,
     "romainneutron": 166,
     "pborreli": 170,
-    "ro0NL": 169,
+    "ro0NL": 170,
     "lyrixx": 225,
     "javiereguiluz": 223,
     "weaverryan": 254,
-    "chalasr": 387,
+    "chalasr": 394,
     "jakzal": 271,
     "dunglas": 308,
     "schmittjoh": 308,
@@ -146,8 +146,8 @@
     "Tobion": 687,
     "xabbuh": 879,
     "webmozart": 1249,
-    "nicolas-grekas": 5201,
-    "fabpot": 17286,
+    "nicolas-grekas": 5202,
+    "fabpot": 17287,
     "jdreesen": 18,
     "adrienbrault": 18,
     "dbu": 18,
@@ -3114,11 +3114,12 @@
     "WhiteOwlUk",
     "nicobn",
     "brtriver",
-    "dstendardi"
+    "dstendardi",
+    "sylfabre"
   ],
   "languages": {
     "PHP": {
-      "bytes": 15628413,
+      "bytes": 15629069,
       "color": "#4F5D95"
     },
     "HTML": {
@@ -3142,5 +3143,5 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-09-15T07:46:46.533Z"
+  "fetched_at": "2018-09-15T17:47:14.507Z"
 }

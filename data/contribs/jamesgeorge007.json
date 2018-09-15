@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 54182,
+      "stargazers_count": 54187,
       "popularity": 5,
       "percentage": 2.6402640264026402,
       "maturity": 3.4218565080661945,
@@ -251,7 +251,7 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12249,
+      "stargazers_count": 12251,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.907968949730583,
@@ -1122,26 +1122,26 @@
     "ghuser-io/ghuser.io": {
       "full_name": "ghuser-io/ghuser.io",
       "name": "ghuser.io",
-      "stargazers_count": 552,
-      "popularity": 3.7412694925862215,
+      "stargazers_count": 556,
+      "popularity": 3.7444103089437193,
       "percentage": 1.0204081632653061,
       "maturity": 3.548401851531899,
       "total_commits_count": 392,
       "activity": 5,
-      "total_score": 23.816903031879818,
+      "total_score": 23.826742119856878,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "jamesgeorge007/Election-DApp": {
       "full_name": "jamesgeorge007/Election-DApp",
       "name": "Election-DApp",
-      "stargazers_count": 1,
-      "popularity": 0,
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 20,
       "activity": 5,
-      "total_score": 5,
+      "total_score": 26.15610435364042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

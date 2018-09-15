@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sqlitebrowser/sqlitebrowser/languages",
   "pulls_url": "https://api.github.com/repos/sqlitebrowser/sqlitebrowser/pulls{/number}",
   "created_at": "2014-05-04T01:54:44Z",
-  "updated_at": "2018-09-15T06:44:38Z",
-  "pushed_at": "2018-09-10T20:17:20Z",
+  "updated_at": "2018-09-15T12:36:36Z",
+  "pushed_at": "2018-09-15T12:36:33Z",
   "homepage": "https://sqlitebrowser.org",
-  "size": 13673,
-  "stargazers_count": 9491,
+  "size": 13687,
+  "stargazers_count": 9494,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -131,7 +131,7 @@
     "samiraguiar": 38,
     "innermous": 53,
     "revolter": 55,
-    "mgrojo": 147,
+    "mgrojo": 149,
     "justinclift": 250,
     "rp-": 370,
     "MKleusberg": 1047
@@ -223,7 +223,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 4664434,
+      "bytes": 4666402,
       "color": "#f34b7d"
     },
     "C": {
@@ -255,5 +255,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-15T06:51:14.045Z"
+  "fetched_at": "2018-09-15T16:51:25.205Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/NixOS/nixpkgs-channels/languages",
   "pulls_url": "https://api.github.com/repos/NixOS/nixpkgs-channels/pulls{/number}",
   "created_at": "2015-03-05T14:12:05Z",
-  "updated_at": "2018-09-15T00:25:21Z",
-  "pushed_at": "2018-09-15T04:11:35Z",
+  "updated_at": "2018-09-15T16:34:14Z",
+  "pushed_at": "2018-09-15T16:34:11Z",
   "homepage": null,
-  "size": 443683,
+  "size": 443687,
   "stargazers_count": 81,
   "language": "Nix",
   "mirror_url": null,
@@ -76,12 +76,12 @@
     "nckx": 1337,
     "vbgl": 1332,
     "bjornfor": 1193,
-    "jtojnar": 1207,
+    "jtojnar": 1209,
     "Ericson2314": 1189,
     "orivej": 1117,
     "dtzWill": 1095,
     "adisbladis": 1025,
-    "LnL7": 1044,
+    "LnL7": 1045,
     "ryantm": 986,
     "MarcWeber": 953,
     "peterhoeg": 952,
@@ -89,15 +89,15 @@
     "rbvermaa": 940,
     "viric": 926,
     "cillianderoiste": 862,
-    "rycee": 831,
+    "rycee": 832,
     "romildo": 815,
     "offlinehacker": 756,
     "thoughtpolice": 744,
     "dotlambda": 725,
     "zimbatm": 674,
     "bluescreen303": 670,
-    "nbp": 634,
-    "xeji": 681,
+    "nbp": 614,
+    "xeji": 693,
     "Phreedom": 595,
     "Fuuzetsu": 523,
     "invalid-email-address": 511,
@@ -212,7 +212,7 @@
     "Izorkin": 76,
     "worldofpeace": 86,
     "sternenseemann": 74,
-    "bobvanderlinden": 74,
+    "bobvanderlinden": 76,
     "ericbmerritt": 72,
     "lukeadams": 71,
     "risicle": 69,
@@ -318,7 +318,7 @@
     "vaibhavsagar": 34,
     "yrashk": 33,
     "mdaiter": 33,
-    "kalbasit": 34,
+    "kalbasit": 35,
     "matklad": 32,
     "henrytill": 32,
     "jyp": 32,
@@ -369,7 +369,7 @@
     "bignaux": 26,
     "earldouglas": 26,
     "kevincox": 26,
-    "mbode": 26,
+    "mbode": 27,
     "angerman": 26,
     "oconnorr": 26,
     "ftrvxmtrx": 26,
@@ -426,8 +426,9 @@
     "luispedro": 20,
     "moretea": 20,
     "tari": 20,
-    "costrouc": 47,
-    "dasJ": 20
+    "costrouc": 49,
+    "dasJ": 20,
+    "clefru": 20
   },
   "pulls_authors": [
     "imalsogreg",
@@ -442,7 +443,7 @@
   ],
   "languages": {
     "Nix": {
-      "bytes": 28399681,
+      "bytes": 28403976,
       "color": "#7e7eff"
     },
     "Shell": {
@@ -558,5 +559,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-15T07:08:16.373Z"
+  "fetched_at": "2018-09-15T17:08:13.606Z"
 }

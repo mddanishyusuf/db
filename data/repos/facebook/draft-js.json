@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/draft-js/languages",
   "pulls_url": "https://api.github.com/repos/facebook/draft-js/pulls{/number}",
   "created_at": "2016-02-19T20:18:26Z",
-  "updated_at": "2018-09-15T01:50:00Z",
-  "pushed_at": "2018-09-14T23:54:00Z",
+  "updated_at": "2018-09-15T16:07:00Z",
+  "pushed_at": "2018-09-15T16:10:56Z",
   "homepage": "https://draftjs.org/",
-  "size": 8653,
-  "stargazers_count": 13862,
+  "size": 8714,
+  "stargazers_count": 13863,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -157,7 +157,7 @@
     "etrepum": 1,
     "bjohn465": 1,
     "bvaughn": 1,
-    "claudiopro": 1,
+    "claudiopro": 2,
     "colinjeanne": 1,
     "gaearon": 1,
     "Lemmih": 1,
@@ -518,5 +518,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-15T07:07:39.278Z"
+  "fetched_at": "2018-09-15T17:07:36.346Z"
 }

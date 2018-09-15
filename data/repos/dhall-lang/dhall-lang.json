@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dhall-lang/dhall-lang/languages",
   "pulls_url": "https://api.github.com/repos/dhall-lang/dhall-lang/pulls{/number}",
   "created_at": "2017-09-04T00:41:19Z",
-  "updated_at": "2018-09-15T01:35:49Z",
+  "updated_at": "2018-09-15T16:33:57Z",
   "pushed_at": "2018-09-14T14:12:47Z",
   "homepage": null,
   "size": 352,
-  "stargazers_count": 1000,
+  "stargazers_count": 1004,
   "language": "Nix",
   "mirror_url": null,
   "archived": false,
@@ -74,5 +74,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-15T07:08:19.993Z"
+  "fetched_at": "2018-09-15T17:08:17.179Z"
 }

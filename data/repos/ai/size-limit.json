@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/ai/size-limit/languages",
   "pulls_url": "https://api.github.com/repos/ai/size-limit/pulls{/number}",
   "created_at": "2017-06-25T05:18:40Z",
-  "updated_at": "2018-09-12T14:36:27Z",
+  "updated_at": "2018-09-15T15:03:49Z",
   "pushed_at": "2018-09-04T08:18:49Z",
   "homepage": "https://evilmartians.com/chronicles/size-limit-make-the-web-lighter",
   "size": 1305,
@@ -74,5 +74,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T00:19:34.804Z"
+  "fetched_at": "2018-09-15T17:47:37.972Z"
 }

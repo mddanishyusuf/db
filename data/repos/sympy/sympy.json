@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/sympy/sympy/languages",
   "pulls_url": "https://api.github.com/repos/sympy/sympy/pulls{/number}",
   "created_at": "2010-04-30T20:37:14Z",
-  "updated_at": "2018-09-14T22:38:30Z",
-  "pushed_at": "2018-09-15T03:52:38Z",
+  "updated_at": "2018-09-15T10:14:29Z",
+  "pushed_at": "2018-09-15T16:54:27Z",
   "homepage": "https://sympy.org/",
-  "size": 94972,
+  "size": 95005,
   "stargazers_count": 5111,
   "language": "Python",
   "mirror_url": null,
@@ -86,7 +86,7 @@
     "Shekharrajak": 80,
     "kritkaran94": 83,
     "plaes": 81,
-    "sylee957": 86,
+    "sylee957": 88,
     "ArifAhmed1995": 86,
     "vishalg2235": 87,
     "addisonc": 103,
@@ -147,7 +147,7 @@
     "mrocklin": 994,
     "mattpap": 1450,
     "asmeurer": 3528,
-    "smichr": 4718,
+    "smichr": 4719,
     "skirpichev": 1081,
     "drlvk": 185,
     "ethankward": 103,
@@ -1415,7 +1415,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 25959105,
+      "bytes": 25962132,
       "color": "#3572A5"
     },
     "XSLT": {
@@ -1443,5 +1443,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-15T06:57:27.776Z"
+  "fetched_at": "2018-09-15T16:57:30.784Z"
 }

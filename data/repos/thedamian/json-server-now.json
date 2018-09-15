@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/thedamian/json-server-now/languages",
   "pulls_url": "https://api.github.com/repos/thedamian/json-server-now/pulls{/number}",
   "created_at": "2016-07-24T00:59:23Z",
-  "updated_at": "2017-05-15T13:37:39Z",
+  "updated_at": "2018-09-15T11:06:54Z",
   "pushed_at": "2017-05-12T17:09:08Z",
   "homepage": null,
   "size": 4,
-  "stargazers_count": 3,
+  "stargazers_count": 4,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -39,5 +39,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T04:55:57.261Z"
+  "fetched_at": "2018-09-15T16:52:07.579Z"
 }

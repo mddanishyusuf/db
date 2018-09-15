@@ -95,13 +95,13 @@
     "stympy/faker": {
       "full_name": "stympy/faker",
       "name": "faker",
-      "stargazers_count": 6967,
-      "popularity": 4.843028792658327,
+      "stargazers_count": 6966,
+      "popularity": 4.8429664441911155,
       "percentage": 0.07593014426727411,
       "maturity": 4.107961087820043,
       "total_commits_count": 1317,
       "activity": 5,
-      "total_score": 27.79281369735429,
+      "total_score": 27.792626036516,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

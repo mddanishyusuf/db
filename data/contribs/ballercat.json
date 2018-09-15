@@ -4,13 +4,13 @@
     "ballercat/walt": {
       "full_name": "ballercat/walt",
       "name": "walt",
-      "stargazers_count": 1970,
-      "popularity": 4.294306858847718,
+      "stargazers_count": 1971,
+      "popularity": 4.294527357676524,
       "percentage": 93.57142857142857,
       "maturity": 3.3821277569451156,
       "total_commits_count": 280,
       "activity": 5,
-      "total_score": 76.88435166627384,
+      "total_score": 76.88769537351352,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -43,13 +43,13 @@
     "mbasso/awesome-wasm": {
       "full_name": "mbasso/awesome-wasm",
       "name": "awesome-wasm",
-      "stargazers_count": 2462,
-      "popularity": 4.391168347482988,
+      "stargazers_count": 2465,
+      "popularity": 4.391697415789494,
       "percentage": 1.0101010101010102,
       "maturity": 2.773320867412916,
       "total_commits_count": 99,
       "activity": 5,
-      "total_score": 24.296764843105894,
+      "total_score": 24.29842152164142,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

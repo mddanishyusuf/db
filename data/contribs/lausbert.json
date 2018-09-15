@@ -56,13 +56,13 @@
     "likedan/Awesome-CoreML-Models": {
       "full_name": "likedan/Awesome-CoreML-Models",
       "name": "Awesome-CoreML-Models",
-      "stargazers_count": 3285,
-      "popularity": 4.516455460267061,
+      "stargazers_count": 3286,
+      "popularity": 4.5165876816902015,
       "percentage": 1.2345679012345678,
       "maturity": 2.6155739242796985,
       "total_commits_count": 81,
-      "activity": 1.3756810339987076,
-      "total_score": 20.881058485377455,
+      "activity": 1.3744954780282717,
+      "total_score": 20.880290814398677,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

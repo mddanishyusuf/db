@@ -108,13 +108,13 @@
     "SchizoDuckie/DuckieTV": {
       "full_name": "SchizoDuckie/DuckieTV",
       "name": "DuckieTV",
-      "stargazers_count": 736,
-      "popularity": 3.866385506085654,
+      "stargazers_count": 737,
+      "popularity": 3.866975901074915,
       "percentage": 0,
       "maturity": 4.611554710638358,
       "total_commits_count": 4112,
       "activity": 5,
-      "total_score": 25.82226593953368,
+      "total_score": 25.82403712450146,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/alebcay/awesome-shell",
   "languages_url": "https://api.github.com/repos/alebcay/awesome-shell/languages",
   "created_at": "2014-07-07T01:57:42Z",
-  "updated_at": "2018-09-15T04:47:27Z",
-  "pushed_at": "2018-09-09T20:44:38Z",
+  "updated_at": "2018-09-15T16:43:52Z",
+  "pushed_at": "2018-09-15T10:16:48Z",
   "homepage": "",
   "size": 548,
-  "stargazers_count": 13275,
+  "stargazers_count": 13279,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -202,7 +202,7 @@
     "novddd": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-15T06:52:03.274Z",
+  "fetched_at": "2018-09-15T16:52:13.985Z",
   "pulls_url": "https://api.github.com/repos/alebcay/awesome-shell/pulls{/number}",
   "pulls_authors": [
     "nickolasburr",
@@ -400,6 +400,7 @@
     "Camji55",
     "reale",
     "oguzhaninan",
-    "Miserlou"
+    "Miserlou",
+    "MeAndTheFirefly"
   ]
 }

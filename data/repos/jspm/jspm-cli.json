@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jspm/jspm-cli",
   "languages_url": "https://api.github.com/repos/jspm/jspm-cli/languages",
   "created_at": "2013-03-22T23:20:12Z",
-  "updated_at": "2018-09-12T08:42:13Z",
+  "updated_at": "2018-09-15T12:45:28Z",
   "pushed_at": "2018-08-31T14:37:45Z",
   "homepage": "https://jspm.org",
   "size": 3433,
-  "stargazers_count": 3669,
+  "stargazers_count": 3670,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -122,7 +122,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:35:47.073Z",
+  "fetched_at": "2018-09-15T16:54:30.881Z",
   "pulls_url": "https://api.github.com/repos/jspm/jspm-cli/pulls{/number}",
   "pulls_authors": [
     "aluanhaddad",

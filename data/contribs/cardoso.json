@@ -43,7 +43,7 @@
     "RocketChat/Rocket.Chat": {
       "full_name": "RocketChat/Rocket.Chat",
       "name": "Rocket.Chat",
-      "stargazers_count": 19852,
+      "stargazers_count": 19855,
       "popularity": 5,
       "percentage": 0.046052631578947366,
       "maturity": 5,
@@ -212,13 +212,13 @@
     "slackhq/SlackTextViewController": {
       "full_name": "slackhq/SlackTextViewController",
       "name": "SlackTextViewController",
-      "stargazers_count": 8570,
-      "popularity": 4.9329742992033,
+      "stargazers_count": 8571,
+      "popularity": 4.933024977704379,
       "percentage": 0,
       "maturity": 2.9160773650635297,
       "total_commits_count": 122,
       "activity": 5,
-      "total_score": 25.63107762773696,
+      "total_score": 25.631229663240198,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -277,7 +277,7 @@
     "dkhamsing/open-source-ios-apps": {
       "full_name": "dkhamsing/open-source-ios-apps",
       "name": "open-source-ios-apps",
-      "stargazers_count": 18219,
+      "stargazers_count": 18220,
       "popularity": 5,
       "percentage": 0.06476683937823834,
       "maturity": 4.485765472699976,
@@ -355,13 +355,13 @@
     "vapor/fluent": {
       "full_name": "vapor/fluent",
       "name": "fluent",
-      "stargazers_count": 874,
-      "popularity": 3.941103072396381,
+      "stargazers_count": 873,
+      "popularity": 3.940605370661436,
       "percentage": 0.7682458386683739,
       "maturity": 3.8716128980548126,
       "total_commits_count": 781,
-      "activity": 2.49924235514914,
-      "total_score": 22.45938305301502,
+      "activity": 5,
+      "total_score": 24.958597886213767,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

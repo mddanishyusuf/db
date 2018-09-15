@@ -23,7 +23,7 @@
     "Prelude-SIEM-Contrib"
   ],
   "contribs": {
-    "fetched_at": "2018-09-15T06:50:41.018Z",
+    "fetched_at": "2018-09-15T16:50:58.455Z",
     "repos": [
       "rsyslog/rsyslog",
       "elastic/kibana",

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "idle-timeout",
+  "full_name": "jackmu95/idle-timeout",
+  "private": false,
+  "owner": "jackmu95",
+  "html_url": "https://github.com/jackmu95/idle-timeout",
+  "description": "A basic idle state detector written in ES6.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jackmu95/idle-timeout",
+  "languages_url": "https://api.github.com/repos/jackmu95/idle-timeout/languages",
+  "pulls_url": "https://api.github.com/repos/jackmu95/idle-timeout/pulls{/number}",
+  "created_at": "2016-03-29T23:16:38Z",
+  "updated_at": "2018-09-11T09:51:56Z",
+  "pushed_at": "2018-09-15T15:48:10Z",
+  "homepage": "https://www.npmjs.com/package/idle-timeout",
+  "size": 124,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackmu95": 32
+  },
+  "pulls_authors": [
+    "bencoveney"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4517,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-15T16:54:10.471Z"
+}

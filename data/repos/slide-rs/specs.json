@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/slide-rs/specs/languages",
   "pulls_url": "https://api.github.com/repos/slide-rs/specs/pulls{/number}",
   "created_at": "2016-04-06T01:06:31Z",
-  "updated_at": "2018-09-14T20:11:08Z",
-  "pushed_at": "2018-09-13T23:20:38Z",
+  "updated_at": "2018-09-15T16:55:03Z",
+  "pushed_at": "2018-09-15T17:31:30Z",
   "homepage": "https://slide-rs.github.io/",
   "size": 1749,
-  "stargazers_count": 741,
+  "stargazers_count": 742,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,8 @@
     "Kimundi",
     "futile",
     "White-Oak",
-    "lschmierer"
+    "lschmierer",
+    "Axelderan"
   ],
   "languages": {
     "Rust": {
@@ -156,5 +157,5 @@
       "color": "#dea584"
     }
   },
-  "fetched_at": "2018-09-14T20:33:54.742Z"
+  "fetched_at": "2018-09-15T17:45:21.041Z"
 }

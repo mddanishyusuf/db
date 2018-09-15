@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/magento/magento2/languages",
   "pulls_url": "https://api.github.com/repos/magento/magento2/pulls{/number}",
   "created_at": "2011-11-30T15:30:13Z",
-  "updated_at": "2018-09-15T06:25:01Z",
-  "pushed_at": "2018-09-14T21:52:49Z",
+  "updated_at": "2018-09-15T14:20:20Z",
+  "pushed_at": "2018-09-15T16:08:35Z",
   "homepage": "http://www.magento.com",
   "size": 481049,
   "stargazers_count": 6089,
@@ -1616,7 +1616,9 @@
     "cyqui",
     "jschneider81",
     "Bogardo",
-    "alistairstead"
+    "alistairstead",
+    "progreg",
+    "Dmutryk"
   ],
   "languages": {
     "PHP": {
@@ -1644,5 +1646,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-15T06:58:53.241Z"
+  "fetched_at": "2018-09-15T16:58:56.543Z"
 }

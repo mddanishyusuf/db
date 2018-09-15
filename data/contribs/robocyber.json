@@ -82,13 +82,13 @@
     "Roshanjossey/first-contributions": {
       "full_name": "Roshanjossey/first-contributions",
       "name": "first-contributions",
-      "stargazers_count": 2892,
-      "popularity": 4.461102201004851,
+      "stargazers_count": 2895,
+      "popularity": 4.46155262054663,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 10162,
+      "total_commits_count": 10169,
       "activity": 5,
-      "total_score": 28.383306603014553,
+      "total_score": 28.38465786163989,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

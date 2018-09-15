@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/spatie/laravel-url-signer/languages",
   "pulls_url": "https://api.github.com/repos/spatie/laravel-url-signer/pulls{/number}",
   "created_at": "2015-08-14T12:13:18Z",
-  "updated_at": "2018-09-14T13:44:19Z",
+  "updated_at": "2018-09-15T14:39:17Z",
   "pushed_at": "2018-09-04T17:21:16Z",
   "homepage": "https://murze.be/2015/08/url-signing-in-laravel/",
   "size": 52,
-  "stargazers_count": 498,
+  "stargazers_count": 499,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -76,5 +76,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-14T19:48:21.578Z"
+  "fetched_at": "2018-09-15T17:02:02.937Z"
 }

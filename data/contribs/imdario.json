@@ -82,13 +82,13 @@
     "MunifTanjim/minimo": {
       "full_name": "MunifTanjim/minimo",
       "name": "minimo",
-      "stargazers_count": 246,
-      "popularity": 3.3893823839580257,
+      "stargazers_count": 248,
+      "popularity": 3.392911818237103,
       "percentage": 1.2820512820512822,
       "maturity": 3.289760961234559,
       "total_commits_count": 234,
       "activity": 5,
-      "total_score": 22.312566138336198,
+      "total_score": 22.323742680219944,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,13 +121,13 @@
     "donnemartin/awesome-aws": {
       "full_name": "donnemartin/awesome-aws",
       "name": "awesome-aws",
-      "stargazers_count": 6024,
-      "popularity": 4.779859161715775,
+      "stargazers_count": 6025,
+      "popularity": 4.779931260540987,
       "percentage": 0.2188183807439825,
       "maturity": 3.621976093002916,
       "total_commits_count": 457,
       "activity": 5,
-      "total_score": 26.71949940660678,
+      "total_score": 26.71971775403368,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -147,13 +147,13 @@
     "aws/aws-lambda-go": {
       "full_name": "aws/aws-lambda-go",
       "name": "aws-lambda-go",
-      "stargazers_count": 1486,
-      "popularity": 4.171794784109575,
+      "stargazers_count": 1485,
+      "popularity": 4.171502251103407,
       "percentage": 1.2658227848101267,
       "maturity": 2.5939086441356776,
       "total_commits_count": 79,
       "activity": 5,
-      "total_score": 23.389699516466212,
+      "total_score": 23.38877377910492,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -368,7 +368,7 @@
     "avelino/awesome-go": {
       "full_name": "avelino/awesome-go",
       "name": "awesome-go",
-      "stargazers_count": 35138,
+      "stargazers_count": 35145,
       "popularity": 5,
       "percentage": 0.11527377521613832,
       "maturity": 4.230931540259256,
@@ -563,7 +563,7 @@
     "Homebrew/legacy-homebrew": {
       "full_name": "Homebrew/legacy-homebrew",
       "name": "legacy-homebrew",
-      "stargazers_count": 28354,
+      "stargazers_count": 28352,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -700,6 +700,19 @@
       "total_commits_count": 20,
       "activity": 0.5305253329975343,
       "total_score": 10.424093427205467,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "imdario/qantiqa": {
+      "full_name": "imdario/qantiqa",
+      "name": "qantiqa",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

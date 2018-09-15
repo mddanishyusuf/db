@@ -30,7 +30,7 @@
     "cerebro-iiitv"
   ],
   "contribs": {
-    "fetched_at": "2018-09-15T06:43:22.279Z",
+    "fetched_at": "2018-09-15T16:43:53.031Z",
     "repos": [
       "Awesome-Windows/Awesome",
       "fossasia/chat.susi.ai",
@@ -91,7 +91,8 @@
       "aashutoshrathi/stanfordacm",
       "aashutoshrathi/thunderzap_sprout",
       "iiitv/algos-web",
-      "fossasia/susi_skill_cms"
+      "fossasia/susi_skill_cms",
+      "gitcoinco/web"
     ]
   }
 }

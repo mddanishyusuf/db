@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-15T05:05:43Z",
-  "pushed_at": "2018-09-15T06:05:27Z",
+  "updated_at": "2018-09-15T15:50:39Z",
+  "pushed_at": "2018-09-15T16:24:38Z",
   "homepage": "https://swift.org",
-  "size": 338776,
-  "stargazers_count": 45188,
+  "size": 338816,
+  "stargazers_count": 45187,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -118,7 +118,7 @@
     "jopamer": 277,
     "AnnaZaks": 290,
     "davidungar": 464,
-    "milseman": 546,
+    "milseman": 547,
     "compnerd": 576,
     "gparker42": 458,
     "graydon": 519,
@@ -144,7 +144,7 @@
     "practicalswift": 2393,
     "jrose-apple": 3388,
     "gottesmm": 3584,
-    "slavapestov": 4246,
+    "slavapestov": 4258,
     "gribozavr": 4444,
     "jckarter": 4295,
     "lattner": 4536,
@@ -158,7 +158,7 @@
     "JaSpa": 22,
     "zisko": 21,
     "Nirma": 21,
-    "benrimmington": 20,
+    "benrimmington": 21,
     "eschaton": 20,
     "spevans": 20,
     "mortenbekditlevsen": 20,
@@ -1315,15 +1315,16 @@
     "mooman219",
     "filipw",
     "mzp",
-    "daniel-grumberg"
+    "daniel-grumberg",
+    "flashspys"
   ],
   "languages": {
     "C++": {
-      "bytes": 30348414,
+      "bytes": 30343252,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24709050,
+      "bytes": 24709359,
       "color": "#ffac45"
     },
     "Python": {
@@ -1387,5 +1388,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-15T07:07:41.268Z"
+  "fetched_at": "2018-09-15T17:07:38.087Z"
 }

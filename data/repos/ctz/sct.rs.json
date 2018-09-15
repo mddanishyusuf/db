@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ctz/sct.rs/languages",
   "pulls_url": "https://api.github.com/repos/ctz/sct.rs/pulls{/number}",
   "created_at": "2017-07-09T19:46:25Z",
-  "updated_at": "2018-07-15T11:00:59Z",
+  "updated_at": "2018-09-15T09:26:06Z",
   "pushed_at": "2018-07-17T00:35:26Z",
   "homepage": null,
   "size": 52,
-  "stargazers_count": 18,
+  "stargazers_count": 19,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -49,5 +49,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:00:15.591Z"
+  "fetched_at": "2018-09-15T16:57:09.104Z"
 }

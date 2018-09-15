@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/languages",
   "pulls_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls{/number}",
   "created_at": "2017-03-15T13:45:52Z",
-  "updated_at": "2018-09-15T06:07:27Z",
+  "updated_at": "2018-09-15T16:50:30Z",
   "pushed_at": "2018-09-09T18:18:28Z",
   "homepage": "",
   "size": 6570,
-  "stargazers_count": 56826,
+  "stargazers_count": 56842,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -119,5 +119,5 @@
     "bdmorin"
   ],
   "languages": {},
-  "fetched_at": "2018-09-15T07:03:08.688Z"
+  "fetched_at": "2018-09-15T17:03:07.672Z"
 }

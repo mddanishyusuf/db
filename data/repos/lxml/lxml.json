@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/lxml/lxml/languages",
   "pulls_url": "https://api.github.com/repos/lxml/lxml/pulls{/number}",
   "created_at": "2011-02-11T05:43:11Z",
-  "updated_at": "2018-09-14T09:00:25Z",
-  "pushed_at": "2018-09-13T22:08:23Z",
+  "updated_at": "2018-09-15T09:56:37Z",
+  "pushed_at": "2018-09-15T09:56:34Z",
   "homepage": "",
-  "size": 23106,
+  "size": 23109,
   "stargazers_count": 1289,
   "language": "Python",
   "mirror_url": null,
@@ -131,7 +131,7 @@
     "plq": 20,
     "hugovk": 24,
     "SimonSapin": 29,
-    "scoder": 1411
+    "scoder": 1412
   },
   "pulls_authors": [
     "FVolral",
@@ -285,5 +285,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T19:43:40.993Z"
+  "fetched_at": "2018-09-15T16:58:06.728Z"
 }

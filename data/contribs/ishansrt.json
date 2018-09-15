@@ -56,13 +56,13 @@
     "pmd/pmd": {
       "full_name": "pmd/pmd",
       "name": "pmd",
-      "stargazers_count": 1784,
-      "popularity": 4.251214786467938,
+      "stargazers_count": 1785,
+      "popularity": 4.2514582796813665,
       "percentage": 0.014997000599880024,
       "maturity": 4.823125344584881,
       "total_commits_count": 6668,
       "activity": 5,
-      "total_score": 27.408183259764947,
+      "total_score": 27.408914214122056,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

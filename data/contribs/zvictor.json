@@ -186,7 +186,7 @@
     "styled-components/styled-components": {
       "full_name": "styled-components/styled-components",
       "name": "styled-components",
-      "stargazers_count": 19045,
+      "stargazers_count": 19051,
       "popularity": 5,
       "percentage": 0.08347245409015025,
       "maturity": 4.37392996433801,
@@ -329,13 +329,13 @@
     "apollographql/apollo-tutorial-kit": {
       "full_name": "apollographql/apollo-tutorial-kit",
       "name": "apollo-tutorial-kit",
-      "stargazers_count": 169,
-      "popularity": 3.225606778840576,
+      "stargazers_count": 168,
+      "popularity": 3.2230155151553452,
       "percentage": 3.5714285714285716,
       "maturity": 0,
       "total_commits_count": 28,
-      "activity": 1.7676386393151455,
-      "total_score": 12.942062123155711,
+      "activity": 1.7418995061350309,
+      "total_score": 12.907346112208906,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -550,13 +550,13 @@
     "deadalnix/pixel-saver": {
       "full_name": "deadalnix/pixel-saver",
       "name": "pixel-saver",
-      "stargazers_count": 422,
-      "popularity": 3.6244243207914453,
+      "stargazers_count": 423,
+      "popularity": 3.625454431547579,
       "percentage": 1.0309278350515463,
       "maturity": 2.7583693920773915,
       "total_commits_count": 97,
-      "activity": 2.5620912171326307,
-      "total_score": 19.437850553046168,
+      "activity": 2.4812721787712406,
+      "total_score": 19.360259903033903,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -628,7 +628,7 @@
     "meteor/meteor": {
       "full_name": "meteor/meteor",
       "name": "meteor",
-      "stargazers_count": 40260,
+      "stargazers_count": 40266,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

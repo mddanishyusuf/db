@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nate-parrott/Flashlight/languages",
   "pulls_url": "https://api.github.com/repos/nate-parrott/Flashlight/pulls{/number}",
   "created_at": "2014-11-03T04:05:25Z",
-  "updated_at": "2018-09-14T11:08:24Z",
+  "updated_at": "2018-09-15T11:15:55Z",
   "pushed_at": "2017-03-25T20:04:49Z",
   "homepage": "http://flashlight.nateparrott.com",
   "size": 90051,
-  "stargazers_count": 5333,
+  "stargazers_count": 5332,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -376,5 +376,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T19:55:24.979Z"
+  "fetched_at": "2018-09-15T17:08:09.108Z"
 }

@@ -17,13 +17,13 @@
     "y-lohse/inkjs": {
       "full_name": "y-lohse/inkjs",
       "name": "inkjs",
-      "stargazers_count": 133,
-      "popularity": 3.1209418766789323,
+      "stargazers_count": 134,
+      "popularity": 3.1242171147613855,
       "percentage": 5.070422535211268,
       "maturity": 3.5001841718461573,
       "total_commits_count": 355,
       "activity": 5,
-      "total_score": 23.420378196666775,
+      "total_score": 23.432362800241723,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/chubin/cheat.sheets/languages",
   "pulls_url": "https://api.github.com/repos/chubin/cheat.sheets/pulls{/number}",
   "created_at": "2017-05-07T21:38:40Z",
-  "updated_at": "2018-09-11T04:05:07Z",
-  "pushed_at": "2018-09-07T12:22:20Z",
+  "updated_at": "2018-09-15T11:51:47Z",
+  "pushed_at": "2018-09-15T11:51:45Z",
   "homepage": null,
-  "size": 250,
+  "size": 263,
   "stargazers_count": 138,
   "language": "Shell",
   "mirror_url": null,
@@ -50,8 +50,9 @@
     "WebDragon": 3,
     "TrangOul": 3,
     "lepatrick714": 5,
-    "chubin": 177,
-    "ggabarrin": 1
+    "chubin": 178,
+    "ggabarrin": 1,
+    "mkalus": 1
   },
   "pulls_authors": [
     "WebDragon",
@@ -90,5 +91,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-11T10:35:40.447Z"
+  "fetched_at": "2018-09-15T16:58:00.767Z"
 }

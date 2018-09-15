@@ -16,7 +16,7 @@
   "created_at": "2010-01-11T14:09:38Z",
   "updated_at": "2018-09-13T20:42:45Z",
   "contribs": {
-    "fetched_at": "2018-09-15T06:44:39.572Z",
+    "fetched_at": "2018-09-15T16:45:08.387Z",
     "repos": [
       "Calinou/godot-procedural-crosshair",
       "brianloveswords/node-jws",
@@ -265,7 +265,8 @@
       "Physiix/topsi-project-manager",
       "ionic-team/ionic-conference-app",
       "Calinou/keep-a-changelog",
-      "jiahaog/nativefier"
+      "jiahaog/nativefier",
+      "Calinou/godot-fancy-lights"
     ]
   },
   "organizations": [

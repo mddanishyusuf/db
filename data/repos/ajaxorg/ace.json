@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ajaxorg/ace/languages",
   "pulls_url": "https://api.github.com/repos/ajaxorg/ace/pulls{/number}",
   "created_at": "2010-10-27T10:43:36Z",
-  "updated_at": "2018-09-14T22:25:05Z",
+  "updated_at": "2018-09-15T13:53:40Z",
   "pushed_at": "2018-09-14T12:01:32Z",
   "homepage": "https://ace.c9.io",
   "size": 37101,
-  "stargazers_count": 18184,
+  "stargazers_count": 18185,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -893,5 +893,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-15T07:43:43.920Z"
+  "fetched_at": "2018-09-15T17:44:13.718Z"
 }

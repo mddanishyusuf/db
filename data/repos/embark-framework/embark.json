@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/embark-framework/embark/languages",
   "pulls_url": "https://api.github.com/repos/embark-framework/embark/pulls{/number}",
   "created_at": "2015-05-24T13:10:10Z",
-  "updated_at": "2018-09-14T22:20:46Z",
-  "pushed_at": "2018-09-15T05:29:55Z",
+  "updated_at": "2018-09-15T15:13:23Z",
+  "pushed_at": "2018-09-15T16:52:20Z",
   "homepage": "https://embark.status.im/",
-  "size": 12163,
-  "stargazers_count": 2336,
+  "size": 12075,
+  "stargazers_count": 2343,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -82,12 +82,12 @@
     "andremedeiros": 36,
     "toadkicker": 47,
     "richard-ramos": 66,
-    "emizzle": 105,
+    "emizzle": 107,
     "alaibe": 123,
     "VoR0220": 133,
-    "michaelsbradleyjr": 187,
+    "michaelsbradleyjr": 191,
     "jrainville": 545,
-    "iurimatias": 1563,
+    "iurimatias": 1568,
     "subramanianv": 13
   },
   "pulls_authors": [
@@ -152,7 +152,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 600333,
+      "bytes": 599773,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -164,5 +164,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-15T06:52:47.886Z"
+  "fetched_at": "2018-09-15T16:53:00.120Z"
 }

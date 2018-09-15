@@ -82,13 +82,13 @@
     "miniflux/miniflux": {
       "full_name": "miniflux/miniflux",
       "name": "miniflux",
-      "stargazers_count": 690,
-      "popularity": 3.8383213328957964,
+      "stargazers_count": 691,
+      "popularity": 3.838951110395326,
       "percentage": 0.303951367781155,
       "maturity": 3.462783810884539,
       "total_commits_count": 329,
       "activity": 5,
-      "total_score": 23.592197812941713,
+      "total_score": 23.59411203026551,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -147,7 +147,7 @@
     "ryanoasis/nerd-fonts": {
       "full_name": "ryanoasis/nerd-fonts",
       "name": "nerd-fonts",
-      "stargazers_count": 10156,
+      "stargazers_count": 10160,
       "popularity": 5,
       "percentage": 0.2932551319648094,
       "maturity": 3.809338718653524,
@@ -186,13 +186,13 @@
     "morhetz/gruvbox-contrib": {
       "full_name": "morhetz/gruvbox-contrib",
       "name": "gruvbox-contrib",
-      "stargazers_count": 580,
-      "popularity": 3.7627926468370543,
+      "stargazers_count": 581,
+      "popularity": 3.7635419473829126,
       "percentage": 1.0526315789473684,
       "maturity": 2.74288477252764,
       "total_commits_count": 95,
       "activity": 5,
-      "total_score": 22.289055953028356,
+      "total_score": 22.2914063905301,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -446,13 +446,13 @@
     "chriskempson/tomorrow-theme": {
       "full_name": "chriskempson/tomorrow-theme",
       "name": "tomorrow-theme",
-      "stargazers_count": 11901,
+      "stargazers_count": 11903,
       "popularity": 5,
       "percentage": 0.5555555555555556,
       "maturity": 3.148173217025607,
       "total_commits_count": 180,
-      "activity": 1.239170036447697,
-      "total_score": 22.896627581610023,
+      "activity": 1.2383036672577332,
+      "total_score": 22.89576121242006,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

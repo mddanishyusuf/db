@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/aksonov/react-native-router-flux/languages",
   "pulls_url": "https://api.github.com/repos/aksonov/react-native-router-flux/pulls{/number}",
   "created_at": "2015-08-25T11:12:44Z",
-  "updated_at": "2018-09-14T23:49:34Z",
+  "updated_at": "2018-09-15T10:08:01Z",
   "pushed_at": "2018-09-14T18:50:01Z",
   "homepage": "",
   "size": 3726,
-  "stargazers_count": 7577,
+  "stargazers_count": 7578,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -598,5 +598,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-15T07:06:46.570Z"
+  "fetched_at": "2018-09-15T17:06:45.579Z"
 }

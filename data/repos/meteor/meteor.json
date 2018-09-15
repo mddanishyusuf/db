@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/meteor/meteor/languages",
   "pulls_url": "https://api.github.com/repos/meteor/meteor/pulls{/number}",
   "created_at": "2012-01-19T01:58:17Z",
-  "updated_at": "2018-09-15T06:06:58Z",
+  "updated_at": "2018-09-15T16:52:57Z",
   "pushed_at": "2018-09-14T11:21:08Z",
   "homepage": "https://www.meteor.com",
   "size": 77029,
-  "stargazers_count": 40260,
+  "stargazers_count": 40266,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1209,5 +1209,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-15T07:47:44.318Z"
+  "fetched_at": "2018-09-15T17:48:12.363Z"
 }

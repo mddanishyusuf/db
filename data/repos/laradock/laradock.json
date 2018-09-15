@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/laradock/laradock/languages",
   "pulls_url": "https://api.github.com/repos/laradock/laradock/pulls{/number}",
   "created_at": "2015-08-21T11:25:55Z",
-  "updated_at": "2018-09-15T03:46:02Z",
-  "pushed_at": "2018-09-13T15:30:41Z",
+  "updated_at": "2018-09-15T15:53:25Z",
+  "pushed_at": "2018-09-15T13:42:29Z",
   "homepage": "http://laradock.io",
-  "size": 7799,
-  "stargazers_count": 6258,
+  "size": 7814,
+  "stargazers_count": 6259,
   "language": "Dockerfile",
   "mirror_url": null,
   "archived": false,
@@ -67,7 +67,7 @@
     "4c0n": 2,
     "amayer5125": 2,
     "pavel-mironchik": 2,
-    "exfriend": 2,
+    "exfriend": 3,
     "vlauciani": 2,
     "cyberbit": 2,
     "Crease29": 2,
@@ -139,7 +139,7 @@
     "LarryEitel": 17,
     "philtrep": 32,
     "Omranic": 17,
-    "ahkui": 18,
+    "ahkui": 19,
     "zuohuadong": 27,
     "computerfr33k": 25,
     "zeroc0d3": 39,
@@ -174,7 +174,7 @@
     "davidtaboas": 1,
     "DearMadMan": 1,
     "dsampaolo": 1,
-    "diego-vieira": 1,
+    "diego-vieira": 2,
     "dilone": 1,
     "dougblackjr": 1,
     "elliotleelewis": 1,
@@ -257,7 +257,9 @@
     "HooDaresWins": 1,
     "tadaken3": 1,
     "igorjacauna": 1,
-    "mylxsw": 1
+    "mylxsw": 1,
+    "hz61p1": 1,
+    "semenikhin": 1
   },
   "pulls_authors": [
     "deviouspk",
@@ -578,7 +580,7 @@
   ],
   "languages": {
     "Dockerfile": {
-      "bytes": 67943,
+      "bytes": 68105,
       "color": "#0db7ed"
     },
     "Shell": {
@@ -610,5 +612,5 @@
       "color": "#e69f56"
     }
   },
-  "fetched_at": "2018-09-15T06:58:20.127Z"
+  "fetched_at": "2018-09-15T16:58:22.320Z"
 }

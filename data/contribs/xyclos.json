@@ -82,13 +82,13 @@
     "wesbos/JavaScript30": {
       "full_name": "wesbos/JavaScript30",
       "name": "JavaScript30",
-      "stargazers_count": 8345,
-      "popularity": 4.921418588443669,
+      "stargazers_count": 8348,
+      "popularity": 4.921574704655941,
       "percentage": 0.9900990099009901,
       "maturity": 2.7877746927508986,
       "total_commits_count": 101,
       "activity": 5,
-      "total_score": 25.973255068157236,
+      "total_score": 25.97374351095999,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

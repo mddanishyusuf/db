@@ -4,7 +4,7 @@
     "hashicorp/terraform": {
       "full_name": "hashicorp/terraform",
       "name": "terraform",
-      "stargazers_count": 13443,
+      "stargazers_count": 13447,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -121,7 +121,7 @@
     "rails/rails": {
       "full_name": "rails/rails",
       "name": "rails",
-      "stargazers_count": 40835,
+      "stargazers_count": 40837,
       "popularity": 5,
       "percentage": 0.031865828092243184,
       "maturity": 5,

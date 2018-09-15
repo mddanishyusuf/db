@@ -56,13 +56,13 @@
     "utterance/utterances": {
       "full_name": "utterance/utterances",
       "name": "utterances",
-      "stargazers_count": 376,
-      "popularity": 3.574186142383603,
+      "stargazers_count": 377,
+      "popularity": 3.575342411682986,
       "percentage": 0.9009009009009009,
       "maturity": 2.853603482128319,
       "total_commits_count": 111,
       "activity": 5,
-      "total_score": 21.848363768443367,
+      "total_score": 21.851967995268467,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -459,13 +459,13 @@
     "freshOS/Stevia": {
       "full_name": "freshOS/Stevia",
       "name": "Stevia",
-      "stargazers_count": 2398,
-      "popularity": 4.3797252389296375,
+      "stargazers_count": 2400,
+      "popularity": 4.3800874377609675,
       "percentage": 0.37593984962406013,
       "maturity": 3.35603611454476,
       "total_commits_count": 266,
       "activity": 5,
-      "total_score": 25.065294668081762,
+      "total_score": 25.066398966022394,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -524,13 +524,13 @@
     "nate-parrott/Flashlight": {
       "full_name": "nate-parrott/Flashlight",
       "name": "Flashlight",
-      "stargazers_count": 5333,
-      "popularity": 4.7269373736434686,
+      "stargazers_count": 5332,
+      "popularity": 4.726855916954311,
       "percentage": 0.21668472372697725,
       "maturity": 4.258478015290584,
       "total_commits_count": 1846,
-      "activity": 0.852823834763619,
-      "total_score": 23.683745151729937,
+      "activity": 0.8520689278816054,
+      "total_score": 23.682743580225825,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

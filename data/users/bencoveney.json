@@ -8,17 +8,17 @@
   "repos_url": "https://api.github.com/users/bencoveney/repos",
   "type": "User",
   "name": "Ben Coveney",
-  "company": null,
+  "company": "@youviewtv",
   "blog": "https://bencoveney.github.io/",
   "location": "United Kingdom",
   "email": null,
   "bio": "Software Bengineer ( ͡° ͜ʖ ͡°)",
   "public_gists": 28,
   "created_at": "2011-09-15T15:33:15Z",
-  "updated_at": "2018-09-12T14:50:10Z",
+  "updated_at": "2018-09-15T15:55:12Z",
   "organizations": [],
   "contribs": {
-    "fetched_at": "2018-09-15T06:44:20.583Z",
+    "fetched_at": "2018-09-15T16:44:47.153Z",
     "repos": [
       "bencoveney/Milligrid",
       "bencoveney/ts-react-boilerplate",
@@ -66,7 +66,8 @@
       "DanielBaulig/Genetic-Algorithms",
       "bencoveney/ComponentEntitySystem",
       "bencoveney/ChromosomeLibrary",
-      "bencoveney/esolang-js"
+      "bencoveney/esolang-js",
+      "jackmu95/idle-timeout"
     ]
   }
 }

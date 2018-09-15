@@ -56,13 +56,13 @@
     "Intervention/image": {
       "full_name": "Intervention/image",
       "name": "image",
-      "stargazers_count": 7841,
-      "popularity": 4.894360690274265,
+      "stargazers_count": 7844,
+      "popularity": 4.894526840481251,
       "percentage": 0.2070393374741201,
       "maturity": 3.648237677566432,
       "total_commits_count": 483,
       "activity": 5,
-      "total_score": 27.111289701263246,
+      "total_score": 27.111792623835946,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

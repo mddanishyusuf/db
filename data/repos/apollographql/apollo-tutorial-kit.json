@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apollographql/apollo-tutorial-kit/languages",
   "pulls_url": "https://api.github.com/repos/apollographql/apollo-tutorial-kit/pulls{/number}",
   "created_at": "2016-04-15T22:59:33Z",
-  "updated_at": "2018-08-15T14:11:29Z",
+  "updated_at": "2018-09-15T13:22:44Z",
   "pushed_at": "2018-06-12T04:35:57Z",
   "homepage": "https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035#.wy5h1htxs",
   "size": 134,
-  "stargazers_count": 169,
+  "stargazers_count": 168,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -80,5 +80,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T23:13:24.267Z"
+  "fetched_at": "2018-09-15T17:48:09.212Z"
 }

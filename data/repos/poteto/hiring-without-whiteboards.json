@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/poteto/hiring-without-whiteboards/languages",
   "pulls_url": "https://api.github.com/repos/poteto/hiring-without-whiteboards/pulls{/number}",
   "created_at": "2017-03-15T05:09:01Z",
-  "updated_at": "2018-09-15T00:40:16Z",
+  "updated_at": "2018-09-15T14:03:47Z",
   "pushed_at": "2018-09-08T02:34:20Z",
   "homepage": "https://airtable.com/shr3eGPDm3wGjT2gA",
   "size": 558,
-  "stargazers_count": 8852,
+  "stargazers_count": 8854,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1120,5 +1120,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-15T07:44:26.148Z"
+  "fetched_at": "2018-09-15T17:44:53.823Z"
 }

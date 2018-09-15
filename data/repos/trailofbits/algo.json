@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/trailofbits/algo/languages",
   "pulls_url": "https://api.github.com/repos/trailofbits/algo/pulls{/number}",
   "created_at": "2016-05-15T03:42:48Z",
-  "updated_at": "2018-09-15T05:14:57Z",
+  "updated_at": "2018-09-15T16:11:39Z",
   "pushed_at": "2018-09-15T01:37:08Z",
   "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
   "size": 2092,
-  "stargazers_count": 10592,
+  "stargazers_count": 10598,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -295,5 +295,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-15T06:58:42.431Z"
+  "fetched_at": "2018-09-15T16:58:45.169Z"
 }

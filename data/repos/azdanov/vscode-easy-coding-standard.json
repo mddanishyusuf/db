@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vscode-easy-coding-standard",
+  "full_name": "azdanov/vscode-easy-coding-standard",
+  "private": false,
+  "owner": "azdanov",
+  "html_url": "https://github.com/azdanov/vscode-easy-coding-standard",
+  "description": "EasyCodingStandard for Visual Studio Code",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/vscode-easy-coding-standard",
+  "languages_url": "https://api.github.com/repos/azdanov/vscode-easy-coding-standard/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/vscode-easy-coding-standard/pulls{/number}",
+  "created_at": "2018-09-12T09:31:19Z",
+  "updated_at": "2018-09-15T13:15:39Z",
+  "pushed_at": "2018-09-15T13:15:40Z",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=azdanov.vscode-easy-coding-standard",
+  "size": 599,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "semantic-release-bot": 3,
+    "azdanov": 48
+  },
+  "pulls_authors": [
+    "azdanov"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 15095,
+      "color": "#2b7489"
+    },
+    "PHP": {
+      "bytes": 912,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 529,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 461,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-15T16:53:57.530Z"
+}

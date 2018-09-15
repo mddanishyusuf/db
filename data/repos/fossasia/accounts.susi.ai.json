@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/accounts.susi.ai/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/accounts.susi.ai/pulls{/number}",
   "created_at": "2017-06-06T07:35:51Z",
-  "updated_at": "2018-09-15T03:56:27Z",
+  "updated_at": "2018-09-15T14:34:23Z",
   "pushed_at": "2018-09-11T14:23:34Z",
   "homepage": "",
   "size": 100346,
-  "stargazers_count": 413,
+  "stargazers_count": 414,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -112,5 +112,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-15T06:53:23.701Z"
+  "fetched_at": "2018-09-15T16:53:31.653Z"
 }

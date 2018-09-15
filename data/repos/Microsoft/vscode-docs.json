@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Microsoft/vscode-docs/languages",
   "pulls_url": "https://api.github.com/repos/Microsoft/vscode-docs/pulls{/number}",
   "created_at": "2015-08-26T18:45:33Z",
-  "updated_at": "2018-09-15T05:55:12Z",
-  "pushed_at": "2018-09-14T20:45:03Z",
+  "updated_at": "2018-09-15T13:27:30Z",
+  "pushed_at": "2018-09-15T16:15:10Z",
   "homepage": "http://code.visualstudio.com/docs",
   "size": 1046678,
-  "stargazers_count": 1532,
+  "stargazers_count": 1534,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -916,5 +916,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-15T06:53:58.806Z"
+  "fetched_at": "2018-09-15T16:54:07.569Z"
 }

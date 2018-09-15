@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/huge-success/sanic/languages",
   "pulls_url": "https://api.github.com/repos/huge-success/sanic/pulls{/number}",
   "created_at": "2016-05-26T04:38:22Z",
-  "updated_at": "2018-09-15T04:24:19Z",
-  "pushed_at": "2018-09-14T18:31:12Z",
+  "updated_at": "2018-09-15T17:04:04Z",
+  "pushed_at": "2018-09-15T17:03:57Z",
   "homepage": "",
   "size": 1521,
-  "stargazers_count": 10235,
+  "stargazers_count": 10237,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -125,7 +125,7 @@
     "messense": 30,
     "38elements": 36,
     "yunstanford": 102,
-    "seemethere": 362,
+    "seemethere": 364,
     "channelcat": 192,
     "r0fls": 352,
     "MichaelYusko": 2,
@@ -467,7 +467,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-15T07:06:45.623Z",
+  "fetched_at": "2018-09-15T17:06:44.691Z",
   "organization": {
     "login": "huge-success",
     "id": 25215992,

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ranger/ranger/languages",
   "pulls_url": "https://api.github.com/repos/ranger/ranger/pulls{/number}",
   "created_at": "2009-06-04T06:41:11Z",
-  "updated_at": "2018-09-15T04:59:43Z",
+  "updated_at": "2018-09-15T13:31:29Z",
   "pushed_at": "2018-09-09T22:33:38Z",
   "homepage": "https://ranger.github.io/",
   "size": 8341,
-  "stargazers_count": 4100,
+  "stargazers_count": 4101,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -333,5 +333,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-15T06:58:09.499Z"
+  "fetched_at": "2018-09-15T16:58:10.769Z"
 }

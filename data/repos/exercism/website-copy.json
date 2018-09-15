@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/exercism/website-copy/languages",
   "pulls_url": "https://api.github.com/repos/exercism/website-copy/pulls{/number}",
   "created_at": "2017-08-08T13:34:19Z",
-  "updated_at": "2018-09-14T18:37:49Z",
-  "pushed_at": "2018-09-14T18:37:47Z",
+  "updated_at": "2018-09-15T13:17:07Z",
+  "pushed_at": "2018-09-15T13:17:05Z",
   "homepage": null,
-  "size": 1960,
+  "size": 1963,
   "stargazers_count": 33,
   "language": "HTML",
   "mirror_url": null,
@@ -132,13 +132,13 @@
     "grantwinney": 5,
     "amoradell": 5,
     "nathanchere": 5,
-    "loriking": 174,
+    "loriking": 175,
     "ccare": 7,
     "rpottsoh": 8,
     "neodynia": 8,
     "nicolechalmers": 11,
     "gustavosobral": 11,
-    "amaliacardenas": 203,
+    "amaliacardenas": 204,
     "kntsoriano": 47,
     "kytrinyx": 57,
     "iHiD": 107,
@@ -348,7 +348,8 @@
     "therynamo": 1,
     "BTaskaya": 1,
     "ignusin": 1,
-    "dvrensk": 1
+    "dvrensk": 1,
+    "juhlig": 1
   },
   "pulls_authors": [
     "kntsoriano",
@@ -690,5 +691,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T19:43:55.600Z"
+  "fetched_at": "2018-09-15T16:58:20.712Z"
 }

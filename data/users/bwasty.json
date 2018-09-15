@@ -21,7 +21,7 @@
     "gltf-rs"
   ],
   "contribs": {
-    "fetched_at": "2018-09-15T06:44:37.938Z",
+    "fetched_at": "2018-09-15T16:45:06.774Z",
     "repos": [
       "cginternals/webgl-examples",
       "bwasty/vulkan-tutorial-rs",

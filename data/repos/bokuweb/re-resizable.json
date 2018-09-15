@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/bokuweb/re-resizable/languages",
   "pulls_url": "https://api.github.com/repos/bokuweb/re-resizable/pulls{/number}",
   "created_at": "2015-11-24T00:22:05Z",
-  "updated_at": "2018-09-14T02:35:00Z",
-  "pushed_at": "2018-09-13T21:40:58Z",
+  "updated_at": "2018-09-15T12:23:13Z",
+  "pushed_at": "2018-09-15T12:54:24Z",
   "homepage": "https://bokuweb.github.io/re-resizable/",
-  "size": 17597,
+  "size": 17603,
   "stargazers_count": 449,
   "language": "JavaScript",
   "mirror_url": null,
@@ -56,7 +56,7 @@
     "renovate-bot": 46,
     "greenkeeper[bot]": 58,
     "renovate[bot]": 62,
-    "bokuweb": 268
+    "bokuweb": 269
   },
   "pulls_authors": [
     "renovate[bot]",
@@ -107,5 +107,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-14T08:37:51.393Z"
+  "fetched_at": "2018-09-15T17:07:36.442Z"
 }

@@ -134,13 +134,13 @@
     "ethereum/go-ethereum": {
       "full_name": "ethereum/go-ethereum",
       "name": "go-ethereum",
-      "stargazers_count": 20692,
+      "stargazers_count": 20697,
       "popularity": 5,
-      "percentage": 0.010180189351521938,
-      "maturity": 4.992212793677119,
-      "total_commits_count": 9823,
+      "percentage": 0.010178117048346057,
+      "maturity": 4.992301569241786,
+      "total_commits_count": 9825,
       "activity": 5,
-      "total_score": 29.99104271043273,
+      "total_score": 29.991218914564996,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -602,7 +602,7 @@
     "discourse/discourse": {
       "full_name": "discourse/discourse",
       "name": "discourse",
-      "stargazers_count": 26065,
+      "stargazers_count": 26067,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -1018,7 +1018,7 @@
     "twbs/bootstrap": {
       "full_name": "twbs/bootstrap",
       "name": "bootstrap",
-      "stargazers_count": 127375,
+      "stargazers_count": 127383,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

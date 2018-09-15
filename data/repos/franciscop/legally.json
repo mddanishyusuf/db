@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/franciscop/legally/languages",
   "pulls_url": "https://api.github.com/repos/franciscop/legally/pulls{/number}",
   "created_at": "2016-01-06T05:46:15Z",
-  "updated_at": "2018-09-07T22:24:09Z",
-  "pushed_at": "2018-08-24T01:01:44Z",
+  "updated_at": "2018-09-15T08:59:15Z",
+  "pushed_at": "2018-09-15T08:49:25Z",
   "homepage": "https://medium.com/@fpresencia/licenses-for-npm-packages-b2036b4bb6a",
-  "size": 854,
-  "stargazers_count": 191,
+  "size": 974,
+  "stargazers_count": 192,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -31,7 +31,7 @@
     "eladnava": 1,
     "LitoMore": 2,
     "rwtolbert": 2,
-    "franciscop": 17
+    "franciscop": 24
   },
   "pulls_authors": [
     "LitoMore",
@@ -41,9 +41,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 88029,
+      "bytes": 144170,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T00:04:56.179Z"
+  "fetched_at": "2018-09-15T16:58:59.529Z"
 }

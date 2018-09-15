@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/discordjs/discord.js/languages",
   "pulls_url": "https://api.github.com/repos/discordjs/discord.js/pulls{/number}",
   "created_at": "2015-08-10T13:36:26Z",
-  "updated_at": "2018-09-15T06:58:58Z",
+  "updated_at": "2018-09-15T13:29:28Z",
   "pushed_at": "2018-09-13T09:07:43Z",
   "homepage": "https://discord.js.org",
   "size": 50946,
-  "stargazers_count": 2857,
+  "stargazers_count": 2858,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -457,5 +457,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-15T07:04:54.169Z"
+  "fetched_at": "2018-09-15T17:04:50.816Z"
 }

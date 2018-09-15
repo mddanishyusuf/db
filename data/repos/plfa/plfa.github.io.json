@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/plfa/plfa.github.io/languages",
   "pulls_url": "https://api.github.com/repos/plfa/plfa.github.io/pulls{/number}",
   "created_at": "2017-03-10T11:41:30Z",
-  "updated_at": "2018-09-14T15:08:13Z",
-  "pushed_at": "2018-09-14T15:30:04Z",
+  "updated_at": "2018-09-15T15:40:03Z",
+  "pushed_at": "2018-09-15T16:04:25Z",
   "homepage": "https://plfa.github.io",
-  "size": 6053,
+  "size": 6061,
   "stargazers_count": 195,
   "language": "Agda",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "Fingerzam": 7,
     "Kwezan": 17,
     "wenkokke": 122,
-    "wadler": 575
+    "wadler": 578
   },
   "pulls_authors": [
     "spwhitt",
@@ -76,7 +76,7 @@
   ],
   "languages": {
     "Agda": {
-      "bytes": 1537062,
+      "bytes": 1538488,
       "color": "#315665"
     },
     "CSS": {
@@ -100,5 +100,5 @@
       "color": "#5e5086"
     }
   },
-  "fetched_at": "2018-09-14T19:55:12.975Z"
+  "fetched_at": "2018-09-15T17:07:59.271Z"
 }

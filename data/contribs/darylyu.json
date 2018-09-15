@@ -43,13 +43,13 @@
     "ottoyiu/django-cors-headers": {
       "full_name": "ottoyiu/django-cors-headers",
       "name": "django-cors-headers",
-      "stargazers_count": 2460,
-      "popularity": 4.390815276870076,
+      "stargazers_count": 2464,
+      "popularity": 4.391521131291421,
       "percentage": 0.8658008658008658,
       "maturity": 3.282996098886067,
       "total_commits_count": 231,
       "activity": 5,
-      "total_score": 25.232642345259514,
+      "total_score": 25.234839355341535,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -225,13 +225,13 @@
     "koalalorenzo/python-digitalocean": {
       "full_name": "koalalorenzo/python-digitalocean",
       "name": "python-digitalocean",
-      "stargazers_count": 791,
-      "popularity": 3.8977211455026115,
+      "stargazers_count": 790,
+      "popularity": 3.8971711270820166,
       "percentage": 0,
       "maturity": 3.6017280609129863,
       "total_commits_count": 438,
-      "activity": 1.8442468769260958,
-      "total_score": 20.740866435259903,
+      "activity": 1.8220764417260282,
+      "total_score": 20.717045944798052,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

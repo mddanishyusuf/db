@@ -82,13 +82,13 @@
     "coala/gh-board": {
       "full_name": "coala/gh-board",
       "name": "gh-board",
-      "stargazers_count": 11,
-      "popularity": 2.0043600754367907,
+      "stargazers_count": 12,
+      "popularity": 2.045361715305606,
       "percentage": 0.18181818181818182,
       "maturity": 3.709391302432468,
       "total_commits_count": 550,
       "activity": 5,
-      "total_score": 18.47923861477654,
+      "total_score": 18.603212664052613,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,13 +303,13 @@
     "vicky002/AlgoWiki": {
       "full_name": "vicky002/AlgoWiki",
       "name": "AlgoWiki",
-      "stargazers_count": 3048,
-      "popularity": 4.483925794542172,
+      "stargazers_count": 3049,
+      "popularity": 4.484068298311394,
       "percentage": 0.36231884057971014,
       "maturity": 3.7110907560624047,
       "total_commits_count": 552,
-      "activity": 2.679603745184679,
-      "total_score": 23.76476204430212,
+      "activity": 2.656336585965975,
+      "total_score": 23.741929108525138,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

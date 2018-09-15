@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ghuser-io/ghuser.io/languages",
   "pulls_url": "https://api.github.com/repos/ghuser-io/ghuser.io/pulls{/number}",
   "created_at": "2018-06-19T11:36:58Z",
-  "updated_at": "2018-09-15T04:22:04Z",
+  "updated_at": "2018-09-15T16:05:13Z",
   "pushed_at": "2018-09-14T22:13:54Z",
   "homepage": "https://ghuser.io",
   "size": 16733,
-  "stargazers_count": 552,
+  "stargazers_count": 556,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -89,5 +89,5 @@
       "Travis CI"
     ]
   },
-  "fetched_at": "2018-09-15T06:53:36.149Z"
+  "fetched_at": "2018-09-15T16:53:44.495Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/yannickcr/eslint-plugin-react/languages",
   "pulls_url": "https://api.github.com/repos/yannickcr/eslint-plugin-react/pulls{/number}",
   "created_at": "2014-12-15T23:44:14Z",
-  "updated_at": "2018-09-15T06:32:42Z",
+  "updated_at": "2018-09-15T12:57:50Z",
   "pushed_at": "2018-09-14T07:55:52Z",
   "homepage": null,
   "size": 3434,
-  "stargazers_count": 4496,
+  "stargazers_count": 4498,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -627,5 +627,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-15T06:55:15.506Z"
+  "fetched_at": "2018-09-15T16:55:22.462Z"
 }

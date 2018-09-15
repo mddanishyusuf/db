@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/requests/httpbin/languages",
   "pulls_url": "https://api.github.com/repos/requests/httpbin/pulls{/number}",
   "created_at": "2011-05-20T21:14:01Z",
-  "updated_at": "2018-09-14T18:25:04Z",
+  "updated_at": "2018-09-15T10:12:13Z",
   "pushed_at": "2018-09-11T12:13:22Z",
   "homepage": "https://httpbin.org",
   "size": 739,
@@ -309,5 +309,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-14T19:52:15.677Z"
+  "fetched_at": "2018-09-15T17:05:30.342Z"
 }

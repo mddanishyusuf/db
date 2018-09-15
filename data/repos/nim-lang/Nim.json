@@ -49,7 +49,7 @@
     "skyfex": 15,
     "Paalon": 14,
     "Yardanico": 18,
-    "skilchen": 21,
+    "skilchen": 23,
     "barcharcraz": 17,
     "ventor3000": 15,
     "exhu": 15,
@@ -69,7 +69,7 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 78,
+    "LemonBoy": 79,
     "cooldome": 39,
     "avsej": 30,
     "Parashurama": 31,
@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 533,
     "dom96": 1333,
-    "Araq": 6669,
+    "Araq": 6673,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -219,7 +219,7 @@
     "jcowgill": 2,
     "girvo": 2,
     "jbe": 2,
-    "jwollen": 2,
+    "jwollen": 3,
     "grazil": 2,
     "SolitudeSF": 2,
     "takano32": 2,
@@ -366,11 +366,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-15T06:39:07Z",
-  "pushed_at": "2018-09-14T23:51:26Z",
+  "updated_at": "2018-09-15T16:44:37Z",
+  "pushed_at": "2018-09-15T15:55:30Z",
   "homepage": "https://nim-lang.org/",
-  "size": 71304,
-  "stargazers_count": 5452,
+  "size": 71317,
+  "stargazers_count": 5454,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -404,7 +404,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 9502599,
+      "bytes": 9502759,
       "color": "#37775b"
     },
     "C": {
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-15T06:54:54.899Z",
+  "fetched_at": "2018-09-15T16:55:00.678Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",
@@ -932,6 +932,7 @@
     "emekoi",
     "PrimordialHelios",
     "muhammad-al-baqir-khalid",
-    "ng-0"
+    "ng-0",
+    "sinkingsugar"
   ]
 }

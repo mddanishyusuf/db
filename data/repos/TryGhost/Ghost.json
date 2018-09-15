@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TryGhost/Ghost",
   "languages_url": "https://api.github.com/repos/TryGhost/Ghost/languages",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2018-09-15T07:01:19Z",
+  "updated_at": "2018-09-15T16:25:39Z",
   "pushed_at": "2018-09-15T07:01:10Z",
   "homepage": "https://ghost.org",
-  "size": 33136,
-  "stargazers_count": 27384,
+  "size": 33088,
+  "stargazers_count": 27393,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -363,7 +363,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-15T07:02:41.417Z",
+  "fetched_at": "2018-09-15T17:02:41.348Z",
   "pulls_url": "https://api.github.com/repos/TryGhost/Ghost/pulls{/number}",
   "pulls_authors": [
     "kirrg001",

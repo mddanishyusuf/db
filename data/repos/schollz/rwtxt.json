@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/schollz/rwtxt/languages",
   "pulls_url": "https://api.github.com/repos/schollz/rwtxt/pulls{/number}",
   "created_at": "2018-08-15T12:06:56Z",
-  "updated_at": "2018-09-15T07:20:42Z",
-  "pushed_at": "2018-09-14T18:39:54Z",
+  "updated_at": "2018-09-15T17:42:33Z",
+  "pushed_at": "2018-09-15T15:58:47Z",
   "homepage": "https://rwtxt.com/",
-  "size": 639,
-  "stargazers_count": 243,
+  "size": 727,
+  "stargazers_count": 303,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -28,7 +28,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "schollz": 166,
+    "schollz": 169,
     "garethrees": 1
   },
   "pulls_authors": [
@@ -37,11 +37,11 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 50886,
+      "bytes": 53616,
       "color": "#375eab"
     },
     "Makefile": {
-      "bytes": 1614,
+      "bytes": 1653,
       "color": "#427819"
     },
     "Dockerfile": {
@@ -49,5 +49,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-15T07:43:47.181Z"
+  "fetched_at": "2018-09-15T17:44:16.883Z"
 }

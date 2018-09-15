@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apollographql/apollo-link/languages",
   "pulls_url": "https://api.github.com/repos/apollographql/apollo-link/pulls{/number}",
   "created_at": "2017-06-07T16:39:32Z",
-  "updated_at": "2018-09-14T23:39:51Z",
-  "pushed_at": "2018-09-15T05:53:53Z",
+  "updated_at": "2018-09-15T15:13:49Z",
+  "pushed_at": "2018-09-15T09:35:28Z",
   "homepage": "https://www.apollographql.com/docs/link/",
-  "size": 1913,
-  "stargazers_count": 828,
+  "size": 1900,
+  "stargazers_count": 830,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "renovate[bot]": 106,
     "renovate-bot": 152,
     "evans": 189,
-    "hwillson": 1
+    "hwillson": 4
   },
   "pulls_authors": [
     "mvestergaard",
@@ -272,7 +272,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 214007,
+      "bytes": 214168,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -280,5 +280,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-15T06:53:31.085Z"
+  "fetched_at": "2018-09-15T16:53:38.957Z"
 }

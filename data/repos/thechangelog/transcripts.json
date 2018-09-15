@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/thechangelog/transcripts/languages",
   "pulls_url": "https://api.github.com/repos/thechangelog/transcripts/pulls{/number}",
   "created_at": "2017-07-25T16:40:37Z",
-  "updated_at": "2018-09-11T14:32:55Z",
-  "pushed_at": "2018-09-11T14:32:53Z",
+  "updated_at": "2018-09-15T16:36:26Z",
+  "pushed_at": "2018-09-15T16:36:24Z",
   "homepage": "https://changelog.com",
   "size": 6653,
   "stargazers_count": 100,
@@ -90,7 +90,7 @@
     "chris48s": 29,
     "jerodsanto": 40,
     "hhrutter": 47,
-    "alexandrumaier": 180
+    "alexandrumaier": 181
   },
   "pulls_authors": [
     "carlmjohnson",
@@ -135,5 +135,5 @@
     "webRat"
   ],
   "languages": {},
-  "fetched_at": "2018-09-12T04:58:35.465Z"
+  "fetched_at": "2018-09-15T16:55:19.634Z"
 }

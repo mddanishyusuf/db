@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/react-native/languages",
   "pulls_url": "https://api.github.com/repos/facebook/react-native/pulls{/number}",
   "created_at": "2015-01-09T18:10:16Z",
-  "updated_at": "2018-09-15T06:46:21Z",
-  "pushed_at": "2018-09-14T22:21:28Z",
+  "updated_at": "2018-09-15T16:24:15Z",
+  "pushed_at": "2018-09-15T16:02:11Z",
   "homepage": "https://facebook.github.io/react-native/",
-  "size": 263827,
-  "stargazers_count": 68677,
+  "size": 263833,
+  "stargazers_count": 68688,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,7 @@
     "voideanvalue": 23,
     "skevy": 32,
     "axe-fb": 25,
-    "gengjiawen": 25,
+    "gengjiawen": 26,
     "dulmandakh": 29,
     "skv-headless": 28,
     "zertosh": 33,
@@ -3192,5 +3192,5 @@
       "color": "#74283c"
     }
   },
-  "fetched_at": "2018-09-15T06:55:58.084Z"
+  "fetched_at": "2018-09-15T16:56:04.096Z"
 }

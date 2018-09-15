@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/home-assistant/home-assistant.io/languages",
   "pulls_url": "https://api.github.com/repos/home-assistant/home-assistant.io/pulls{/number}",
   "created_at": "2014-12-21T20:59:21Z",
-  "updated_at": "2018-09-14T11:49:19Z",
-  "pushed_at": "2018-09-14T14:12:23Z",
+  "updated_at": "2018-09-15T12:30:25Z",
+  "pushed_at": "2018-09-15T16:34:56Z",
   "homepage": "https://www.home-assistant.io",
-  "size": 305724,
+  "size": 305690,
   "stargazers_count": 432,
   "language": "HTML",
   "mirror_url": null,
@@ -130,7 +130,7 @@
     "andrey-git": 37,
     "danielperna84": 42,
     "cdce8p": 41,
-    "turbokongen": 41,
+    "turbokongen": 42,
     "amelchio": 44,
     "syssi": 45,
     "c727": 53,
@@ -143,7 +143,7 @@
     "Danielhiversen": 115,
     "CCOSTAN": 91,
     "robbiet480": 249,
-    "DubhAd": 414,
+    "DubhAd": 415,
     "pvizeli": 332,
     "imathis": 484,
     "balloob": 1588,
@@ -2229,7 +2229,10 @@
     "Alphakilo",
     "IIIdefconIII",
     "AmiSMB",
-    "aribarreto"
+    "aribarreto",
+    "ronschaeffer",
+    "blakeblackshear",
+    "aisbergde"
   ],
   "languages": {
     "HTML": {
@@ -2249,5 +2252,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T19:42:18.033Z"
+  "fetched_at": "2018-09-15T16:57:06.224Z"
 }

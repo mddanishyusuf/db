@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TheAlgorithms/C",
   "languages_url": "https://api.github.com/repos/TheAlgorithms/C/languages",
   "created_at": "2016-07-16T10:17:03Z",
-  "updated_at": "2018-09-15T03:21:40Z",
-  "pushed_at": "2018-08-13T03:56:59Z",
+  "updated_at": "2018-09-15T14:31:39Z",
+  "pushed_at": "2018-09-15T09:32:33Z",
   "homepage": null,
   "size": 1211,
-  "stargazers_count": 429,
+  "stargazers_count": 432,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -86,7 +86,8 @@
     "theycallmemac": 11,
     "AnupKumarPanwar": 15,
     "christianbender": 40,
-    "s1l3ntcat": 1
+    "s1l3ntcat": 1,
+    "IKuuhakuI": 2
   },
   "languages": {
     "C": {
@@ -94,7 +95,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-15T06:57:32.981Z",
+  "fetched_at": "2018-09-15T16:57:34.872Z",
   "pulls_url": "https://api.github.com/repos/TheAlgorithms/C/pulls{/number}",
   "pulls_authors": [
     "s1l3ntcat",
@@ -161,6 +162,8 @@
     "Saumay-Agrawal",
     "prateekiiest",
     "ayaanfaiz",
-    "maysanchez"
+    "maysanchez",
+    "ayush246",
+    "IKuuhakuI"
   ]
 }

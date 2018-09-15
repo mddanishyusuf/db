@@ -17,13 +17,13 @@
     "castorini/honk": {
       "full_name": "castorini/honk",
       "name": "honk",
-      "stargazers_count": 152,
-      "popularity": 3.1793035271240693,
+      "stargazers_count": 153,
+      "popularity": 3.182168277008116,
       "percentage": 1.9607843137254901,
       "maturity": 2.04704368583375,
       "total_commits_count": 51,
-      "activity": 2.1502952115016214,
-      "total_score": 16.59270386753374,
+      "activity": 2.101624595140844,
+      "total_score": 16.553357731187702,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

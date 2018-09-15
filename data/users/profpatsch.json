@@ -26,7 +26,7 @@
     "dhall-lang"
   ],
   "contribs": {
-    "fetched_at": "2018-09-15T06:48:56.990Z",
+    "fetched_at": "2018-09-15T16:49:16.795Z",
     "repos": [
       "Profpatsch/repros",
       "NixOS/nixpkgs",

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hashicorp/terraform/languages",
   "pulls_url": "https://api.github.com/repos/hashicorp/terraform/pulls{/number}",
   "created_at": "2014-03-13T22:25:48Z",
-  "updated_at": "2018-09-15T06:02:19Z",
-  "pushed_at": "2018-09-15T01:11:49Z",
+  "updated_at": "2018-09-15T16:14:52Z",
+  "pushed_at": "2018-09-15T10:18:41Z",
   "homepage": "https://www.terraform.io/",
   "size": 139985,
-  "stargazers_count": 13443,
+  "stargazers_count": 13447,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -2126,7 +2126,8 @@
     "rodjek",
     "fabiomatavelli",
     "andreykaipov",
-    "lanej"
+    "lanej",
+    "bfarayev"
   ],
   "languages": {
     "Go": {
@@ -2158,5 +2159,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-15T06:54:39.687Z"
+  "fetched_at": "2018-09-15T16:54:45.041Z"
 }

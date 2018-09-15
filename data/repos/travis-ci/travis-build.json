@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/travis-ci/travis-build/languages",
   "pulls_url": "https://api.github.com/repos/travis-ci/travis-build/pulls{/number}",
   "created_at": "2011-10-03T21:46:00Z",
-  "updated_at": "2018-09-14T14:44:13Z",
-  "pushed_at": "2018-09-14T19:19:24Z",
+  "updated_at": "2018-09-15T09:30:17Z",
+  "pushed_at": "2018-09-15T03:05:25Z",
   "homepage": "",
-  "size": 6119,
-  "stargazers_count": 473,
+  "size": 6134,
+  "stargazers_count": 472,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -489,5 +489,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T19:41:59.519Z"
+  "fetched_at": "2018-09-15T16:56:52.132Z"
 }

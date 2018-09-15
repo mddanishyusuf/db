@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/stylelint/stylelint/languages",
   "pulls_url": "https://api.github.com/repos/stylelint/stylelint/pulls{/number}",
   "created_at": "2014-12-04T16:25:23Z",
-  "updated_at": "2018-09-15T04:49:53Z",
+  "updated_at": "2018-09-15T14:55:45Z",
   "pushed_at": "2018-09-14T23:03:28Z",
   "homepage": "https://stylelint.io/",
   "size": 8936,
-  "stargazers_count": 5374,
+  "stargazers_count": 5373,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -501,5 +501,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-15T07:06:29.954Z"
+  "fetched_at": "2018-09-15T17:06:30.904Z"
 }

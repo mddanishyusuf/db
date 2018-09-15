@@ -121,13 +121,13 @@
     "PokemonGoF/PokemonGo-Bot": {
       "full_name": "PokemonGoF/PokemonGo-Bot",
       "name": "PokemonGo-Bot",
-      "stargazers_count": 3648,
-      "popularity": 4.561986758998644,
+      "stargazers_count": 3649,
+      "popularity": 4.562105822077297,
       "percentage": 0.0641025641025641,
       "maturity": 4.490301079091889,
       "total_commits_count": 3120,
-      "activity": 1.3296236749224057,
-      "total_score": 24.034202666427102,
+      "activity": 1.3273625155599564,
+      "total_score": 24.032299688492934,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

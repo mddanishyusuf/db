@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/golang/go/languages",
   "pulls_url": "https://api.github.com/repos/golang/go/pulls{/number}",
   "created_at": "2014-08-19T04:33:40Z",
-  "updated_at": "2018-09-15T06:32:23Z",
-  "pushed_at": "2018-09-14T21:45:33Z",
+  "updated_at": "2018-09-15T16:51:38Z",
+  "pushed_at": "2018-09-15T14:59:07Z",
   "homepage": "https://golang.org",
-  "size": 184523,
-  "stargazers_count": 46871,
+  "size": 184610,
+  "stargazers_count": 46888,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "aclements": 1130,
     "josharian": 1122,
     "adg": 1184,
-    "ianlancetaylor": 1572,
+    "ianlancetaylor": 1573,
     "bradfitz": 2164,
     "robpike": 2933,
     "griesemer": 2988,
@@ -229,7 +229,7 @@
     "aead": 9,
     "ajstarks": 9,
     "bmakam-qdt": 9,
-    "benburkert": 9,
+    "benburkert": 10,
     "m4dh4tt3r": 9,
     "zorrorffm": 9,
     "cc-skelos": 9,
@@ -710,7 +710,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 40828892,
+      "bytes": 40829092,
       "color": "#375eab"
     },
     "Assembly": {
@@ -774,5 +774,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-15T06:52:30.548Z"
+  "fetched_at": "2018-09-15T16:52:41.095Z"
 }

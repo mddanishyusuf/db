@@ -121,13 +121,13 @@
     "NancyFx/Nancy": {
       "full_name": "NancyFx/Nancy",
       "name": "Nancy",
-      "stargazers_count": 6335,
-      "popularity": 4.8017240035775055,
+      "stargazers_count": 6336,
+      "popularity": 4.801792562678857,
       "percentage": 0.41572184429327286,
       "maturity": 4.722069272080675,
       "total_commits_count": 5292,
       "activity": 5,
-      "total_score": 29.108814157505954,
+      "total_score": 29.109023540007094,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

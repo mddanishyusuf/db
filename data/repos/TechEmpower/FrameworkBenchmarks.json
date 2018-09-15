@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/TechEmpower/FrameworkBenchmarks/languages",
   "pulls_url": "https://api.github.com/repos/TechEmpower/FrameworkBenchmarks/pulls{/number}",
   "created_at": "2013-03-22T17:33:54Z",
-  "updated_at": "2018-09-14T20:50:02Z",
-  "pushed_at": "2018-09-14T21:40:16Z",
+  "updated_at": "2018-09-15T16:55:58Z",
+  "pushed_at": "2018-09-15T16:55:53Z",
   "homepage": "https://www.techempower.com/benchmarks/",
   "size": 272842,
-  "stargazers_count": 3541,
+  "stargazers_count": 3543,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -118,7 +118,7 @@
     "joanhey": 40,
     "mfirry": 48,
     "matt-42": 46,
-    "stefanocasazza": 46,
+    "stefanocasazza": 47,
     "daviddenton": 45,
     "volyrique": 47,
     "lhotari": 50,
@@ -1105,5 +1105,5 @@
       "color": "#6a40fd"
     }
   },
-  "fetched_at": "2018-09-15T07:44:49.876Z"
+  "fetched_at": "2018-09-15T17:45:18.443Z"
 }

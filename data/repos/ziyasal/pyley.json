@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ziyasal/pyley/languages",
   "pulls_url": "https://api.github.com/repos/ziyasal/pyley/pulls{/number}",
   "created_at": "2014-07-08T21:45:49Z",
-  "updated_at": "2018-09-06T10:07:01Z",
+  "updated_at": "2018-09-15T13:02:10Z",
   "pushed_at": "2018-08-02T18:28:18Z",
   "homepage": "https://cayley.io",
   "size": 92,
-  "stargazers_count": 117,
+  "stargazers_count": 118,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -55,5 +55,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T23:13:03.078Z"
+  "fetched_at": "2018-09-15T17:47:52.058Z"
 }

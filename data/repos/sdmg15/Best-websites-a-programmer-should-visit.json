@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit",
   "languages_url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit/languages",
   "created_at": "2017-03-05T20:25:17Z",
-  "updated_at": "2018-09-14T18:53:16Z",
+  "updated_at": "2018-09-15T15:38:57Z",
   "pushed_at": "2018-09-14T01:41:43Z",
   "homepage": "",
   "size": 737,
-  "stargazers_count": 22567,
+  "stargazers_count": 22570,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -153,7 +153,7 @@
     "v9n": 3
   },
   "languages": {},
-  "fetched_at": "2018-09-14T19:44:45.823Z",
+  "fetched_at": "2018-09-15T16:58:56.349Z",
   "pulls_url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit/pulls{/number}",
   "pulls_authors": [
     "santosomar",

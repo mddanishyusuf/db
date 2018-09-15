@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ionic-team/ionic-native/languages",
   "pulls_url": "https://api.github.com/repos/ionic-team/ionic-native/pulls{/number}",
   "created_at": "2015-11-24T16:54:58Z",
-  "updated_at": "2018-09-12T09:32:45Z",
-  "pushed_at": "2018-09-12T04:10:12Z",
+  "updated_at": "2018-09-15T09:15:19Z",
+  "pushed_at": "2018-09-15T09:56:49Z",
   "homepage": "http://ionicframework.com/docs/v2/native/",
-  "size": 10373,
+  "size": 10498,
   "stargazers_count": 1767,
   "language": "TypeScript",
   "mirror_url": null,
@@ -135,7 +135,7 @@
     "dudeofawesome": 8,
     "wf9a5m75": 9,
     "John-Luke": 10,
-    "NiklasMerz": 11,
+    "NiklasMerz": 12,
     "CRivasGomez": 11,
     "Ionitron": 12,
     "amuramoto": 24,
@@ -146,7 +146,7 @@
     "tlancina": 91,
     "ZiFFeL1992": 99,
     "mlynch": 137,
-    "danielsogl": 379,
+    "danielsogl": 385,
     "ihadeed": 1226,
     "FdezRomero": 3,
     "ashwindmk": 2,
@@ -466,11 +466,17 @@
     "pwilkniss": 1,
     "rupendraa": 1,
     "rvdleun": 1,
-    "somq": 1,
+    "somq": 2,
     "victorsosa": 1,
     "wwallace": 1,
     "yuhj86": 1,
-    "ziggyJ": 1
+    "ziggyJ": 1,
+    "paulstelzer": 3,
+    "alex-0407": 2,
+    "SpellChucker": 1,
+    "TillaTheHun0": 1,
+    "iAmMrHands": 1,
+    "ratnakar24": 1
   },
   "pulls_authors": [
     "iAmMrHands",
@@ -983,7 +989,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 1159167,
+      "bytes": 1179359,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -995,5 +1001,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:48:19.860Z"
+  "fetched_at": "2018-09-15T17:02:43.688Z"
 }

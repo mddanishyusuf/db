@@ -56,13 +56,13 @@
     "hyperledger/sawtooth-poet": {
       "full_name": "hyperledger/sawtooth-poet",
       "name": "sawtooth-poet",
-      "stargazers_count": 1,
-      "popularity": 0,
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
       "percentage": 4.702194357366771,
       "maturity": 3.4474955342264706,
       "total_commits_count": 319,
       "activity": 5,
-      "total_score": 11.894991068452942,
+      "total_score": 15.655885457011772,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

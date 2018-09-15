@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/moment/moment/languages",
   "pulls_url": "https://api.github.com/repos/moment/moment/pulls{/number}",
   "created_at": "2011-03-01T02:46:06Z",
-  "updated_at": "2018-09-15T05:13:36Z",
+  "updated_at": "2018-09-15T09:25:45Z",
   "pushed_at": "2018-09-10T16:54:23Z",
   "homepage": "momentjs.com",
   "size": 16989,
-  "stargazers_count": 38586,
+  "stargazers_count": 38585,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1382,5 +1382,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-15T06:55:15.688Z"
+  "fetched_at": "2018-09-15T16:55:22.646Z"
 }

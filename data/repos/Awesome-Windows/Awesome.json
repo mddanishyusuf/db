@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Awesome-Windows/Awesome/languages",
   "pulls_url": "https://api.github.com/repos/Awesome-Windows/Awesome/pulls{/number}",
   "created_at": "2016-05-30T17:27:35Z",
-  "updated_at": "2018-09-15T03:17:21Z",
+  "updated_at": "2018-09-15T12:31:27Z",
   "pushed_at": "2018-09-14T13:57:24Z",
   "homepage": "",
   "size": 478,
-  "stargazers_count": 5054,
+  "stargazers_count": 5055,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -223,5 +223,5 @@
     "loremwalker"
   ],
   "languages": {},
-  "fetched_at": "2018-09-15T06:51:15.169Z"
+  "fetched_at": "2018-09-15T16:51:26.410Z"
 }

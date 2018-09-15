@@ -160,13 +160,13 @@
     "soccermetrics/soccermetrics-client-py": {
       "full_name": "soccermetrics/soccermetrics-client-py",
       "name": "soccermetrics-client-py",
-      "stargazers_count": 66,
-      "popularity": 2.813620017180149,
+      "stargazers_count": 67,
+      "popularity": 2.820240489005938,
       "percentage": 2.0547945205479454,
       "maturity": 3.0274500692824846,
       "total_commits_count": 146,
-      "activity": 0.3931543824474346,
-      "total_score": 15.640498001799603,
+      "activity": 0.39214146101734926,
+      "total_score": 15.661114978046925,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wifi_simulator",
+  "full_name": "schollz/wifi_simulator",
+  "private": false,
+  "owner": "schollz",
+  "html_url": "https://github.com/schollz/wifi_simulator",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/wifi_simulator",
+  "languages_url": "https://api.github.com/repos/schollz/wifi_simulator/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/wifi_simulator/pulls{/number}",
+  "created_at": "2015-07-13T19:24:10Z",
+  "updated_at": "2018-09-15T16:14:51Z",
+  "pushed_at": "2015-07-18T14:29:34Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6115,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 290,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-15T17:44:34.676Z"
+}

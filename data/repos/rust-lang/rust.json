@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-15T06:43:28Z",
-  "pushed_at": "2018-09-15T06:51:19Z",
+  "updated_at": "2018-09-15T15:28:22Z",
+  "pushed_at": "2018-09-15T16:45:52Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 393154,
-  "stargazers_count": 30638,
+  "size": 393104,
+  "stargazers_count": 30642,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -80,7 +80,7 @@
     "froystig": 110,
     "mark-i-m": 111,
     "aochagavia": 115,
-    "nnethercote": 122,
+    "nnethercote": 125,
     "klutzy": 123,
     "tamird": 130,
     "jld": 134,
@@ -149,7 +149,7 @@
     "alexcrichton": 4684,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13643,
+    "bors": 13646,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
@@ -326,7 +326,7 @@
     "scottcarr": 19,
     "infinity0": 19,
     "bombless": 19,
-    "flip1995": 19,
+    "flip1995": 20,
     "federicomenaquintero": 18,
     "geofft": 18,
     "gkoz": 18,
@@ -407,7 +407,7 @@
     "CleanCut": 13,
     "nicokoch": 13,
     "meqif": 13,
-    "SergioBenitez": 13,
+    "SergioBenitez": 15,
     "tmiasko": 13,
     "projektir": 13,
     "toidiu": 14,
@@ -3089,11 +3089,12 @@
     "espindola",
     "wilsonk",
     "sstangl",
-    "benjaminjackman"
+    "benjaminjackman",
+    "maxdeviant"
   ],
   "languages": {
     "Rust": {
-      "bytes": 34397161,
+      "bytes": 34399982,
       "color": "#dea584"
     },
     "Python": {
@@ -3177,5 +3178,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-15T06:59:40.442Z"
+  "fetched_at": "2018-09-15T16:59:40.268Z"
 }

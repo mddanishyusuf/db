@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "godot-fancy-lights",
+  "full_name": "Calinou/godot-fancy-lights",
+  "private": false,
+  "owner": "Calinou",
+  "html_url": "https://github.com/Calinou/godot-fancy-lights",
+  "description": "[WIP] Create OmniLights with configurable corona effects",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/godot-fancy-lights",
+  "languages_url": "https://api.github.com/repos/Calinou/godot-fancy-lights/languages",
+  "pulls_url": "https://api.github.com/repos/Calinou/godot-fancy-lights/pulls{/number}",
+  "created_at": "2018-09-15T13:08:26Z",
+  "updated_at": "2018-09-15T14:30:19Z",
+  "pushed_at": "2018-09-15T13:49:55Z",
+  "homepage": "",
+  "size": 41,
+  "stargazers_count": 2,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Calinou": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "GDScript": {
+      "bytes": 2056,
+      "color": "#355570"
+    }
+  },
+  "fetched_at": "2018-09-15T16:55:17.685Z"
+}

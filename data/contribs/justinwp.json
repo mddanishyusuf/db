@@ -82,13 +82,13 @@
     "kennethreitz/dj-database-url": {
       "full_name": "kennethreitz/dj-database-url",
       "name": "dj-database-url",
-      "stargazers_count": 805,
-      "popularity": 3.9053491459084095,
+      "stargazers_count": 804,
+      "popularity": 3.9048087096928663,
       "percentage": 0,
       "maturity": 2.853603482128319,
       "total_commits_count": 111,
       "activity": 5,
-      "total_score": 22.423254401981865,
+      "total_score": 22.421633093335238,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,7 +212,7 @@
     "Leaflet/Leaflet": {
       "full_name": "Leaflet/Leaflet",
       "name": "Leaflet",
-      "stargazers_count": 22720,
+      "stargazers_count": 22722,
       "popularity": 5,
       "percentage": 0.01614465611882467,
       "maturity": 4.790900839415084,
@@ -225,7 +225,7 @@
     "pallets/flask": {
       "full_name": "pallets/flask",
       "name": "flask",
-      "stargazers_count": 38771,
+      "stargazers_count": 38776,
       "popularity": 5,
       "percentage": 0.031191515907673113,
       "maturity": 4.502260891638493,

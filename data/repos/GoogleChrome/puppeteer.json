@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/GoogleChrome/puppeteer/languages",
   "pulls_url": "https://api.github.com/repos/GoogleChrome/puppeteer/pulls{/number}",
   "created_at": "2017-05-09T22:16:13Z",
-  "updated_at": "2018-09-15T06:51:54Z",
+  "updated_at": "2018-09-15T16:39:27Z",
   "pushed_at": "2018-09-14T18:48:48Z",
   "homepage": "https://pptr.dev",
   "size": 4454,
-  "stargazers_count": 38195,
+  "stargazers_count": 38208,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -503,5 +503,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-15T06:52:59.896Z"
+  "fetched_at": "2018-09-15T16:53:11.462Z"
 }

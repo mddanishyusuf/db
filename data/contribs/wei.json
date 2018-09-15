@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3231,
-      "popularity": 4.509255055215755,
+      "stargazers_count": 3232,
+      "popularity": 4.509389486741348,
       "percentage": 0.11402508551881414,
       "maturity": 3.924513453531908,
       "total_commits_count": 877,
       "activity": 5,
-      "total_score": 26.443633937839707,
+      "total_score": 26.44403922513009,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 27009,
+      "stargazers_count": 27014,
       "popularity": 5,
       "percentage": 0.020362451639177357,
       "maturity": 4.689363328436253,
@@ -121,13 +121,13 @@
     "remy/mit-license": {
       "full_name": "remy/mit-license",
       "name": "mit-license",
-      "stargazers_count": 1724,
-      "popularity": 4.236349568817199,
+      "stargazers_count": 1723,
+      "popularity": 4.236097453122105,
       "percentage": 0,
-      "maturity": 4.463999454771905,
-      "total_commits_count": 2939,
+      "maturity": 4.464149232170846,
+      "total_commits_count": 2940,
       "activity": 5,
-      "total_score": 26.637047615995407,
+      "total_score": 26.636590823708005,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -277,13 +277,13 @@
     "EventSource/eventsource": {
       "full_name": "EventSource/eventsource",
       "name": "eventsource",
-      "stargazers_count": 330,
-      "popularity": 3.517366959070742,
+      "stargazers_count": 331,
+      "popularity": 3.5186846011426596,
       "percentage": 0,
       "maturity": 3.3179155807799074,
       "total_commits_count": 247,
       "activity": 5,
-      "total_score": 22.18793203877204,
+      "total_score": 22.191884964987793,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

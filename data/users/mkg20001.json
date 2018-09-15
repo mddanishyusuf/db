@@ -24,7 +24,7 @@
     "ZeroNetJS"
   ],
   "contribs": {
-    "fetched_at": "2018-09-14T18:22:12.320Z",
+    "fetched_at": "2018-09-15T06:48:02.347Z",
     "repos": [
       "mkg20001/apkmirror2fdroid",
       "ZeroNerds/zeronet-snap",
@@ -223,7 +223,8 @@
       "mkg20001/node-named",
       "mkg20001/pkg-fetch",
       "mkg20001/ZeroNet",
-      "mkg20001/ZeroNet-kivy"
+      "mkg20001/ZeroNet-kivy",
+      "mkg20001/redirect-dev-to-localhost"
     ]
   }
 }

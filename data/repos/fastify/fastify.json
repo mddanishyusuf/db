@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fastify/fastify/languages",
   "pulls_url": "https://api.github.com/repos/fastify/fastify/pulls{/number}",
   "created_at": "2016-09-28T19:10:14Z",
-  "updated_at": "2018-09-14T16:10:50Z",
-  "pushed_at": "2018-09-14T19:26:53Z",
+  "updated_at": "2018-09-15T06:19:30Z",
+  "pushed_at": "2018-09-14T23:31:04Z",
   "homepage": "https://www.fastify.io",
   "size": 1728,
-  "stargazers_count": 8077,
+  "stargazers_count": 8076,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -274,7 +274,8 @@
     "alexprut",
     "brwnll",
     "davidmarkclements",
-    "stearm"
+    "stearm",
+    "jineshshah36"
   ],
   "languages": {
     "JavaScript": {
@@ -290,5 +291,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T19:50:04.930Z"
+  "fetched_at": "2018-09-15T07:03:36.637Z"
 }

@@ -43,13 +43,13 @@
     "RichardLitt/awesome-conferences": {
       "full_name": "RichardLitt/awesome-conferences",
       "name": "awesome-conferences",
-      "stargazers_count": 690,
-      "popularity": 3.8383213328957964,
+      "stargazers_count": 691,
+      "popularity": 3.838951110395326,
       "percentage": 0.3401360544217687,
       "maturity": 3.4067403017027686,
       "total_commits_count": 294,
       "activity": 5,
-      "total_score": 23.498166293683557,
+      "total_score": 23.500083473486548,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,7 +95,7 @@
     "h5bp/Front-end-Developer-Interview-Questions": {
       "full_name": "h5bp/Front-end-Developer-Interview-Questions",
       "name": "Front-end-Developer-Interview-Questions",
-      "stargazers_count": 37063,
+      "stargazers_count": 37068,
       "popularity": 5,
       "percentage": 0.15552099533437014,
       "maturity": 3.782125359756415,
@@ -134,7 +134,7 @@
     "uxsolutions/bootstrap-datepicker": {
       "full_name": "uxsolutions/bootstrap-datepicker",
       "name": "bootstrap-datepicker",
-      "stargazers_count": 11111,
+      "stargazers_count": 11112,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.174368318848742,

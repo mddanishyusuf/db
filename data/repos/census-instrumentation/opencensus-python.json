@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/census-instrumentation/opencensus-python/languages",
   "pulls_url": "https://api.github.com/repos/census-instrumentation/opencensus-python/pulls{/number}",
   "created_at": "2017-07-07T22:28:28Z",
-  "updated_at": "2018-09-14T06:12:24Z",
-  "pushed_at": "2018-09-14T00:06:47Z",
+  "updated_at": "2018-09-14T23:11:09Z",
+  "pushed_at": "2018-09-14T23:12:13Z",
   "homepage": "",
-  "size": 980,
+  "size": 994,
   "stargazers_count": 205,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "mayurkale22": 1,
+    "mayurkale22": 2,
     "meridional": 1,
     "vcasadei": 2,
     "geobeau": 1,
@@ -115,7 +115,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 796795,
+      "bytes": 842008,
       "color": "#3572A5"
     },
     "Shell": {
@@ -131,5 +131,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-14T08:32:04.476Z"
+  "fetched_at": "2018-09-15T07:03:03.084Z"
 }

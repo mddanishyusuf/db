@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sindresorhus/amas/languages",
   "pulls_url": "https://api.github.com/repos/sindresorhus/amas/pulls{/number}",
   "created_at": "2015-07-04T11:11:08Z",
-  "updated_at": "2018-09-14T12:07:30Z",
+  "updated_at": "2018-09-15T03:05:34Z",
   "pushed_at": "2018-09-14T10:18:15Z",
   "homepage": "",
   "size": 226,
-  "stargazers_count": 1011,
+  "stargazers_count": 1012,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -354,5 +354,5 @@
     "rizafahmi"
   ],
   "languages": {},
-  "fetched_at": "2018-09-14T19:35:51.235Z"
+  "fetched_at": "2018-09-15T06:51:19.923Z"
 }

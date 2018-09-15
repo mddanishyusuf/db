@@ -69,13 +69,13 @@
     "woocommerce/woocommerce": {
       "full_name": "woocommerce/woocommerce",
       "name": "woocommerce",
-      "stargazers_count": 4714,
-      "popularity": 4.673345742306151,
+      "stargazers_count": 4715,
+      "popularity": 4.673437878780261,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 27552,
       "activity": 5,
-      "total_score": 29.020037226918454,
+      "total_score": 29.02031363634078,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

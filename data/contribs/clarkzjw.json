@@ -212,7 +212,7 @@
     "syl20bnr/spacemacs": {
       "full_name": "syl20bnr/spacemacs",
       "name": "spacemacs",
-      "stargazers_count": 15921,
+      "stargazers_count": 15924,
       "popularity": 5,
       "percentage": 0.014463407578825572,
       "maturity": 4.838952139086211,
@@ -251,13 +251,13 @@
     "jlord/git-it": {
       "full_name": "jlord/git-it",
       "name": "git-it",
-      "stargazers_count": 1765,
-      "popularity": 4.246562286404163,
+      "stargazers_count": 1766,
+      "popularity": 4.246808401385315,
       "percentage": 0,
       "maturity": 2.92653025393631,
       "total_commits_count": 124,
-      "activity": 1.6962549673316136,
-      "total_score": 20.289002334416722,
+      "activity": 1.6738984603749825,
+      "total_score": 20.267384172403546,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,13 +303,13 @@
     "ipython-contrib/jupyter_contrib_nbextensions": {
       "full_name": "ipython-contrib/jupyter_contrib_nbextensions",
       "name": "jupyter_contrib_nbextensions",
-      "stargazers_count": 2618,
-      "popularity": 4.417859404609897,
+      "stargazers_count": 2620,
+      "popularity": 4.418191167723999,
       "percentage": 0.06031363088057901,
       "maturity": 4.210741569403716,
       "total_commits_count": 1658,
       "activity": 5,
-      "total_score": 26.709700781020672,
+      "total_score": 26.71069867164192,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

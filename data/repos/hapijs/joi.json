@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hapijs/joi/languages",
   "pulls_url": "https://api.github.com/repos/hapijs/joi/pulls{/number}",
   "created_at": "2012-09-16T16:38:06Z",
-  "updated_at": "2018-09-14T18:16:06Z",
+  "updated_at": "2018-09-15T06:13:57Z",
   "pushed_at": "2018-09-10T14:54:53Z",
   "homepage": null,
   "size": 3486,
-  "stargazers_count": 9218,
+  "stargazers_count": 9221,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -407,5 +407,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:51:02.955Z"
+  "fetched_at": "2018-09-15T07:04:28.353Z"
 }

@@ -303,13 +303,13 @@
     "vicky002/AlgoWiki": {
       "full_name": "vicky002/AlgoWiki",
       "name": "AlgoWiki",
-      "stargazers_count": 3047,
-      "popularity": 4.483783243998259,
+      "stargazers_count": 3048,
+      "popularity": 4.483925794542172,
       "percentage": 0.36231884057971014,
       "maturity": 3.7110907560624047,
       "total_commits_count": 552,
-      "activity": 2.7072997515856794,
-      "total_score": 23.79202368473417,
+      "activity": 2.679603745184679,
+      "total_score": 23.76476204430212,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

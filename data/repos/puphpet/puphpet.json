@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/puphpet/puphpet/languages",
   "pulls_url": "https://api.github.com/repos/puphpet/puphpet/pulls{/number}",
   "created_at": "2013-04-28T06:18:02Z",
-  "updated_at": "2018-09-14T19:39:02Z",
+  "updated_at": "2018-09-15T06:59:40Z",
   "pushed_at": "2018-07-18T15:54:50Z",
   "homepage": null,
   "size": 12737,
-  "stargazers_count": 3892,
+  "stargazers_count": 3893,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -464,5 +464,5 @@
       "color": "#302B6D"
     }
   },
-  "fetched_at": "2018-09-14T19:49:20.990Z"
+  "fetched_at": "2018-09-15T07:02:57.064Z"
 }

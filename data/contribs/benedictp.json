@@ -30,13 +30,13 @@
     "wasabeef/awesome-android-libraries": {
       "full_name": "wasabeef/awesome-android-libraries",
       "name": "awesome-android-libraries",
-      "stargazers_count": 4551,
-      "popularity": 4.658060029280133,
+      "stargazers_count": 4553,
+      "popularity": 4.658250881816773,
       "percentage": 0,
       "maturity": 2.4346992151481284,
       "total_commits_count": 67,
-      "activity": 2.4857091842517187,
-      "total_score": 21.329287702388374,
+      "activity": 2.452549437508079,
+      "total_score": 21.296700513254656,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/msrose/babel-plugin-transform-amd-to-commonjs/languages",
   "pulls_url": "https://api.github.com/repos/msrose/babel-plugin-transform-amd-to-commonjs/pulls{/number}",
   "created_at": "2016-12-10T01:57:35Z",
-  "updated_at": "2018-08-16T03:02:17Z",
+  "updated_at": "2018-09-15T06:03:48Z",
   "pushed_at": "2018-08-16T03:02:20Z",
   "homepage": "",
   "size": 348,
-  "stargazers_count": 17,
+  "stargazers_count": 18,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -47,5 +47,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T04:58:36.024Z"
+  "fetched_at": "2018-09-15T06:55:13.802Z"
 }

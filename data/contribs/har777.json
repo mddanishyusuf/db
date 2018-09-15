@@ -30,7 +30,7 @@
     "antirez/redis": {
       "full_name": "antirez/redis",
       "name": "redis",
-      "stargazers_count": 31560,
+      "stargazers_count": 31566,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.8575642527074665,
@@ -82,7 +82,7 @@
     "scikit-learn/scikit-learn": {
       "full_name": "scikit-learn/scikit-learn",
       "name": "scikit-learn",
-      "stargazers_count": 30530,
+      "stargazers_count": 30534,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

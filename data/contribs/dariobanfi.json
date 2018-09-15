@@ -82,13 +82,13 @@
     "auth0/lock": {
       "full_name": "auth0/lock",
       "name": "lock",
-      "stargazers_count": 782,
-      "popularity": 3.892745721454856,
+      "stargazers_count": 783,
+      "popularity": 3.89330136954358,
       "percentage": 0.0755287009063444,
       "maturity": 4.418060491304999,
       "total_commits_count": 2648,
       "activity": 5,
-      "total_score": 25.552579970523595,
+      "total_score": 25.554252370548944,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

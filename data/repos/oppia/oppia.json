@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/oppia/oppia/languages",
   "pulls_url": "https://api.github.com/repos/oppia/oppia/pulls{/number}",
   "created_at": "2015-08-14T00:16:14Z",
-  "updated_at": "2018-09-14T19:38:25Z",
-  "pushed_at": "2018-09-14T19:32:09Z",
+  "updated_at": "2018-09-14T23:49:34Z",
+  "pushed_at": "2018-09-15T05:46:17Z",
   "homepage": "https://www.oppia.org",
-  "size": 107726,
-  "stargazers_count": 729,
+  "size": 107772,
+  "stargazers_count": 728,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -582,5 +582,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T19:53:20.110Z"
+  "fetched_at": "2018-09-15T07:06:29.511Z"
 }

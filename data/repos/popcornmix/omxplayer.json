@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/popcornmix/omxplayer/languages",
   "pulls_url": "https://api.github.com/repos/popcornmix/omxplayer/pulls{/number}",
   "created_at": "2012-08-27T18:54:21Z",
-  "updated_at": "2018-09-05T14:57:04Z",
+  "updated_at": "2018-09-14T20:31:56Z",
   "pushed_at": "2018-09-05T14:56:58Z",
   "homepage": "",
   "size": 2003,
-  "stargazers_count": 660,
+  "stargazers_count": 661,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -171,5 +171,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T23:08:02.132Z"
+  "fetched_at": "2018-09-15T07:03:49.479Z"
 }

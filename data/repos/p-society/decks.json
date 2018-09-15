@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/p-society/decks/languages",
   "pulls_url": "https://api.github.com/repos/p-society/decks/pulls{/number}",
   "created_at": "2018-09-02T08:06:23Z",
-  "updated_at": "2018-09-14T17:46:47Z",
+  "updated_at": "2018-09-15T07:06:30Z",
   "pushed_at": "2018-09-14T17:46:45Z",
   "homepage": null,
   "size": 13307,
-  "stargazers_count": 12,
+  "stargazers_count": 13,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -52,5 +52,5 @@
     "gupta2140"
   ],
   "languages": {},
-  "fetched_at": "2018-09-14T19:54:33.186Z"
+  "fetched_at": "2018-09-15T07:07:27.887Z"
 }

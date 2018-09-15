@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ironman5366/W.I.L.L/languages",
   "pulls_url": "https://api.github.com/repos/ironman5366/W.I.L.L/pulls{/number}",
   "created_at": "2015-10-10T23:06:24Z",
-  "updated_at": "2018-09-05T14:31:48Z",
+  "updated_at": "2018-09-15T04:20:46Z",
   "pushed_at": "2017-08-14T18:14:31Z",
   "homepage": "https://willbeddow.com",
   "size": 3521,
-  "stargazers_count": 376,
+  "stargazers_count": 377,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -57,5 +57,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T22:37:10.327Z"
+  "fetched_at": "2018-09-15T07:45:49.704Z"
 }

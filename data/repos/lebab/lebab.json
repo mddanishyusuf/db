@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/lebab/lebab/languages",
   "pulls_url": "https://api.github.com/repos/lebab/lebab/pulls{/number}",
   "created_at": "2015-02-18T05:36:49Z",
-  "updated_at": "2018-09-14T15:50:21Z",
+  "updated_at": "2018-09-15T00:50:12Z",
   "pushed_at": "2018-09-13T13:58:15Z",
   "homepage": "https://uniibu.github.io/lebab-ce/",
   "size": 2069,
-  "stargazers_count": 4446,
+  "stargazers_count": 4447,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -119,5 +119,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:51:02.827Z"
+  "fetched_at": "2018-09-15T07:04:28.253Z"
 }

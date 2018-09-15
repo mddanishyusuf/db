@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-14T19:51:24Z",
-  "pushed_at": "2018-09-14T19:12:04Z",
+  "updated_at": "2018-09-15T05:05:43Z",
+  "pushed_at": "2018-09-15T06:05:27Z",
   "homepage": "https://swift.org",
-  "size": 338764,
-  "stargazers_count": 45186,
+  "size": 338776,
+  "stargazers_count": 45188,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -97,7 +97,7 @@
     "gregomni": 142,
     "mikeash": 169,
     "phausler": 126,
-    "palimondo": 150,
+    "palimondo": 151,
     "harlanhaskins": 169,
     "vedantk": 185,
     "mxswd": 157,
@@ -119,7 +119,7 @@
     "AnnaZaks": 290,
     "davidungar": 464,
     "milseman": 546,
-    "compnerd": 574,
+    "compnerd": 576,
     "gparker42": 458,
     "graydon": 519,
     "tkremenek": 655,
@@ -137,16 +137,16 @@
     "adrian-prantl": 972,
     "nkcsgexi": 1078,
     "aschwaighofer": 1380,
-    "eeckstein": 1323,
+    "eeckstein": 1324,
     "rudkx": 1672,
     "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3386,
+    "jrose-apple": 3388,
     "gottesmm": 3584,
-    "slavapestov": 4243,
+    "slavapestov": 4246,
     "gribozavr": 4444,
-    "jckarter": 4293,
+    "jckarter": 4295,
     "lattner": 4536,
     "DougGregor": 6138,
     "swift-ci": 10623,
@@ -1319,15 +1319,15 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30347813,
+      "bytes": 30348414,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24708667,
+      "bytes": 24709050,
       "color": "#ffac45"
     },
     "Python": {
-      "bytes": 1331738,
+      "bytes": 1331724,
       "color": "#3572A5"
     },
     "CMake": {
@@ -1387,5 +1387,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-14T19:54:48.242Z"
+  "fetched_at": "2018-09-15T07:07:41.268Z"
 }

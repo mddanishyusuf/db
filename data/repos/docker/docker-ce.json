@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/docker-ce/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-ce/pulls{/number}",
   "created_at": "2017-05-19T23:09:47Z",
-  "updated_at": "2018-09-14T17:04:02Z",
-  "pushed_at": "2018-09-14T19:08:29Z",
+  "updated_at": "2018-09-15T06:42:02Z",
+  "pushed_at": "2018-09-14T21:03:36Z",
   "homepage": "https://www.docker.com/community-edition",
-  "size": 148419,
-  "stargazers_count": 1567,
+  "size": 148432,
+  "stargazers_count": 1569,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -139,10 +139,10 @@
     "creack": 1264,
     "dnephin": 921,
     "albers": 772,
-    "thaJeztah": 3357,
+    "thaJeztah": 3358,
     "crosbymichael": 2111,
     "vieux": 1986,
-    "GordonTheTurtle": 484,
+    "GordonTheTurtle": 485,
     "metalivedev": 134,
     "moxiegirl": 59,
     "johnstep": 42,
@@ -448,7 +448,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 9546627,
+      "bytes": 9547590,
       "color": "#375eab"
     },
     "Shell": {
@@ -484,5 +484,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-14T19:51:18.844Z"
+  "fetched_at": "2018-09-15T07:04:40.771Z"
 }

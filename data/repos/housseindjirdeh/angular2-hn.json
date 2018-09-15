@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/housseindjirdeh/angular2-hn/languages",
   "pulls_url": "https://api.github.com/repos/housseindjirdeh/angular2-hn/pulls{/number}",
   "created_at": "2016-09-03T05:37:07Z",
-  "updated_at": "2018-09-05T15:10:35Z",
+  "updated_at": "2018-09-15T04:06:39Z",
   "pushed_at": "2018-01-17T01:28:04Z",
   "homepage": "https://angular2-hn.firebaseapp.com",
   "size": 1887,
-  "stargazers_count": 1238,
+  "stargazers_count": 1237,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -74,5 +74,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T04:57:39.106Z"
+  "fetched_at": "2018-09-15T06:53:54.823Z"
 }

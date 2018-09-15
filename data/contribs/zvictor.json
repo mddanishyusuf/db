@@ -69,13 +69,13 @@
     "apollographql/graphql-tools": {
       "full_name": "apollographql/graphql-tools",
       "name": "graphql-tools",
-      "stargazers_count": 2235,
-      "popularity": 4.349141695466747,
+      "stargazers_count": 2236,
+      "popularity": 4.349336045458199,
       "percentage": 0.09199632014719411,
       "maturity": 4.021724312710398,
       "total_commits_count": 1087,
       "activity": 5,
-      "total_score": 26.142887365952653,
+      "total_score": 26.143472740259934,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -186,7 +186,7 @@
     "styled-components/styled-components": {
       "full_name": "styled-components/styled-components",
       "name": "styled-components",
-      "stargazers_count": 19036,
+      "stargazers_count": 19045,
       "popularity": 5,
       "percentage": 0.08347245409015025,
       "maturity": 4.37392996433801,
@@ -277,7 +277,7 @@
     "storybooks/storybook": {
       "full_name": "storybooks/storybook",
       "name": "storybook",
-      "stargazers_count": 28359,
+      "stargazers_count": 28370,
       "popularity": 5,
       "percentage": 0.02377555872563005,
       "maturity": 5,
@@ -511,13 +511,13 @@
     "AllanBishop/angular-img-cropper": {
       "full_name": "AllanBishop/angular-img-cropper",
       "name": "angular-img-cropper",
-      "stargazers_count": 171,
-      "popularity": 3.2307433792870683,
+      "stargazers_count": 172,
+      "popularity": 3.2332890753498997,
       "percentage": 19.51219512195122,
       "maturity": 1.0429714431619128,
       "total_commits_count": 41,
-      "activity": 1.5747789016231288,
-      "total_score": 21.548008302536335,
+      "activity": 1.5599071188776037,
+      "total_score": 21.54723098335819,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -628,7 +628,7 @@
     "meteor/meteor": {
       "full_name": "meteor/meteor",
       "name": "meteor",
-      "stargazers_count": 40262,
+      "stargazers_count": 40260,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

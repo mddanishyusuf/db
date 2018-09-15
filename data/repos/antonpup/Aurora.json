@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/antonpup/Aurora/languages",
   "pulls_url": "https://api.github.com/repos/antonpup/Aurora/pulls{/number}",
   "created_at": "2016-04-04T05:18:18Z",
-  "updated_at": "2018-09-12T04:12:08Z",
-  "pushed_at": "2018-09-11T18:54:13Z",
+  "updated_at": "2018-09-15T01:38:33Z",
+  "pushed_at": "2018-09-14T23:10:30Z",
   "homepage": "http://www.project-aurora.com/",
-  "size": 653212,
-  "stargazers_count": 597,
+  "size": 653156,
+  "stargazers_count": 598,
   "language": "C#",
   "mirror_url": null,
   "archived": false,
@@ -122,5 +122,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T05:04:00.041Z"
+  "fetched_at": "2018-09-15T07:01:35.215Z"
 }

@@ -4,13 +4,13 @@
     "MarkPieszak/aspnetcore-angular2-universal": {
       "full_name": "MarkPieszak/aspnetcore-angular2-universal",
       "name": "aspnetcore-angular2-universal",
-      "stargazers_count": 1237,
-      "popularity": 4.092092691916634,
+      "stargazers_count": 1238,
+      "popularity": 4.0924438923927235,
       "percentage": 3.672316384180791,
       "maturity": 3.498803703319825,
       "total_commits_count": 354,
       "activity": 5,
-      "total_score": 26.227455157344103,
+      "total_score": 26.228676422276493,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -43,13 +43,13 @@
     "TwanoO67/bootstraping-ngx-admin-lte": {
       "full_name": "TwanoO67/bootstraping-ngx-admin-lte",
       "name": "bootstraping-ngx-admin-lte",
-      "stargazers_count": 452,
-      "popularity": 3.6543119070861882,
+      "stargazers_count": 453,
+      "popularity": 3.6552735870419375,
       "percentage": 0,
       "maturity": 3.119337688518808,
       "total_commits_count": 171,
       "activity": 5,
-      "total_score": 22.20161109829618,
+      "total_score": 22.204496138163428,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

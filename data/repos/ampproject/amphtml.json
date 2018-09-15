@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-14T19:48:36Z",
-  "pushed_at": "2018-09-14T19:45:26Z",
+  "updated_at": "2018-09-15T04:26:47Z",
+  "pushed_at": "2018-09-15T01:04:58Z",
   "homepage": "https://www.ampproject.org",
-  "size": 496581,
-  "stargazers_count": 11978,
+  "size": 496685,
+  "stargazers_count": 11981,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -126,7 +126,7 @@
     "gmajoulet": 138,
     "greenkeeper[bot]": 111,
     "muxin": 118,
-    "newmuis": 132,
+    "newmuis": 134,
     "cvializ": 137,
     "bradfrizzell": 140,
     "keithwrightbos": 167,
@@ -141,8 +141,8 @@
     "aghassemi": 289,
     "choumx": 344,
     "lannka": 354,
-    "zhouyx": 343,
-    "jridgewell": 442,
+    "zhouyx": 344,
+    "jridgewell": 443,
     "rsimha": 414,
     "erwinmombay": 708,
     "cramforce": 1134,
@@ -357,7 +357,7 @@
     "dharton": 1,
     "da2x": 1,
     "blueyedgeek": 1,
-    "dbow": 1,
+    "dbow": 2,
     "davidalk": 2,
     "DavidCramer": 1,
     "yandavid": 1,
@@ -497,7 +497,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12365345,
+      "bytes": 12302255,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -529,7 +529,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-14T19:49:05.573Z",
+  "fetched_at": "2018-09-15T07:02:42.035Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",
@@ -1245,6 +1245,7 @@
     "GoTcWang",
     "jenkey2011",
     "marcelo-muniz",
-    "yomeshgupta"
+    "yomeshgupta",
+    "ampcontributorsummit2424"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/angular/angular.js/languages",
   "pulls_url": "https://api.github.com/repos/angular/angular.js/pulls{/number}",
   "created_at": "2010-01-06T00:34:37Z",
-  "updated_at": "2018-09-14T16:25:56Z",
+  "updated_at": "2018-09-15T05:47:33Z",
   "pushed_at": "2018-09-13T20:29:07Z",
   "homepage": "https://angularjs.org",
   "size": 99306,
-  "stargazers_count": 59121,
+  "stargazers_count": 59123,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -3538,5 +3538,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-14T20:35:28.231Z"
+  "fetched_at": "2018-09-15T07:46:14.961Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-14T19:06:25Z",
-  "pushed_at": "2018-09-14T19:27:59Z",
+  "updated_at": "2018-09-15T06:43:28Z",
+  "pushed_at": "2018-09-15T06:51:19Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 393187,
-  "stargazers_count": 30629,
+  "size": 393154,
+  "stargazers_count": 30638,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -54,7 +54,7 @@
     "bstrie": 72,
     "carols10cents": 74,
     "P1start": 73,
-    "ljedrz": 75,
+    "ljedrz": 76,
     "yichoi": 75,
     "semarie": 76,
     "mitaa": 78,
@@ -129,7 +129,7 @@
     "solson": 573,
     "RalfJung": 504,
     "arielb1": 689,
-    "petrochenkov": 643,
+    "petrochenkov": 644,
     "nrc": 659,
     "japaric": 88,
     "erickt": 738,
@@ -140,7 +140,7 @@
     "pnkfelix": 925,
     "steveklabnik": 1767,
     "marijnh": 1007,
-    "eddyb": 1295,
+    "eddyb": 1298,
     "GuillaumeGomez": 1692,
     "oli-obk": 520,
     "catamorphism": 1523,
@@ -149,7 +149,7 @@
     "alexcrichton": 4684,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13640,
+    "bors": 13643,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
@@ -3093,7 +3093,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 34398098,
+      "bytes": 34397161,
       "color": "#dea584"
     },
     "Python": {
@@ -3177,5 +3177,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-14T19:45:49.733Z"
+  "fetched_at": "2018-09-15T06:59:40.442Z"
 }

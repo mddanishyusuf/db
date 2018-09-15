@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/volumio/Volumio2/languages",
   "pulls_url": "https://api.github.com/repos/volumio/Volumio2/pulls{/number}",
   "created_at": "2014-12-08T13:32:26Z",
-  "updated_at": "2018-09-14T19:42:21Z",
-  "pushed_at": "2018-09-14T19:42:18Z",
+  "updated_at": "2018-09-14T23:10:15Z",
+  "pushed_at": "2018-09-14T21:43:13Z",
   "homepage": "http://volumio.org",
-  "size": 26403,
-  "stargazers_count": 785,
+  "size": 26393,
+  "stargazers_count": 786,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -115,7 +115,7 @@
     "MerynT": 93,
     "greenkeeperio-bot": 185,
     "fanciulli": 348,
-    "volumio": 1253
+    "volumio": 1254
   },
   "pulls_authors": [
     "ggiraudon",
@@ -229,7 +229,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 935225,
+      "bytes": 935645,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -241,5 +241,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T19:45:19.904Z"
+  "fetched_at": "2018-09-15T06:59:19.209Z"
 }

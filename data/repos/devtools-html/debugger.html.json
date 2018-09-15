@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/devtools-html/debugger.html/languages",
   "pulls_url": "https://api.github.com/repos/devtools-html/debugger.html/pulls{/number}",
   "created_at": "2016-03-23T18:55:36Z",
-  "updated_at": "2018-09-14T18:07:59Z",
-  "pushed_at": "2018-09-14T19:02:00Z",
+  "updated_at": "2018-09-15T03:16:33Z",
+  "pushed_at": "2018-09-14T23:56:35Z",
   "homepage": "https://devtools-html.github.io/debugger.html/",
-  "size": 27502,
-  "stargazers_count": 4004,
+  "size": 27506,
+  "stargazers_count": 4003,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -726,5 +726,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T19:54:12.842Z"
+  "fetched_at": "2018-09-15T07:07:18.660Z"
 }

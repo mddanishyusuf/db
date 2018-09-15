@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 533,
     "dom96": 1333,
-    "Araq": 6663,
+    "Araq": 6669,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -352,7 +352,7 @@
     "naveenarun": 1,
     "drslump": 3,
     "bearcage": 1,
-    "awr1": 3,
+    "awr1": 16,
     "nathancahill": 2,
     "pigmej": 1
   },
@@ -366,10 +366,10 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-14T15:09:39Z",
-  "pushed_at": "2018-09-14T19:07:37Z",
+  "updated_at": "2018-09-15T06:39:07Z",
+  "pushed_at": "2018-09-14T23:51:26Z",
   "homepage": "https://nim-lang.org/",
-  "size": 71293,
+  "size": 71304,
   "stargazers_count": 5452,
   "language": "Nim",
   "mirror_url": null,
@@ -404,7 +404,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 9501324,
+      "bytes": 9502599,
       "color": "#37775b"
     },
     "C": {
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:39:45.879Z",
+  "fetched_at": "2018-09-15T06:54:54.899Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

@@ -43,13 +43,13 @@
     "puphpet/puphpet": {
       "full_name": "puphpet/puphpet",
       "name": "puphpet",
-      "stargazers_count": 3892,
-      "popularity": 4.5901114798223555,
+      "stargazers_count": 3893,
+      "popularity": 4.59022307774745,
       "percentage": 82.56214149139579,
       "maturity": 4.4125303501719895,
       "total_commits_count": 2615,
-      "activity": 2.108478296649921,
-      "total_score": 73.96989978604951,
+      "activity": 2.1013331262126407,
+      "total_score": 73.96428719866614,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -420,7 +420,7 @@
     "fzaninotto/Faker": {
       "full_name": "fzaninotto/Faker",
       "name": "Faker",
-      "stargazers_count": 17260,
+      "stargazers_count": 17264,
       "popularity": 5,
       "percentage": 0.046146746654360866,
       "maturity": 4.329524144737326,

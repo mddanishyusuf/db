@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/reactjs/reactjs.org/languages",
   "pulls_url": "https://api.github.com/repos/reactjs/reactjs.org/pulls{/number}",
   "created_at": "2017-10-06T03:16:04Z",
-  "updated_at": "2018-09-14T16:20:54Z",
-  "pushed_at": "2018-09-13T18:37:16Z",
+  "updated_at": "2018-09-14T23:49:38Z",
+  "pushed_at": "2018-09-14T22:22:50Z",
   "homepage": "https://reactjs.org/",
-  "size": 70405,
+  "size": 70406,
   "stargazers_count": 2279,
   "language": "JavaScript",
   "mirror_url": null,
@@ -978,7 +978,8 @@
     "Shahor",
     "Hocdoc",
     "meltuhamy",
-    "skyfriends"
+    "skyfriends",
+    "tanykim"
   ],
   "languages": {
     "JavaScript": {
@@ -994,5 +995,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T19:50:31.600Z"
+  "fetched_at": "2018-09-15T07:04:00.620Z"
 }

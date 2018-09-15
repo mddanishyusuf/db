@@ -56,13 +56,13 @@
     "utterance/utterances": {
       "full_name": "utterance/utterances",
       "name": "utterances",
-      "stargazers_count": 375,
-      "popularity": 3.573026786403231,
+      "stargazers_count": 376,
+      "popularity": 3.574186142383603,
       "percentage": 0.9009009009009009,
       "maturity": 2.853603482128319,
       "total_commits_count": 111,
       "activity": 5,
-      "total_score": 21.84474992007212,
+      "total_score": 21.848363768443367,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

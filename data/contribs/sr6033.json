@@ -17,13 +17,13 @@
     "matiassingers/awesome-readme": {
       "full_name": "matiassingers/awesome-readme",
       "name": "awesome-readme",
-      "stargazers_count": 3044,
-      "popularity": 4.483355311411063,
+      "stargazers_count": 3046,
+      "popularity": 4.483640646648939,
       "percentage": 1.36986301369863,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
       "activity": 5,
-      "total_score": 24.29158982892261,
+      "total_score": 24.292496647760792,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

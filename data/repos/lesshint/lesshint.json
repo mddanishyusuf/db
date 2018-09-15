@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/lesshint/lesshint/languages",
   "pulls_url": "https://api.github.com/repos/lesshint/lesshint/pulls{/number}",
   "created_at": "2015-04-06T12:24:41Z",
-  "updated_at": "2018-09-11T13:24:01Z",
+  "updated_at": "2018-09-14T20:51:39Z",
   "pushed_at": "2018-09-08T06:25:06Z",
   "homepage": "",
   "size": 1323,
-  "stargazers_count": 112,
+  "stargazers_count": 111,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -132,5 +132,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:56:09.400Z"
+  "fetched_at": "2018-09-15T06:52:12.039Z"
 }

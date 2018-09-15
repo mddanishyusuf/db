@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pimcore/pimcore/languages",
   "pulls_url": "https://api.github.com/repos/pimcore/pimcore/pulls{/number}",
   "created_at": "2011-11-01T09:16:14Z",
-  "updated_at": "2018-09-14T13:18:30Z",
+  "updated_at": "2018-09-15T01:29:19Z",
   "pushed_at": "2018-09-14T13:57:54Z",
   "homepage": "http://www.pimcore.org/",
   "size": 369580,
-  "stargazers_count": 1057,
+  "stargazers_count": 1059,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -457,5 +457,5 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-09-14T19:36:39.674Z"
+  "fetched_at": "2018-09-15T06:51:59.727Z"
 }

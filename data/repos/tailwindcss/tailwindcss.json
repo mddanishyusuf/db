@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tailwindcss/tailwindcss/languages",
   "pulls_url": "https://api.github.com/repos/tailwindcss/tailwindcss/pulls{/number}",
   "created_at": "2017-10-06T14:59:14Z",
-  "updated_at": "2018-09-14T19:21:11Z",
-  "pushed_at": "2018-09-14T16:09:16Z",
+  "updated_at": "2018-09-15T06:59:09Z",
+  "pushed_at": "2018-09-15T03:07:39Z",
   "homepage": "https://tailwindcss.com/",
-  "size": 3465,
-  "stargazers_count": 6403,
+  "size": 3468,
+  "stargazers_count": 6408,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -224,7 +224,8 @@
     "a3020",
     "mvega3",
     "thecrypticace",
-    "rhurling"
+    "rhurling",
+    "spiltcoffee"
   ],
   "languages": {
     "CSS": {
@@ -236,5 +237,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:48:15.605Z"
+  "fetched_at": "2018-09-15T07:01:53.242Z"
 }

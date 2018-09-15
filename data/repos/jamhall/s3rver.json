@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jamhall/s3rver/languages",
   "pulls_url": "https://api.github.com/repos/jamhall/s3rver/pulls{/number}",
   "created_at": "2015-01-04T23:49:00Z",
-  "updated_at": "2018-09-12T22:42:49Z",
-  "pushed_at": "2018-09-12T21:57:10Z",
+  "updated_at": "2018-09-15T04:56:00Z",
+  "pushed_at": "2018-09-15T04:56:09Z",
   "homepage": "",
-  "size": 583,
+  "size": 584,
   "stargazers_count": 209,
   "language": "JavaScript",
   "mirror_url": null,
@@ -62,7 +62,7 @@
     "n1ru4l": 35,
     "kherock": 44,
     "jamhall": 86,
-    "renovate-bot": 153
+    "renovate-bot": 154
   },
   "pulls_authors": [
     "renovate[bot]",
@@ -109,5 +109,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-13T00:22:15.695Z"
+  "fetched_at": "2018-09-15T07:07:54.870Z"
 }

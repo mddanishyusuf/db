@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/OSSIA/score/languages",
   "pulls_url": "https://api.github.com/repos/OSSIA/score/pulls{/number}",
   "created_at": "2013-10-15T10:04:21Z",
-  "updated_at": "2018-09-14T19:08:31Z",
-  "pushed_at": "2018-09-14T19:08:30Z",
+  "updated_at": "2018-09-14T23:36:30Z",
+  "pushed_at": "2018-09-14T22:24:19Z",
   "homepage": "https://ossia.io",
-  "size": 144123,
-  "stargazers_count": 280,
+  "size": 144138,
+  "stargazers_count": 281,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -66,7 +66,7 @@
     "avilleret": 120,
     "jaimechao": 123,
     "nvuaille": 475,
-    "jcelerier": 5208
+    "jcelerier": 5212
   },
   "pulls_authors": [
     "bltzr",
@@ -82,7 +82,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 4943791,
+      "bytes": 4944627,
       "color": "#f34b7d"
     },
     "CMake": {
@@ -130,5 +130,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-14T19:48:40.138Z"
+  "fetched_at": "2018-09-15T07:02:18.667Z"
 }

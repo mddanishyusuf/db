@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-14T19:17:09Z",
-  "pushed_at": "2018-09-14T19:17:28Z",
+  "updated_at": "2018-09-15T06:49:51Z",
+  "pushed_at": "2018-09-15T06:24:31Z",
   "homepage": "https://brew.sh",
-  "size": 125100,
-  "stargazers_count": 13547,
+  "size": 125129,
+  "stargazers_count": 13558,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -51,7 +51,7 @@
     "rolandwalker": 13873,
     "vitorgalvao": 12104,
     "victorpopkov": 5362,
-    "commitay": 2894,
+    "commitay": 2902,
     "brianmorton": 2426,
     "tapeinosyne": 1873,
     "fanquake": 1831,
@@ -67,7 +67,7 @@
     "phinze": 586,
     "artdevjs": 464,
     "adidalal": 345,
-    "core-code": 377,
+    "core-code": 398,
     "neutric": 288,
     "buo": 281,
     "jcbot": 268,
@@ -108,9 +108,9 @@
     "chuanxd": 58,
     "sanyer": 57,
     "SentinelWarren": 56,
-    "mahori": 56,
+    "mahori": 58,
     "vszakats": 53,
-    "suschizu": 74,
+    "suschizu": 75,
     "warmwinter": 52,
     "mathbunnyru": 51,
     "fmaass": 50,
@@ -5907,7 +5907,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2174305,
+      "bytes": 2173146,
       "color": "#701516"
     },
     "Shell": {
@@ -5915,5 +5915,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T19:48:52.155Z"
+  "fetched_at": "2018-09-15T07:02:30.192Z"
 }

@@ -266,11 +266,11 @@
       "name": "buck",
       "stargazers_count": 6081,
       "popularity": 4.7839498102257485,
-      "percentage": 0.006512112529304506,
+      "percentage": 0.006510840549514943,
       "maturity": 5,
-      "total_commits_count": 15356,
+      "total_commits_count": 15359,
       "activity": 5,
-      "total_score": 29.35589940121208,
+      "total_score": 29.35589861015071,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -459,13 +459,13 @@
     "buildbot/buildbot": {
       "full_name": "buildbot/buildbot",
       "name": "buildbot",
-      "stargazers_count": 3583,
-      "popularity": 4.554176793263272,
+      "stargazers_count": 3584,
+      "popularity": 4.554298016532913,
       "percentage": 0.07304601899196493,
       "maturity": 5,
       "total_commits_count": 16428,
       "activity": 5,
-      "total_score": 28.705776762779166,
+      "total_score": 28.706141583722136,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

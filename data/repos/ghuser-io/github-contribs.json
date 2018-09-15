@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ghuser-io/github-contribs/languages",
   "pulls_url": "https://api.github.com/repos/ghuser-io/github-contribs/pulls{/number}",
   "created_at": "2018-05-16T23:18:05Z",
-  "updated_at": "2018-09-14T19:21:07Z",
-  "pushed_at": "2018-09-13T14:44:55Z",
+  "updated_at": "2018-09-14T22:30:00Z",
+  "pushed_at": "2018-09-14T22:29:59Z",
   "homepage": "",
-  "size": 120,
+  "size": 126,
   "stargazers_count": 40,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "AurelienLourot": 65
+    "AurelienLourot": 67
   },
   "pulls_authors": [],
   "languages": {
@@ -66,5 +66,5 @@
       "Travis CI"
     ]
   },
-  "fetched_at": "2018-09-14T19:38:23.345Z"
+  "fetched_at": "2018-09-15T06:53:36.249Z"
 }

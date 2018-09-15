@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/donnemartin/awesome-aws/languages",
   "pulls_url": "https://api.github.com/repos/donnemartin/awesome-aws/pulls{/number}",
   "created_at": "2015-10-12T12:02:47Z",
-  "updated_at": "2018-09-14T13:20:47Z",
-  "pushed_at": "2018-09-13T18:43:58Z",
+  "updated_at": "2018-09-14T21:19:22Z",
+  "pushed_at": "2018-09-14T21:19:16Z",
   "homepage": "",
-  "size": 604,
+  "size": 631,
   "stargazers_count": 6024,
   "language": "Python",
   "mirror_url": null,
@@ -69,7 +69,7 @@
     "0xmohit": 3,
     "arikfr": 3,
     "wellsjo": 4,
-    "donnemartin": 399
+    "donnemartin": 401
   },
   "pulls_authors": [
     "cplee",
@@ -152,5 +152,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-14T19:46:36.107Z"
+  "fetched_at": "2018-09-15T07:00:25.101Z"
 }

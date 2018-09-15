@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/TalAter/UpUp/languages",
   "pulls_url": "https://api.github.com/repos/TalAter/UpUp/pulls{/number}",
   "created_at": "2015-03-11T13:20:08Z",
-  "updated_at": "2018-09-11T15:05:55Z",
+  "updated_at": "2018-09-15T05:15:58Z",
   "pushed_at": "2018-09-10T19:56:09Z",
   "homepage": "https://www.talater.com/upup/",
   "size": 28702,
-  "stargazers_count": 4430,
+  "stargazers_count": 4432,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -64,5 +64,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T07:36:43.843Z"
+  "fetched_at": "2018-09-15T07:04:28.726Z"
 }

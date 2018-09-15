@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs/languages",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs/pulls{/number}",
   "created_at": "2014-06-26T08:14:34Z",
-  "updated_at": "2018-09-14T19:11:24Z",
+  "updated_at": "2018-09-15T06:39:36Z",
   "pushed_at": "2018-09-14T19:10:40Z",
   "homepage": "https://ipfs.io",
-  "size": 32769,
-  "stargazers_count": 6547,
+  "size": 32768,
+  "stargazers_count": 6549,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -521,5 +521,5 @@
       "color": "#5a6986"
     }
   },
-  "fetched_at": "2018-09-14T19:52:08.766Z"
+  "fetched_at": "2018-09-15T07:05:25.109Z"
 }

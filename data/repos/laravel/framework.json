@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/laravel/framework/languages",
   "pulls_url": "https://api.github.com/repos/laravel/framework/pulls{/number}",
   "created_at": "2013-01-10T21:27:28Z",
-  "updated_at": "2018-09-14T18:06:04Z",
-  "pushed_at": "2018-09-14T18:15:38Z",
+  "updated_at": "2018-09-15T01:03:34Z",
+  "pushed_at": "2018-09-15T06:55:15Z",
   "homepage": "http://laravel.com",
   "size": 34924,
-  "stargazers_count": 13847,
+  "stargazers_count": 13852,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -4122,5 +4122,5 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-09-14T19:42:40.562Z"
+  "fetched_at": "2018-09-15T06:57:20.615Z"
 }

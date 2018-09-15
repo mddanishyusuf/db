@@ -56,13 +56,13 @@
     "phalcon/cphalcon": {
       "full_name": "phalcon/cphalcon",
       "name": "cphalcon",
-      "stargazers_count": 9171,
-      "popularity": 4.962413159907018,
+      "stargazers_count": 9172,
+      "popularity": 4.962460517166386,
       "percentage": 19.72987288135593,
       "maturity": 4.8774976561048025,
       "total_commits_count": 7552,
       "activity": 5,
-      "total_score": 42.37024629979599,
+      "total_score": 42.37050983742604,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

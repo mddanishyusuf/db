@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/yuyang041060120/ng2-validation/languages",
   "pulls_url": "https://api.github.com/repos/yuyang041060120/ng2-validation/pulls{/number}",
   "created_at": "2016-07-14T10:31:38Z",
-  "updated_at": "2018-09-12T09:19:48Z",
+  "updated_at": "2018-09-14T23:39:57Z",
   "pushed_at": "2018-02-07T16:48:27Z",
   "homepage": "https://yuyang041060120.github.io/ng2-validation/index.html",
   "size": 4168,
-  "stargazers_count": 517,
+  "stargazers_count": 518,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -87,5 +87,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T16:52:12.688Z"
+  "fetched_at": "2018-09-15T07:45:47.160Z"
 }

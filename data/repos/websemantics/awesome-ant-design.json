@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/websemantics/awesome-ant-design",
   "languages_url": "https://api.github.com/repos/websemantics/awesome-ant-design/languages",
   "created_at": "2016-07-27T18:08:18Z",
-  "updated_at": "2018-09-14T05:21:37Z",
+  "updated_at": "2018-09-14T23:49:56Z",
   "pushed_at": "2018-09-10T08:34:30Z",
   "homepage": "http://ant.design/",
   "size": 63,
-  "stargazers_count": 1283,
+  "stargazers_count": 1284,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -45,7 +45,7 @@
     "jackple": 2
   },
   "languages": {},
-  "fetched_at": "2018-09-14T09:07:23.883Z",
+  "fetched_at": "2018-09-15T07:43:22.231Z",
   "pulls_url": "https://api.github.com/repos/websemantics/awesome-ant-design/pulls{/number}",
   "pulls_authors": [
     "tangjinzhou",

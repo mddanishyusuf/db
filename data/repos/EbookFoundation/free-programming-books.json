@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/EbookFoundation/free-programming-books",
   "languages_url": "https://api.github.com/repos/EbookFoundation/free-programming-books/languages",
   "created_at": "2013-10-11T06:50:37Z",
-  "updated_at": "2018-09-14T18:39:24Z",
+  "updated_at": "2018-09-15T06:38:06Z",
   "pushed_at": "2018-09-13T01:26:33Z",
   "homepage": "",
   "size": 4568,
-  "stargazers_count": 111190,
+  "stargazers_count": 111199,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -477,7 +477,7 @@
     "anio": 3
   },
   "languages": {},
-  "fetched_at": "2018-09-14T19:39:47.981Z",
+  "fetched_at": "2018-09-15T06:54:56.680Z",
   "pulls_url": "https://api.github.com/repos/EbookFoundation/free-programming-books/pulls{/number}",
   "pulls_authors": [
     "ryaholm",

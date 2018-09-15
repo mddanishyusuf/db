@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/paulyoung/Statusfy/languages",
   "pulls_url": "https://api.github.com/repos/paulyoung/Statusfy/pulls{/number}",
   "created_at": "2014-04-18T05:28:04Z",
-  "updated_at": "2018-09-04T00:56:35Z",
+  "updated_at": "2018-09-14T21:39:51Z",
   "pushed_at": "2018-09-05T06:00:42Z",
   "homepage": null,
   "size": 987,
-  "stargazers_count": 508,
+  "stargazers_count": 509,
   "language": "Objective-C",
   "mirror_url": null,
   "archived": false,
@@ -52,5 +52,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-08T12:40:54.391Z"
+  "fetched_at": "2018-09-15T07:07:41.012Z"
 }

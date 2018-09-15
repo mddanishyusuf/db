@@ -280,10 +280,10 @@
       "stargazers_count": 236,
       "popularity": 3.3712917011525665,
       "percentage": 0,
-      "maturity": 4.268226633106148,
-      "total_commits_count": 1887,
+      "maturity": 4.268461691877686,
+      "total_commits_count": 1888,
       "activity": 5,
-      "total_score": 23.650328369669996,
+      "total_score": 23.650798487213073,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

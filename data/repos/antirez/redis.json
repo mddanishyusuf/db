@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/antirez/redis/languages",
   "pulls_url": "https://api.github.com/repos/antirez/redis/pulls{/number}",
   "created_at": "2009-03-21T22:32:25Z",
-  "updated_at": "2018-09-14T18:35:09Z",
-  "pushed_at": "2018-09-14T10:37:33Z",
+  "updated_at": "2018-09-15T06:39:08Z",
+  "pushed_at": "2018-09-15T04:59:37Z",
   "homepage": "http://redis.io",
   "size": 74478,
-  "stargazers_count": 31560,
+  "stargazers_count": 31566,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -1249,7 +1249,8 @@
     "rikarends",
     "ankopainting",
     "moskyb",
-    "slobo"
+    "slobo",
+    "lzj0110"
   ],
   "languages": {
     "C": {
@@ -1285,5 +1286,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-14T19:45:59.125Z"
+  "fetched_at": "2018-09-15T06:59:48.381Z"
 }

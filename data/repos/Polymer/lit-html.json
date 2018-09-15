@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Polymer/lit-html/languages",
   "pulls_url": "https://api.github.com/repos/Polymer/lit-html/pulls{/number}",
   "created_at": "2017-06-29T16:27:16Z",
-  "updated_at": "2018-09-14T18:16:25Z",
-  "pushed_at": "2018-09-14T04:54:13Z",
+  "updated_at": "2018-09-15T06:19:47Z",
+  "pushed_at": "2018-09-15T06:06:10Z",
   "homepage": "https://polymer.github.io/lit-html/",
-  "size": 1426,
-  "stargazers_count": 2951,
+  "size": 1448,
+  "stargazers_count": 2952,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -177,5 +177,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:53:25.301Z"
+  "fetched_at": "2018-09-15T07:06:35.900Z"
 }

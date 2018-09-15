@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Fyrd/caniuse/languages",
   "pulls_url": "https://api.github.com/repos/Fyrd/caniuse/pulls{/number}",
   "created_at": "2012-01-22T05:30:41Z",
-  "updated_at": "2018-09-14T04:12:53Z",
+  "updated_at": "2018-09-14T21:00:41Z",
   "pushed_at": "2018-09-14T05:19:54Z",
   "homepage": "https://caniuse.com",
   "size": 75259,
-  "stargazers_count": 3260,
+  "stargazers_count": 3261,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1241,5 +1241,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:53:26.415Z"
+  "fetched_at": "2018-09-15T07:06:37.022Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pandas-dev/pandas",
   "languages_url": "https://api.github.com/repos/pandas-dev/pandas/languages",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2018-09-14T19:19:44Z",
-  "pushed_at": "2018-09-14T19:20:50Z",
+  "updated_at": "2018-09-15T06:15:54Z",
+  "pushed_at": "2018-09-15T03:21:36Z",
   "homepage": "http://pandas.pydata.org",
   "size": 130772,
-  "stargazers_count": 16004,
+  "stargazers_count": 16011,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -505,7 +505,7 @@
     "NikhilKumarM": 2,
     "HyunTruth": 2
   },
-  "fetched_at": "2018-09-14T19:51:34.230Z",
+  "fetched_at": "2018-09-15T07:04:55.264Z",
   "pulls_url": "https://api.github.com/repos/pandas-dev/pandas/pulls{/number}",
   "pulls_authors": [
     "WillAyd",
@@ -2267,6 +2267,7 @@
     "FlingeR",
     "llawall",
     "shadiakiki1986",
-    "araraonline"
+    "araraonline",
+    "ratijas"
   ]
 }

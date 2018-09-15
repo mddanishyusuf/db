@@ -45,11 +45,11 @@
       "name": "helpy",
       "stargazers_count": 1395,
       "popularity": 4.144333013048068,
-      "percentage": 0.06369426751592357,
-      "maturity": 4.186456020509105,
-      "total_commits_count": 1570,
+      "percentage": 0.06353240152477764,
+      "maturity": 4.187589875588265,
+      "total_commits_count": 1574,
       "activity": 5,
-      "total_score": 25.840227213391476,
+      "total_score": 25.842407716095593,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,13 +82,13 @@
     "adambard/learnxinyminutes-docs": {
       "full_name": "adambard/learnxinyminutes-docs",
       "name": "learnxinyminutes-docs",
-      "stargazers_count": 5551,
-      "popularity": 4.7443398961269985,
+      "stargazers_count": 5553,
+      "popularity": 4.744496367632576,
       "percentage": 0.10189525168127166,
       "maturity": 4.689006552406254,
       "total_commits_count": 4907,
       "activity": 5,
-      "total_score": 28.67387813520456,
+      "total_score": 28.67434962240274,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

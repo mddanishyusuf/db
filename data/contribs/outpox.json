@@ -30,7 +30,7 @@
     "serhii-londar/open-source-mac-os-apps": {
       "full_name": "serhii-londar/open-source-mac-os-apps",
       "name": "open-source-mac-os-apps",
-      "stargazers_count": 13932,
+      "stargazers_count": 13938,
       "popularity": 5,
       "percentage": 0.36101083032490977,
       "maturity": 3.3766671417344045,
@@ -43,7 +43,7 @@
     "vuejs/awesome-vue": {
       "full_name": "vuejs/awesome-vue",
       "name": "awesome-vue",
-      "stargazers_count": 37443,
+      "stargazers_count": 37448,
       "popularity": 5,
       "percentage": 0.023207240659085634,
       "maturity": 4.632072605917429,
@@ -56,7 +56,7 @@
     "vuejs/vue-cli": {
       "full_name": "vuejs/vue-cli",
       "name": "vue-cli",
-      "stargazers_count": 15972,
+      "stargazers_count": 15983,
       "popularity": 5,
       "percentage": 0.05515719801434087,
       "maturity": 4.2504694506844665,
@@ -69,13 +69,13 @@
     "devtools-html/debugger.html": {
       "full_name": "devtools-html/debugger.html",
       "name": "debugger.html",
-      "stargazers_count": 4004,
-      "popularity": 4.60243552687158,
+      "stargazers_count": 4003,
+      "popularity": 4.602327023777307,
       "percentage": 0.02349072116513977,
       "maturity": 4.626750177071189,
       "total_commits_count": 4257,
       "activity": 5,
-      "total_score": 28.07486182361061,
+      "total_score": 28.074535982981722,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

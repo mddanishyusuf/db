@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/processing/p5.js/languages",
   "pulls_url": "https://api.github.com/repos/processing/p5.js/pulls{/number}",
   "created_at": "2013-02-26T03:14:47Z",
-  "updated_at": "2018-09-14T19:30:40Z",
-  "pushed_at": "2018-09-14T17:17:13Z",
+  "updated_at": "2018-09-15T04:11:00Z",
+  "pushed_at": "2018-09-14T19:55:28Z",
   "homepage": "http://p5js.org/",
-  "size": 67142,
-  "stargazers_count": 8700,
+  "size": 67143,
+  "stargazers_count": 8697,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -580,5 +580,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-14T19:42:17.844Z"
+  "fetched_at": "2018-09-15T06:57:00.892Z"
 }

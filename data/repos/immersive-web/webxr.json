@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/immersive-web/webxr/languages",
   "pulls_url": "https://api.github.com/repos/immersive-web/webxr/pulls{/number}",
   "created_at": "2016-03-14T23:30:00Z",
-  "updated_at": "2018-09-13T21:43:50Z",
-  "pushed_at": "2018-09-11T23:41:31Z",
+  "updated_at": "2018-09-14T21:49:23Z",
+  "pushed_at": "2018-09-14T21:49:20Z",
   "homepage": "https://immersive-web.github.io/webxr/",
-  "size": 1624,
+  "size": 1625,
   "stargazers_count": 989,
   "language": "CSS",
   "mirror_url": null,
@@ -81,7 +81,8 @@
     "vvuk": 6,
     "dmarcos": 8,
     "cvan": 29,
-    "toji": 208
+    "toji": 208,
+    "jsantell": 1
   },
   "pulls_authors": [
     "toji",
@@ -120,7 +121,8 @@
     "kearwood",
     "wayneca",
     "D504",
-    "lincolnfrog"
+    "lincolnfrog",
+    "jsantell"
   ],
   "languages": {
     "CSS": {
@@ -136,5 +138,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-13T23:43:35.275Z"
+  "fetched_at": "2018-09-15T06:54:42.994Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-14T18:46:52Z",
-  "pushed_at": "2018-09-14T19:19:00Z",
+  "updated_at": "2018-09-15T06:58:18Z",
+  "pushed_at": "2018-09-15T06:24:59Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 512869,
-  "stargazers_count": 34371,
+  "size": 512909,
+  "stargazers_count": 34373,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -128,7 +128,7 @@
     "jimczi": 473,
     "ywelsch": 498,
     "uboness": 456,
-    "lcawl": 480,
+    "lcawl": 481,
     "colings86": 682,
     "dakrone": 721,
     "imotov": 664,
@@ -144,7 +144,7 @@
     "rjernst": 1804,
     "nik9000": 1665,
     "javanna": 1880,
-    "jasontedor": 2254,
+    "jasontedor": 2255,
     "martijnvg": 2248,
     "s1monw": 3117,
     "kimchy": 4781,
@@ -2306,5 +2306,5 @@
       "color": "#0050b2"
     }
   },
-  "fetched_at": "2018-09-14T19:44:37.599Z"
+  "fetched_at": "2018-09-15T06:58:46.339Z"
 }

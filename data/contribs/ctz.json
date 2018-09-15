@@ -17,13 +17,13 @@
     "ctz/rustls": {
       "full_name": "ctz/rustls",
       "name": "rustls",
-      "stargazers_count": 770,
-      "popularity": 3.8860218949260865,
+      "stargazers_count": 771,
+      "popularity": 3.8865862069688184,
       "percentage": 85.32526475037821,
       "maturity": 3.7948975688579156,
       "total_commits_count": 661,
       "activity": 5,
-      "total_score": 67.35272093383762,
+      "total_score": 67.36067337964403,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

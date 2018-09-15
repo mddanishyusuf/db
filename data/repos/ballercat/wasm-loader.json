@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ballercat/wasm-loader/languages",
   "pulls_url": "https://api.github.com/repos/ballercat/wasm-loader/pulls{/number}",
   "created_at": "2017-03-16T20:03:38Z",
-  "updated_at": "2018-09-14T14:08:31Z",
+  "updated_at": "2018-09-15T03:45:09Z",
   "pushed_at": "2018-02-20T00:52:08Z",
   "homepage": "",
   "size": 23,
-  "stargazers_count": 413,
+  "stargazers_count": 414,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -41,5 +41,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-14T19:38:37.287Z"
+  "fetched_at": "2018-09-15T06:53:49.923Z"
 }

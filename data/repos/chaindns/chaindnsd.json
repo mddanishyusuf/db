@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/chaindns/chaindnsd/languages",
   "pulls_url": "https://api.github.com/repos/chaindns/chaindnsd/pulls{/number}",
   "created_at": "2017-12-02T12:49:36Z",
-  "updated_at": "2017-12-15T14:54:15Z",
+  "updated_at": "2018-09-14T23:47:59Z",
   "pushed_at": "2017-12-09T21:42:27Z",
   "homepage": "",
   "size": 45,
-  "stargazers_count": 7,
+  "stargazers_count": 6,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -42,5 +42,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T10:36:10.909Z"
+  "fetched_at": "2018-09-15T06:59:26.482Z"
 }

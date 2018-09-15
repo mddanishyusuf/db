@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Automattic/jetpack/languages",
   "pulls_url": "https://api.github.com/repos/Automattic/jetpack/pulls{/number}",
   "created_at": "2013-12-16T16:43:01Z",
-  "updated_at": "2018-09-14T19:17:34Z",
-  "pushed_at": "2018-09-14T18:46:39Z",
+  "updated_at": "2018-09-15T06:49:35Z",
+  "pushed_at": "2018-09-14T20:44:52Z",
   "homepage": "https://jetpack.com/",
-  "size": 215004,
-  "stargazers_count": 845,
+  "size": 215013,
+  "stargazers_count": 857,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -63,7 +63,7 @@
     "kraftbj": 449,
     "roccotripaldi": 370,
     "MichaelArestad": 329,
-    "mdawaffe": 315,
+    "mdawaffe": 317,
     "blobaugh": 287,
     "cfinke": 252,
     "justinshreve": 248,
@@ -799,7 +799,7 @@
       "color": "#4F5D95"
     },
     "JavaScript": {
-      "bytes": 1602162,
+      "bytes": 1602834,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -811,7 +811,7 @@
       "color": "#e34c26"
     },
     "Shell": {
-      "bytes": 32168,
+      "bytes": 32266,
       "color": "#89e051"
     },
     "Hack": {
@@ -831,5 +831,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-14T19:50:31.717Z"
+  "fetched_at": "2018-09-15T07:04:00.721Z"
 }

@@ -4,13 +4,13 @@
     "sidorares/node-mysql2": {
       "full_name": "sidorares/node-mysql2",
       "name": "node-mysql2",
-      "stargazers_count": 1283,
-      "popularity": 4.107960985790891,
+      "stargazers_count": 1284,
+      "popularity": 4.108299590583461,
       "percentage": 64.7212543554007,
       "maturity": 4.046315117105853,
       "total_commits_count": 1148,
       "activity": 5,
-      "total_score": 59.97992361123091,
+      "total_score": 59.98378836610638,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,13 +121,13 @@
     "jaredpalmer/formik": {
       "full_name": "jaredpalmer/formik",
       "name": "formik",
-      "stargazers_count": 9393,
-      "popularity": 4.972801796205486,
+      "stargazers_count": 9403,
+      "popularity": 4.973263954236478,
       "percentage": 0.16286644951140064,
       "maturity": 3.7607235636392202,
       "total_commits_count": 614,
       "activity": 5,
-      "total_score": 27.545139850342245,
+      "total_score": 27.54653610954011,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -550,7 +550,7 @@
     "mysqljs/mysql": {
       "full_name": "mysqljs/mysql",
       "name": "mysql",
-      "stargazers_count": 12754,
+      "stargazers_count": 12757,
       "popularity": 5,
       "percentage": 4.13625304136253,
       "maturity": 4.078413019075899,
@@ -849,13 +849,13 @@
     "workshopper/learnyounode": {
       "full_name": "workshopper/learnyounode",
       "name": "learnyounode",
-      "stargazers_count": 5634,
-      "popularity": 4.750786548952016,
+      "stargazers_count": 5635,
+      "popularity": 4.750863638998121,
       "percentage": 0.5141388174807198,
       "maturity": 3.8698512891648966,
       "total_commits_count": 778,
       "activity": 5,
-      "total_score": 27.309595516375435,
+      "total_score": 27.30983193906182,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1265,7 +1265,7 @@
     "socketio/socket.io": {
       "full_name": "socketio/socket.io",
       "name": "socket.io",
-      "stargazers_count": 43557,
+      "stargazers_count": 43558,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.2174002087958256,

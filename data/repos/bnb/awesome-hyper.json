@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bnb/awesome-hyper/languages",
   "pulls_url": "https://api.github.com/repos/bnb/awesome-hyper/pulls{/number}",
   "created_at": "2016-07-16T19:42:56Z",
-  "updated_at": "2018-09-14T10:16:39Z",
+  "updated_at": "2018-09-14T23:32:49Z",
   "pushed_at": "2018-08-16T05:33:57Z",
   "homepage": "",
   "size": 511,
-  "stargazers_count": 6749,
+  "stargazers_count": 6751,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -404,5 +404,5 @@
     "developit"
   ],
   "languages": {},
-  "fetched_at": "2018-09-14T19:50:54.460Z"
+  "fetched_at": "2018-09-15T07:04:20.056Z"
 }

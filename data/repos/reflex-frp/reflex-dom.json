@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/reflex-frp/reflex-dom/languages",
   "pulls_url": "https://api.github.com/repos/reflex-frp/reflex-dom/pulls{/number}",
   "created_at": "2014-11-09T20:27:30Z",
-  "updated_at": "2018-09-11T02:43:41Z",
-  "pushed_at": "2018-08-29T23:06:36Z",
+  "updated_at": "2018-09-14T21:27:48Z",
+  "pushed_at": "2018-09-14T21:27:45Z",
   "homepage": "https://reflex-frp.org/",
   "size": 1650,
   "stargazers_count": 216,
@@ -94,7 +94,8 @@
     "hamishmack": 39,
     "luigy": 48,
     "ali-abrar": 69,
-    "ryantrinkle": 310
+    "ryantrinkle": 310,
+    "Ericson2314": 1
   },
   "pulls_authors": [
     "luigy",
@@ -177,9 +178,9 @@
       "color": "#555555"
     },
     "Nix": {
-      "bytes": 3179,
+      "bytes": 3285,
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-11T10:39:31.283Z"
+  "fetched_at": "2018-09-15T07:06:58.837Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/susi_server/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/susi_server/pulls{/number}",
   "created_at": "2016-09-14T20:21:09Z",
-  "updated_at": "2018-09-14T15:58:15Z",
-  "pushed_at": "2018-09-13T11:46:39Z",
+  "updated_at": "2018-09-15T03:56:17Z",
+  "pushed_at": "2018-09-15T00:51:54Z",
   "homepage": "",
-  "size": 208811,
-  "stargazers_count": 1005,
+  "size": 208818,
+  "stargazers_count": 1008,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "daminisatya": 197,
     "dynamitechetan": 133,
     "treba123": 259,
-    "Orbiter": 1605,
+    "Orbiter": 1606,
     "abhi40308": 1,
     "pushkyn": 1,
     "KeenWarrior": 1,
@@ -289,5 +289,5 @@
       "color": "#c22d40"
     }
   },
-  "fetched_at": "2018-09-14T19:38:09.243Z"
+  "fetched_at": "2018-09-15T06:53:23.898Z"
 }

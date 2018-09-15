@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/veggiemonk/awesome-docker/languages",
   "pulls_url": "https://api.github.com/repos/veggiemonk/awesome-docker/pulls{/number}",
   "created_at": "2014-09-21T17:01:48Z",
-  "updated_at": "2018-09-14T20:04:44Z",
+  "updated_at": "2018-09-15T06:11:05Z",
   "pushed_at": "2018-09-14T19:42:59Z",
   "homepage": "https://awesome-docker.netlify.com/",
   "size": 4909,
-  "stargazers_count": 12321,
+  "stargazers_count": 12323,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -514,5 +514,5 @@
     "noteed"
   ],
   "languages": {},
-  "fetched_at": "2018-09-14T20:36:49.870Z"
+  "fetched_at": "2018-09-15T07:47:31.292Z"
 }

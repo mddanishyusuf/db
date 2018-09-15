@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/doppioslash/arewegameyet/languages",
   "pulls_url": "https://api.github.com/repos/doppioslash/arewegameyet/pulls{/number}",
   "created_at": "2016-08-30T21:45:37Z",
-  "updated_at": "2018-09-04T20:43:54Z",
-  "pushed_at": "2018-09-04T20:43:52Z",
+  "updated_at": "2018-09-14T21:40:43Z",
+  "pushed_at": "2018-09-14T21:40:41Z",
   "homepage": "http://arewegameyet.rs",
-  "size": 2811,
+  "size": 2979,
   "stargazers_count": 103,
   "language": "HTML",
   "mirror_url": null,
@@ -46,7 +46,10 @@
     "jonas-schievink": 3,
     "ozkriff": 4,
     "bwasty": 18,
-    "doppioslash": 28
+    "doppioslash": 28,
+    "norru": 1,
+    "nickelc": 1,
+    "jv110": 2
   },
   "pulls_authors": [
     "zachlute",
@@ -72,13 +75,16 @@
     "kvark",
     "jacius",
     "nxnfufunezn",
-    "Jexell"
+    "Jexell",
+    "norru",
+    "jv110",
+    "nickelc"
   ],
   "languages": {
     "HTML": {
-      "bytes": 383892,
+      "bytes": 400252,
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T00:29:55.145Z"
+  "fetched_at": "2018-09-15T06:54:44.536Z"
 }

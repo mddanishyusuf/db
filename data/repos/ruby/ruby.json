@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ruby/ruby/languages",
   "pulls_url": "https://api.github.com/repos/ruby/ruby/pulls{/number}",
   "created_at": "2010-02-27T15:55:23Z",
-  "updated_at": "2018-09-14T19:25:05Z",
-  "pushed_at": "2018-09-14T13:19:53Z",
+  "updated_at": "2018-09-15T02:22:23Z",
+  "pushed_at": "2018-09-15T02:20:57Z",
   "homepage": "https://www.ruby-lang.org/",
-  "size": 179386,
-  "stargazers_count": 14769,
+  "size": 179392,
+  "stargazers_count": 14771,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -94,9 +94,9 @@
     "ko1": 2220,
     "matz": 2561,
     "nurse": 2627,
-    "matzbot": 3693,
+    "matzbot": 3694,
     "akr": 4718,
-    "nobu": 15628
+    "nobu": 15629
   },
   "pulls_authors": [
     "yumayo14",
@@ -997,7 +997,7 @@
       "color": "#701516"
     },
     "C": {
-      "bytes": 11801591,
+      "bytes": 11801733,
       "color": "#555555"
     },
     "Objective-C": {
@@ -1085,5 +1085,5 @@
       "color": "#0000fb"
     }
   },
-  "fetched_at": "2018-09-14T19:36:05.832Z"
+  "fetched_at": "2018-09-15T06:51:31.496Z"
 }

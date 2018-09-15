@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/select2/select2/languages",
   "pulls_url": "https://api.github.com/repos/select2/select2/pulls{/number}",
   "created_at": "2012-03-04T18:43:12Z",
-  "updated_at": "2018-09-14T10:35:22Z",
-  "pushed_at": "2018-09-14T18:19:29Z",
+  "updated_at": "2018-09-15T04:14:30Z",
+  "pushed_at": "2018-09-15T04:14:26Z",
   "homepage": "https://select2.org/",
-  "size": 9777,
+  "size": 9794,
   "stargazers_count": 22799,
   "language": "JavaScript",
   "mirror_url": null,
@@ -452,8 +452,9 @@
     "torke1": 1,
     "wobbie": 1,
     "yonihbc": 1,
-    "pedrofurtado": 2,
-    "charettes": 1
+    "pedrofurtado": 6,
+    "charettes": 1,
+    "stephengroat": 1
   },
   "pulls_authors": [
     "pedrofurtado",
@@ -1361,7 +1362,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 124347,
+      "bytes": 124362,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -1373,5 +1374,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-14T19:41:01.335Z"
+  "fetched_at": "2018-09-15T06:55:58.799Z"
 }

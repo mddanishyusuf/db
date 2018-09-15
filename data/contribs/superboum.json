@@ -43,13 +43,13 @@
     "cisco/ChezScheme": {
       "full_name": "cisco/ChezScheme",
       "name": "ChezScheme",
-      "stargazers_count": 4201,
-      "popularity": 4.623298718342266,
+      "stargazers_count": 4202,
+      "popularity": 4.623402107021237,
       "percentage": 0.33003300330033003,
       "maturity": 3.4218565080661945,
       "total_commits_count": 303,
       "activity": 5,
-      "total_score": 25.911968522111167,
+      "total_score": 25.912283123965988,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -225,7 +225,7 @@
     "jenkinsci/jenkins": {
       "full_name": "jenkinsci/jenkins",
       "name": "jenkins",
-      "stargazers_count": 11126,
+      "stargazers_count": 11132,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

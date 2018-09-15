@@ -173,7 +173,7 @@
     "DefinitelyTyped/DefinitelyTyped": {
       "full_name": "DefinitelyTyped/DefinitelyTyped",
       "name": "DefinitelyTyped",
-      "stargazers_count": 17410,
+      "stargazers_count": 17418,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -186,13 +186,13 @@
     "elixir-ecto/ecto": {
       "full_name": "elixir-ecto/ecto",
       "name": "ecto",
-      "stargazers_count": 3721,
-      "popularity": 4.5705937019104095,
+      "stargazers_count": 3723,
+      "popularity": 4.570827124550709,
       "percentage": 0.024366471734892786,
       "maturity": 4.610700661496089,
       "total_commits_count": 4104,
       "activity": 5,
-      "total_score": 27.947660430215812,
+      "total_score": 27.94836143753591,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -316,13 +316,13 @@
     "poteto/hiring-without-whiteboards": {
       "full_name": "poteto/hiring-without-whiteboards",
       "name": "hiring-without-whiteboards",
-      "stargazers_count": 8851,
-      "popularity": 4.946987266164001,
+      "stargazers_count": 8852,
+      "popularity": 4.947036335660171,
       "percentage": 0.17123287671232876,
       "maturity": 3.7374147260350714,
       "total_commits_count": 584,
       "activity": 5,
-      "total_score": 27.425912542445932,
+      "total_score": 27.426060843234872,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -342,13 +342,13 @@
     "h4cc/awesome-elixir": {
       "full_name": "h4cc/awesome-elixir",
       "name": "awesome-elixir",
-      "stargazers_count": 8443,
-      "popularity": 4.926489580428347,
+      "stargazers_count": 8444,
+      "popularity": 4.926541021273924,
       "percentage": 0.1145475372279496,
       "maturity": 4.233740700013547,
       "total_commits_count": 1746,
       "activity": 5,
-      "total_score": 28.320311383632372,
+      "total_score": 28.320466472183988,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,7 +641,7 @@
     "segmentio/nightmare": {
       "full_name": "segmentio/nightmare",
       "name": "nightmare",
-      "stargazers_count": 16136,
+      "stargazers_count": 16135,
       "popularity": 5,
       "percentage": 0.7100591715976331,
       "maturity": 3.9075859300176132,

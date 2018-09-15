@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-09-14T17:56:15Z",
-  "pushed_at": "2018-09-14T19:13:19Z",
+  "updated_at": "2018-09-15T05:58:08Z",
+  "pushed_at": "2018-09-15T05:42:04Z",
   "homepage": "https://rubyonrails.org",
-  "size": 166448,
-  "stargazers_count": 40825,
+  "size": 166428,
+  "stargazers_count": 40835,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -112,7 +112,7 @@
     "yui-knk": 234,
     "bogdanvlviv": 241,
     "schneems": 432,
-    "georgeclaghorn": 353,
+    "georgeclaghorn": 354,
     "chancancode": 358,
     "ffmike": 248,
     "eileencodes": 592,
@@ -133,7 +133,7 @@
     "kaspth": 1132,
     "amatsuda": 650,
     "vijaydev": 1061,
-    "y-yagi": 775,
+    "y-yagi": 777,
     "sgrif": 1214,
     "jonleighton": 959,
     "senny": 1636,
@@ -141,7 +141,7 @@
     "carlosantoniodasilva": 1449,
     "lifo": 993,
     "josh": 1109,
-    "kamipo": 1615,
+    "kamipo": 1617,
     "josevalim": 2574,
     "fxn": 2203,
     "rafaelfranca": 5750,
@@ -5242,11 +5242,12 @@
     "gkemmey",
     "ritikesh",
     "robbertbrak",
-    "cbisnett"
+    "cbisnett",
+    "jgorman"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 12114481,
+      "bytes": 12116036,
       "color": "#701516"
     },
     "HTML": {
@@ -5274,5 +5275,5 @@
       "color": "#4B6C4B"
     }
   },
-  "fetched_at": "2018-09-14T19:40:47.809Z"
+  "fetched_at": "2018-09-15T06:55:47.080Z"
 }

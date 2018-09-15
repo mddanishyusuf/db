@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/azdanov/night-app/languages",
   "pulls_url": "https://api.github.com/repos/azdanov/night-app/pulls{/number}",
   "created_at": "2018-05-31T21:54:15Z",
-  "updated_at": "2018-09-13T23:35:09Z",
-  "pushed_at": "2018-09-13T23:35:08Z",
+  "updated_at": "2018-09-15T04:38:39Z",
+  "pushed_at": "2018-09-15T04:38:38Z",
   "homepage": "https://node-night-app.herokuapp.com/",
-  "size": 5310,
+  "size": 5853,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "azdanov": 304,
-    "renovate-bot": 27
+    "renovate-bot": 29
   },
   "pulls_authors": [
     "renovate[bot]"
@@ -44,5 +44,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-13T23:42:28.852Z"
+  "fetched_at": "2018-09-15T06:53:41.891Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mail-in-a-box/mailinabox/languages",
   "pulls_url": "https://api.github.com/repos/mail-in-a-box/mailinabox/pulls{/number}",
   "created_at": "2013-08-21T13:56:50Z",
-  "updated_at": "2018-09-14T18:39:45Z",
+  "updated_at": "2018-09-14T20:24:26Z",
   "pushed_at": "2018-09-04T23:00:09Z",
   "homepage": "https://mailinabox.email/",
   "size": 2552,
-  "stargazers_count": 7435,
+  "stargazers_count": 7436,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -361,5 +361,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T19:54:05.462Z"
+  "fetched_at": "2018-09-15T07:07:12.521Z"
 }

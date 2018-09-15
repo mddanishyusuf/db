@@ -56,13 +56,13 @@
     "pimcore/pimcore": {
       "full_name": "pimcore/pimcore",
       "name": "pimcore",
-      "stargazers_count": 1057,
-      "popularity": 4.023744127574251,
+      "stargazers_count": 1059,
+      "popularity": 4.0245657993463615,
       "percentage": 0.009746588693957114,
       "maturity": 5,
       "total_commits_count": 10260,
       "activity": 5,
-      "total_score": 27.07633069399551,
+      "total_score": 27.078796750416423,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

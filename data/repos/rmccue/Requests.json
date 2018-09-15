@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rmccue/Requests/languages",
   "pulls_url": "https://api.github.com/repos/rmccue/Requests/pulls{/number}",
   "created_at": "2012-02-07T15:37:48Z",
-  "updated_at": "2018-09-14T18:55:26Z",
+  "updated_at": "2018-09-15T06:06:03Z",
   "pushed_at": "2018-09-13T15:47:16Z",
   "homepage": "http://requests.ryanmccue.info/",
   "size": 2475,
-  "stargazers_count": 2986,
+  "stargazers_count": 2985,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -158,5 +158,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-14T19:44:38.741Z"
+  "fetched_at": "2018-09-15T06:58:47.389Z"
 }

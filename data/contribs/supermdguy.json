@@ -160,13 +160,13 @@
     "yuyang041060120/ng2-validation": {
       "full_name": "yuyang041060120/ng2-validation",
       "name": "ng2-validation",
-      "stargazers_count": 517,
-      "popularity": 3.712772940149714,
+      "stargazers_count": 518,
+      "popularity": 3.7136136188664777,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 35,
-      "activity": 1.2867811770064006,
-      "total_score": 12.425099997455542,
+      "activity": 1.2807386548578337,
+      "total_score": 12.421579511457265,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -264,13 +264,13 @@
     "ironman5366/W.I.L.L": {
       "full_name": "ironman5366/W.I.L.L",
       "name": "W.I.L.L",
-      "stargazers_count": 376,
-      "popularity": 3.574186142383603,
+      "stargazers_count": 377,
+      "popularity": 3.575342411682986,
       "percentage": 0.45045045045045046,
       "maturity": 3.262045312809844,
       "total_commits_count": 222,
-      "activity": 0.9985448333921969,
-      "total_score": 18.454493074680656,
+      "activity": 0.9945209133634005,
+      "total_score": 18.45400567201348,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

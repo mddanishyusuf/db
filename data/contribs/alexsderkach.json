@@ -30,13 +30,13 @@
     "spring-projects/spring-boot": {
       "full_name": "spring-projects/spring-boot",
       "name": "spring-boot",
-      "stargazers_count": 28931,
+      "stargazers_count": 28942,
       "popularity": 5,
-      "percentage": 0.005752085130859937,
+      "percentage": 0.005751754285056942,
       "maturity": 5,
-      "total_commits_count": 17385,
+      "total_commits_count": 17386,
       "activity": 5,
-      "total_score": 30.003738855335058,
+      "total_score": 30.003738640285285,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,13 +69,13 @@
     "spring-projects/spring-security": {
       "full_name": "spring-projects/spring-security",
       "name": "spring-security",
-      "stargazers_count": 2786,
-      "popularity": 4.444879880536435,
+      "stargazers_count": 2788,
+      "popularity": 4.445191638550832,
       "percentage": 0,
       "maturity": 4.746428168704867,
       "total_commits_count": 5595,
       "activity": 5,
-      "total_score": 27.82749597901904,
+      "total_score": 27.82843125306223,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
